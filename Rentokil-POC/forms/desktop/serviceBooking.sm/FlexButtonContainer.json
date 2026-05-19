@@ -30,7 +30,7 @@
         "type": "number",
         "value": "20"
     },
-    "_skin_": "s7f545b44c04476eb7338421be7aa6d1",
+    "_skin_": "s33325132cda4ef1bfcfb9981db12081",
     "_width_": {
         "type": "string",
         "value": "97.62%"
@@ -57,7 +57,7 @@
     "info": null,
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "c85a07f0c1f44a3e8ebcd6882d3eb2bf",
+    "kuid": "g416752188d64e1fb30c633c3d55926c",
     "layouttype": 2,
     "name": "kony.ui.FlexContainer",
     "parent": "FlexFormContainer",

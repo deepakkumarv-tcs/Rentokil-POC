@@ -1,0 +1,35 @@
+{
+    "AS_TextField_ec69722c31654fcfbcfe68af7f5af1ff": {
+        "id": "AS_TextField_ec69722c31654fcfbcfe68af7f5af1ff",
+        "type": "ACTION_SEQUENCE",
+        "params": [
+            {
+                "datatype": "collection",
+                "name": "eventobject"
+            },
+            {
+                "datatype": "string",
+                "name": "changedtext"
+            }
+        ],
+        "contextObj": {
+            "name": "serviceBooking",
+            "type": "forms",
+            "platform": "",
+            "KUID": "ef1a935517044587b483850e2af903ab"
+        },
+        "language": "js",
+        "eventType": "onTextChange",
+        "actions": [
+            {
+                "id": "ADD_LOCAL_VARIABLE_h0fbf76e4e7546028be90454b2ab4cf3",
+                "type": "ADD_LOCAL_VARIABLE",
+                "name": "customerAppartment",
+                "isGlobal": false,
+                "valuetype": "expression",
+                "datatype": "string",
+                "value": "txtCustomerAppartment"
+            }
+        ]
+    }
+}

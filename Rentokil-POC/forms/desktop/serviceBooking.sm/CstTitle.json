@@ -21,7 +21,7 @@
         0,
         0
     ],
-    "_skin_": "sab708016f9a4d91889e71ff6e31c5b6",
+    "_skin_": "sca16e17e16143f5ad1022e7e4eef58d",
     "_text_": "General information",
     "_top_": {
         "type": "string",
@@ -55,7 +55,7 @@
     },
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "h2309a70d1694610b89255b1b03d2cea",
+    "kuid": "g1e751549e914fcf87b23b586a07bc62",
     "name": "kony.ui.Label",
     "parent": "FlexFormContainer",
     "pf": "serviceBooking",

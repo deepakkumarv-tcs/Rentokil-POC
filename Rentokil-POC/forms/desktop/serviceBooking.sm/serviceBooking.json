@@ -15,7 +15,7 @@
         0
     ],
     "_percent_": true,
-    "_skin_": "s2af3c9d0e6142538226889d389ab16a",
+    "_skin_": "s4816cf1e2f74363a19516c46d21722a",
     "_title_": null,
     "addWidgetsdone": false,
     "allboxes": [],
@@ -88,7 +88,7 @@
     "kiosk": {
         "needAppMenu": false
     },
-    "kuid": "b617ced61ca84384a62d02c26eab4a1a",
+    "kuid": "ef1a935517044587b483850e2af903ab",
     "layouttype": 2,
     "name": "kony.ui.Form2",
     "needappmenu": false,

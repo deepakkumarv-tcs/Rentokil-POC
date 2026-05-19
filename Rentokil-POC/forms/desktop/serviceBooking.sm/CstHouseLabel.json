@@ -21,7 +21,7 @@
         0,
         0
     ],
-    "_skin_": "sba400ec0e0546feacb35b653865aa8b",
+    "_skin_": "sfe97a68d1984712a98d0b8de7275573",
     "_text_": "House/Flat/Block No",
     "_top_": {
         "type": "string",
@@ -55,7 +55,7 @@
     },
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "gc0f93b87fc6439a865879666a1ac2f8",
+    "kuid": "i070eb79d8964f0ab518a79331180d7b",
     "name": "kony.ui.Label",
     "paddinginpixel": false,
     "parent": "FlexLBR3",

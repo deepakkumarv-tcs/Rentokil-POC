@@ -26,7 +26,7 @@
         0
     ],
     "_placeholder_": "",
-    "_skin_": "sc65dde72a234402ba4ef4f282c7b467",
+    "_skin_": "sf263873dbb44504b57c90420120714e",
     "_text_": "",
     "_width_": {
         "type": "string",
@@ -46,23 +46,23 @@
     "containerweight": 100,
     "contentalignment": 7,
     "desktopweb": {
-        "placeholderSkin": "s7e1b36f94c14c4cb681b9fe8e47dde0"
+        "placeholderSkin": "s38ccbd9130c4a29be6c904215adc48d"
     },
     "disabledSkins": {
         "blockedUISkin": "s4265d3422894a7ab34eefc4bd0af188"
     },
-    "focusskin": "s6641b06c5234fafb323686777855a4a",
+    "focusskin": "s7aa03baf94d4548829bc0c421398dae",
     "id": "TextFieldCstEmail",
     "info": null,
     "iscustomlayout": false,
     "isvisible": true,
     "keyboardtype": "A",
-    "kuid": "faa56e49c8d842db8f55000f54695c41",
+    "kuid": "b6bc0f8651184d4397b455cd654a6cd1",
     "mode": "A",
     "name": "kony.ui.TextBox2",
     "parent": "FlexLBR2",
     "pf": "serviceBooking",
-    "placeholderskin": "s7e1b36f94c14c4cb681b9fe8e47dde0",
+    "placeholderskin": "s38ccbd9130c4a29be6c904215adc48d",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
     "securetextentry": false,

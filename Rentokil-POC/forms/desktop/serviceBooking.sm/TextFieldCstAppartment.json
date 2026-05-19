@@ -26,7 +26,7 @@
         0
     ],
     "_placeholder_": "",
-    "_skin_": "sc65dde72a234402ba4ef4f282c7b467",
+    "_skin_": "sf263873dbb44504b57c90420120714e",
     "_text_": "",
     "_width_": {
         "type": "string",
@@ -46,24 +46,24 @@
     "containerweight": 100,
     "contentalignment": 7,
     "desktopweb": {
-        "placeholderSkin": "sb3ef390fb3045f883314436ccc43a3e"
+        "placeholderSkin": "scfce27f2c4e4fc6b4bb3bbe48657ffe"
     },
     "disabledSkins": {
         "blockedUISkin": "s4265d3422894a7ab34eefc4bd0af188"
     },
-    "focusskin": "s6641b06c5234fafb323686777855a4a",
+    "focusskin": "s7aa03baf94d4548829bc0c421398dae",
     "id": "TextFieldCstAppartment",
-    "ide_onTextChange": "AS_TextField_de8592cf758943799cd252e7ba0be4b4",
+    "ide_onTextChange": "AS_TextField_ec69722c31654fcfbcfe68af7f5af1ff",
     "info": null,
     "iscustomlayout": false,
     "isvisible": true,
     "keyboardtype": "A",
-    "kuid": "ffa5c71534c34fbea0582fc6826c5578",
+    "kuid": "c783773516974871a79a8e0f686b3d02",
     "mode": "A",
     "name": "kony.ui.TextBox2",
     "parent": "FlexRBR3",
     "pf": "serviceBooking",
-    "placeholderskin": "sb3ef390fb3045f883314436ccc43a3e",
+    "placeholderskin": "scfce27f2c4e4fc6b4bb3bbe48657ffe",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
     "securetextentry": false,

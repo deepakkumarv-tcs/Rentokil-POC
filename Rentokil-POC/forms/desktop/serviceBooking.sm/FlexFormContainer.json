@@ -26,7 +26,7 @@
         "type": "string",
         "value": "20px"
     },
-    "_skin_": "sb58952cf88b44ca8b79c60593ea564b",
+    "_skin_": "s92aee35b74a4c96b8e7e52a02b15af8",
     "_top_": {
         "type": "string",
         "value": "100dp"
@@ -51,14 +51,14 @@
     "containerweight": 100,
     "disabledSkins": {
         "blockedUISkin": "se10403881e545c88517e38d1704fe6e",
-        "focusSkin": "s301d8e69bfd4c97ba3f5cdf4cc5ad1f"
+        "focusSkin": "s7324a3b913d4507896b854f880a747d"
     },
     "enablescrolling": true,
     "id": "FlexFormContainer",
     "info": null,
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "hb45eb8aec434366897b2d09f467e8bd",
+    "kuid": "f6a98bee2ed04748849a2d3cd542f6de",
     "layouttype": 2,
     "name": "kony.ui.FlexContainer",
     "parent": "serviceBooking",

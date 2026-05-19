@@ -21,7 +21,7 @@
         "type": "string",
         "value": "0"
     },
-    "_skin_": "sa82f995c1ff462eaa6d36fbeef60c49",
+    "_skin_": "s70351048eb64b7881aa0d02ec2cdf80",
     "_text_": "Proceed",
     "_top_": {
         "type": "string",
@@ -36,17 +36,17 @@
     "contentalignment": 5,
     "disabledSkins": {
         "blockedUISkin": "sad650e3b554410cb830f137fe29d4c9",
-        "focusSkin": "s211c94865d24aaf932e7af15ccfc98c",
+        "focusSkin": "sb37cdfe4ae2429c931a5ae54dec78be",
         "hoverSkin": "sacac96815eb4ea785aca546c79e8734",
         "pressedSkin": "se7a1b37f11b4bf5828530c358dac47d"
     },
     "displaytext": true,
     "id": "ButtonSubmit",
-    "ide_onClick": "AS_Button_fbe1ad3ab48849f0b27256efa3c5fe2e",
+    "ide_onClick": "AS_Button_d3dd18ac0aae44fc8b6f3557c88d1fd5",
     "info": null,
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "b10935feb49d46cbbb146b9d979de410",
+    "kuid": "c51b17a687a747d0938ea6be8b0382c5",
     "name": "kony.ui.Button",
     "parent": "FlexRightButtonContainer",
     "pf": "serviceBooking",

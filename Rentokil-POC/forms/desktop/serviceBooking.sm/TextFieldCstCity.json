@@ -26,7 +26,7 @@
         0
     ],
     "_placeholder_": "",
-    "_skin_": "sc65dde72a234402ba4ef4f282c7b467",
+    "_skin_": "sf263873dbb44504b57c90420120714e",
     "_text_": "",
     "_width_": {
         "type": "string",
@@ -46,24 +46,24 @@
     "containerweight": 100,
     "contentalignment": 7,
     "desktopweb": {
-        "placeholderSkin": "se5acbf69cc54b178e82d8ee11982f1d"
+        "placeholderSkin": "s2254f86c555419895332e34c4c7dd5c"
     },
     "disabledSkins": {
         "blockedUISkin": "s4265d3422894a7ab34eefc4bd0af188"
     },
-    "focusskin": "s6641b06c5234fafb323686777855a4a",
+    "focusskin": "s7aa03baf94d4548829bc0c421398dae",
     "id": "TextFieldCstCity",
-    "ide_onTextChange": "AS_TextField_c688264974e44f95b99724a845562cfa",
+    "ide_onTextChange": "AS_TextField_i18ca8d4e99841338457606b343ae868",
     "info": null,
     "iscustomlayout": false,
     "isvisible": true,
     "keyboardtype": "A",
-    "kuid": "ee34144d5beb4695b3e9ddb69ec2bdf1",
+    "kuid": "d8ab391938164e95956087513a7d4397",
     "mode": "A",
     "name": "kony.ui.TextBox2",
     "parent": "FlexLBR4",
     "pf": "serviceBooking",
-    "placeholderskin": "se5acbf69cc54b178e82d8ee11982f1d",
+    "placeholderskin": "s2254f86c555419895332e34c4c7dd5c",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
     "securetextentry": false,

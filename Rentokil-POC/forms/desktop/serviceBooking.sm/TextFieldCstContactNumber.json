@@ -26,7 +26,7 @@
         0
     ],
     "_placeholder_": "",
-    "_skin_": "sc65dde72a234402ba4ef4f282c7b467",
+    "_skin_": "sf263873dbb44504b57c90420120714e",
     "_text_": "",
     "_width_": {
         "type": "string",
@@ -46,25 +46,25 @@
     "containerweight": 100,
     "contentalignment": 7,
     "desktopweb": {
-        "placeholderSkin": "s3fb540864294b44aa18768c072603bb"
+        "placeholderSkin": "sef1161b4fdd4fd09cc0e717d76fa881"
     },
     "disabledSkins": {
         "blockedUISkin": "s4265d3422894a7ab34eefc4bd0af188"
     },
-    "focusskin": "s6641b06c5234fafb323686777855a4a",
+    "focusskin": "s7aa03baf94d4548829bc0c421398dae",
     "id": "TextFieldCstContactNumber",
-    "ide_onTextChange": "AS_TextField_ec458bad1f8d487c92e2e8f0a7d20c36",
+    "ide_onTextChange": "AS_TextField_gbe6cb644c2a4e8eb0abf0a4823825c4",
     "info": null,
     "iscustomlayout": false,
     "isvisible": true,
     "keyboardstyle": "A",
     "keyboardtype": "A",
-    "kuid": "if4a2bfe987d49139c54990adfbb0cf0",
+    "kuid": "c45f4f2edb254783a6ac53d4c03e1609",
     "mode": "N",
     "name": "kony.ui.TextBox2",
     "parent": "FlexRBR1",
     "pf": "serviceBooking",
-    "placeholderskin": "s3fb540864294b44aa18768c072603bb",
+    "placeholderskin": "sef1161b4fdd4fd09cc0e717d76fa881",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
     "securetextentry": false,

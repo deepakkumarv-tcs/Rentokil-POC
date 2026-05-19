@@ -21,7 +21,7 @@
         0,
         0
     ],
-    "_skin_": "sba400ec0e0546feacb35b653865aa8b",
+    "_skin_": "sfe97a68d1984712a98d0b8de7275573",
     "_text_": "Pincode",
     "_top_": {
         "type": "string",
@@ -55,7 +55,7 @@
     },
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "ca16c357705e4328bfd25bc70eb87a02",
+    "kuid": "g446ff8dae0646ae833f2ca857316334",
     "name": "kony.ui.Label",
     "paddinginpixel": false,
     "parent": "FlexLBR5",

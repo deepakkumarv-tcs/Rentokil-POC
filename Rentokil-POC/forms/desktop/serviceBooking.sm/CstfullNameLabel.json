@@ -21,7 +21,7 @@
         0,
         0
     ],
-    "_skin_": "sba400ec0e0546feacb35b653865aa8b",
+    "_skin_": "sfe97a68d1984712a98d0b8de7275573",
     "_text_": "Customer Name",
     "_top_": {
         "type": "string",
@@ -55,7 +55,7 @@
     },
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "a390a35f873a49de8e5542e68130e029",
+    "kuid": "b0b87c8580ef41d1911b0a6e2ae17789",
     "name": "kony.ui.Label",
     "paddinginpixel": false,
     "parent": "FlexLBR1",

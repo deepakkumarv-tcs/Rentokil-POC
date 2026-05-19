@@ -1,0 +1,40 @@
+{
+    "AS_Label_jdbbf8d67c13432db3b0be72795e8758": {
+        "id": "AS_Label_jdbbf8d67c13432db3b0be72795e8758",
+        "type": "ACTION_SEQUENCE",
+        "params": [
+            {
+                "datatype": "collection",
+                "name": "eventobject"
+            },
+            {
+                "datatype": "string",
+                "name": "x"
+            },
+            {
+                "datatype": "string",
+                "name": "y"
+            }
+        ],
+        "contextObj": {
+            "name": "serviceBooking",
+            "type": "forms",
+            "platform": "",
+            "KUID": "ef1a935517044587b483850e2af903ab"
+        },
+        "language": "js",
+        "eventType": "onTouchStart",
+        "actions": [
+            {
+                "id": "LOADING_INDICATOR_f1a8c22a79694929a29cb3296133b055",
+                "selectedOption": "show",
+                "disabled": null,
+                "type": "LOADING_INDICATOR",
+                "skin": "none",
+                "position": "constants.LOADING_SCREEN_POSITION_FULL_SCREEN",
+                "isBlocked": "true",
+                "showProgressIndicator": "true"
+            }
+        ]
+    }
+}

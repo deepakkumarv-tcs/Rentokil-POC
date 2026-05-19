@@ -21,7 +21,7 @@
         0,
         0
     ],
-    "_skin_": "sba400ec0e0546feacb35b653865aa8b",
+    "_skin_": "sfe97a68d1984712a98d0b8de7275573",
     "_text_": "Service Description",
     "_top_": {
         "type": "string",
@@ -55,7 +55,7 @@
     },
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "fa31d558284d4ce8a53221d01df1f949",
+    "kuid": "e3a51177fbac4890ae7b75a67a7ba236",
     "name": "kony.ui.Label",
     "paddinginpixel": false,
     "parent": "FlexLBR6",

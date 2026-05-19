@@ -21,7 +21,7 @@
         0,
         0
     ],
-    "_skin_": "sba400ec0e0546feacb35b653865aa8b",
+    "_skin_": "sfe97a68d1984712a98d0b8de7275573",
     "_text_": "City",
     "_top_": {
         "type": "string",
@@ -55,7 +55,7 @@
     },
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "c0f585ebd0444d7796350945c795a69f",
+    "kuid": "a92c85b656c84ce18345a9f09c8e63d4",
     "name": "kony.ui.Label",
     "paddinginpixel": false,
     "parent": "FlexLBR4",

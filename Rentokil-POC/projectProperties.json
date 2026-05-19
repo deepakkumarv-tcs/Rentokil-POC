@@ -425,14 +425,6 @@
     "keyAliasandwear": "",
     "keyStoreFilePath": "",
     "keyStoreFilePathandwear": "",
-    "kfAppInfo": {
-        "a5e817ed-18b0-46fd-96a7-55b186020bd4": {
-            "appName": "Rentokil-POC",
-            "baseId": "f3a752a2-62cb-441c-aefc-53dab8a2d52a",
-            "id": "f3a752a2-62cb-441c-aefc-53dab8a2d52a",
-            "version": "1.0"
-        }
-    },
     "konyVizVersion": "10.0.6.0",
     "lastmodifiedtime": "1779105577240",
     "location": "false",
@@ -730,11 +722,9 @@
     "read_device_identifying_information": "false",
     "referenceWidth": "375",
     "registerForDeepLink": {
-        "androidwear": false,
         "desktop": false,
         "mobile": false,
-        "tablet": false,
-        "watch": false
+        "tablet": false
     },
     "remoteSystem": "false",
     "removableStorage": "false",

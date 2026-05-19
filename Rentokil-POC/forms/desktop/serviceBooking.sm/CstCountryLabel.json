@@ -21,7 +21,7 @@
         0,
         0
     ],
-    "_skin_": "sba400ec0e0546feacb35b653865aa8b",
+    "_skin_": "sfe97a68d1984712a98d0b8de7275573",
     "_text_": "Country",
     "_top_": {
         "type": "string",
@@ -42,7 +42,7 @@
     "containerweight": 100,
     "contentalignment": 5,
     "id": "CstCountryLabel",
-    "ide_onTouchStart": "AS_Label_bed4af43f81b441f87a076564685e36e",
+    "ide_onTouchStart": "AS_Label_jdbbf8d67c13432db3b0be72795e8758",
     "info": null,
     "ipad": {
         "psp": {
@@ -56,7 +56,7 @@
     },
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "e7cb854297c24662b50cce8673a68c35",
+    "kuid": "aa23702f4e9c48e99889044e60b6cd91",
     "name": "kony.ui.Label",
     "paddinginpixel": false,
     "parent": "FlexRBR5",

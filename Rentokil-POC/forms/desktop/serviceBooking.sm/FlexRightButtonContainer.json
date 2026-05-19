@@ -26,7 +26,7 @@
         "type": "string",
         "value": "0"
     },
-    "_skin_": "sb2369dc8e4d4f31ad33e42ef8c1c73c",
+    "_skin_": "s60df15908194245be3f679c8bc82c31",
     "_width_": {
         "type": "string",
         "value": "39.12%"
@@ -50,7 +50,7 @@
     "info": null,
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "bd4758c34d734c9e993f27e601e8224e",
+    "kuid": "j17c7b6ae458499aaa06d0c28eb949d1",
     "layouttype": 2,
     "name": "kony.ui.FlexContainer",
     "parent": "FlexButtonContainer",

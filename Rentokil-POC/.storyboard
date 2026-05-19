@@ -22,26 +22,13 @@
                     {
                         "formKUID": "eb3608449dda4959ba666a2c2bbec4d2",
                         "formName": "Form1",
-                        "isStartupForm": false,
-                        "key": "eb3608449dda4959ba666a2c2bbec4d2",
-                        "loc": "8 524.8452636718749",
-                        "thumbnailURL": "/assets/Rentokil-POC/forms/desktop/Form1.sm/.thumbs/default.jpeg"
-                    },
-                    {
-                        "formKUID": "b617ced61ca84384a62d02c26eab4a1a",
-                        "formName": "serviceBooking",
                         "isStartupForm": true,
-                        "key": "b617ced61ca84384a62d02c26eab4a1a",
-                        "loc": "318 304.845263671875",
-                        "thumbnailURL": "/assets/Rentokil-POC/forms/desktop/serviceBooking.sm/.thumbs/default.jpeg"
+                        "key": "eb3608449dda4959ba666a2c2bbec4d2",
+                        "loc": "8 25.026806640625",
+                        "thumbnailURL": null
                     }
                 ]
             }
-        },
-        "mobile": {
-            "class": "GraphLinksModel",
-            "linkDataArray": [],
-            "nodeDataArray": []
         }
     }
 }

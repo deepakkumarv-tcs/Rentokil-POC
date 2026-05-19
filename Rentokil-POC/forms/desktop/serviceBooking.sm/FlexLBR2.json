@@ -22,7 +22,7 @@
         0
     ],
     "_percent_": true,
-    "_skin_": "sa9dca8eae2841558a84155e7ab74019",
+    "_skin_": "s5746338d8c24c9ba9bd1e2dbbfa62b4",
     "_top_": {
         "type": "string",
         "value": "16%"
@@ -50,7 +50,7 @@
     "info": null,
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "hcc1b96b2a6e4ab7af52964ef5ff6dc3",
+    "kuid": "eb2a7cba2d2248978f5cea26f07a4814",
     "layouttype": 2,
     "name": "kony.ui.FlexContainer",
     "parent": "FlexLeftBoxContainer",

@@ -21,7 +21,7 @@
         0,
         0
     ],
-    "_skin_": "sba400ec0e0546feacb35b653865aa8b",
+    "_skin_": "sfe97a68d1984712a98d0b8de7275573",
     "_text_": "Email ID",
     "_top_": {
         "type": "string",
@@ -55,7 +55,7 @@
     },
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "cfe3604d33194b7b86d4e886a662acc5",
+    "kuid": "fd650fab79ee4d2184d1a234371388c8",
     "name": "kony.ui.Label",
     "paddinginpixel": false,
     "parent": "FlexLBR2",

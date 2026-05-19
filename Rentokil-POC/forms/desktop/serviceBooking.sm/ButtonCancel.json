@@ -21,7 +21,7 @@
         0,
         0
     ],
-    "_skin_": "sfc5028d02f04d86acb0e167db5fdfbb",
+    "_skin_": "sd37d692de954786aa9fb952c9dcfd8c",
     "_text_": "Cancel",
     "_top_": {
         "type": "string",
@@ -40,17 +40,17 @@
     "contentalignment": 5,
     "disabledSkins": {
         "blockedUISkin": "sad650e3b554410cb830f137fe29d4c9",
-        "focusSkin": "s211c94865d24aaf932e7af15ccfc98c",
+        "focusSkin": "sb37cdfe4ae2429c931a5ae54dec78be",
         "hoverSkin": "sacac96815eb4ea785aca546c79e8734",
         "pressedSkin": "se7a1b37f11b4bf5828530c358dac47d"
     },
     "displaytext": true,
     "id": "ButtonCancel",
-    "ide_onClick": "AS_Button_c144ef5f12e34d2485fbd5c815276144",
+    "ide_onClick": "AS_Button_e6768fd38f0d4fc9b1bad91215915685",
     "info": null,
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "gc6701e293714a58b6475aa86ea6e69e",
+    "kuid": "ef0e211752e0447998316771b6912026",
     "name": "kony.ui.Button",
     "parent": "FlexRightButtonContainer",
     "pf": "serviceBooking",

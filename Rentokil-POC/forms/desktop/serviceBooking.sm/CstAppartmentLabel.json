@@ -21,7 +21,7 @@
         0,
         0
     ],
-    "_skin_": "sba400ec0e0546feacb35b653865aa8b",
+    "_skin_": "sfe97a68d1984712a98d0b8de7275573",
     "_text_": "Appartment/Road/Area",
     "_top_": {
         "type": "string",
@@ -55,7 +55,7 @@
     },
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "fdd06d71e506444887f87ed579ef4cef",
+    "kuid": "hac553c458094ec5a2d3793638f21ba5",
     "name": "kony.ui.Label",
     "paddinginpixel": false,
     "parent": "FlexRBR3",

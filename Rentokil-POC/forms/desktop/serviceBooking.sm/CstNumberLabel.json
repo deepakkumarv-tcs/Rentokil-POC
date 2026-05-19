@@ -21,7 +21,7 @@
         0,
         0
     ],
-    "_skin_": "sba400ec0e0546feacb35b653865aa8b",
+    "_skin_": "sfe97a68d1984712a98d0b8de7275573",
     "_text_": "Contact Number",
     "_top_": {
         "type": "string",
@@ -55,7 +55,7 @@
     },
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "ca7f9aa4b7f74d60941ad749c1e19586",
+    "kuid": "e98941f1828c487a8200d6b1b8849b93",
     "name": "kony.ui.Label",
     "paddinginpixel": false,
     "parent": "FlexRBR1",
