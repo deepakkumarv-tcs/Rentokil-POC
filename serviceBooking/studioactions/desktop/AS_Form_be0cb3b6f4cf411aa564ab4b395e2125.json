@@ -1,0 +1,127 @@
+{
+    "AS_Form_be0cb3b6f4cf411aa564ab4b395e2125": {
+        "id": "AS_Form_be0cb3b6f4cf411aa564ab4b395e2125",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "serviceBooking",
+            "type": "forms",
+            "platform": "",
+            "KUID": "j839ebd0b5aa4cf697205926527db37f"
+        },
+        "language": "js",
+        "eventType": "onMapping",
+        "actions": [{
+            "id": "LOADING_INDICATOR_cf4241f30f804d5d80f860d32bf88b1f",
+            "selectedOption": "show",
+            "disabled": null,
+            "type": "LOADING_INDICATOR",
+            "skin": "none",
+            "position": "constants.LOADING_SCREEN_POSITION_FULL_SCREEN",
+            "isBlocked": "true",
+            "showProgressIndicator": "true"
+        }, {
+            "id": "INVOKE_ASYNC_SERVICE_jaf0e7394b8244839eb5f53284dc595e",
+            "type": "INVOKE_ASYNC_SERVICE",
+            "inputparams": null,
+            "httpheaders": null,
+            "httpconfigs": null,
+            "isasynchronous": true,
+            "mappings": {
+                "ME_Mapping_f47fb9a9a296441296853afee4c3e219": {
+                    "channel": "desktop",
+                    "id": "ME_Mapping_f47fb9a9a296441296853afee4c3e219",
+                    "type": "MAPPING",
+                    "callbackType": null,
+                    "rectified": true,
+                    "source": {
+                        "type": "Forms",
+                        "propertyName": "text",
+                        "widgetId": "TextFieldCstFullName",
+                        "widgetPath": "this.view.TextFieldCstFullName",
+                        "widgetType": "TextField",
+                        "dataType": "string",
+                        "itemId": "serviceBooking",
+                        "widgetKUID": "ac4513265e2641d2a3784dbbf9ad8d0f",
+                        "itemKUID": "j839ebd0b5aa4cf697205926527db37f",
+                        "forkedPlatform": "all"
+                    },
+                    "target": {
+                        "type": "Services",
+                        "propertyName": "customer_name",
+                        "dataType": "string",
+                        "forkedPlatform": "all",
+                        "serviceconfig": {
+                            "servicename": "NewService",
+                            "type": "integration",
+                            "operationname": "rentokil_db_service_request_trx_create",
+                            "serviceid": "c8a560bf-346c-4404-9f7c-d2da074250e0",
+                            "operationid": "27"
+                        }
+                    }
+                }
+            },
+            "mappingsOrder": ["ME_Mapping_f47fb9a9a296441296853afee4c3e219"],
+            "serviceconfig": {
+                "servicename": "NewService",
+                "type": "integration",
+                "operationname": "rentokil_db_service_request_trx_create",
+                "serviceid": "c8a560bf-346c-4404-9f7c-d2da074250e0",
+                "operationid": "27"
+            },
+            "enableMappingEditor": true
+        }, {
+            "id": "LOADING_INDICATOR_d31fb8610e22442aa46e3f07514dddfc",
+            "selectedOption": "dismiss",
+            "parentId": "INVOKE_ASYNC_SERVICE_jaf0e7394b8244839eb5f53284dc595e",
+            "disabled": null,
+            "type": "LOADING_INDICATOR",
+            "callbackType": "Callback",
+            "skin": "none",
+            "position": "constants.LOADING_SCREEN_POSITION_FULL_SCREEN",
+            "isBlocked": "true",
+            "showProgressIndicator": "true"
+        }, {
+            "id": "_IF_CONDITION_c294567201e54c77ae753cb4724cfc4a",
+            "type": "IF_CONDITION",
+            "conditions": [{
+                "leftValue": "rentokil_db_service_request_trx_create.opstatus",
+                "rightValue": "0",
+                "leftValueType": "value",
+                "rightValueType": "value",
+                "operator": "==="
+            }],
+            "parentId": "INVOKE_ASYNC_SERVICE_jaf0e7394b8244839eb5f53284dc595e",
+            "callbackType": "Callback",
+            "criteria": "all"
+        }, {
+            "id": "_ELSE_CONDITION_e7626dac44414ed48a8db5d41296a665",
+            "type": "ELSE_CONDITION",
+            "conditions": [],
+            "parentId": "INVOKE_ASYNC_SERVICE_jaf0e7394b8244839eb5f53284dc595e",
+            "callbackType": "Callback",
+            "criteria": "all"
+        }, {
+            "id": "SHOW_ALERT_hfb6c89d440d4399a6abe1daa22ee7b0",
+            "type": "SHOW_ALERT",
+            "alertType": "constants.ALERT_TYPE_INFO",
+            "alertTitle": null,
+            "yesLabel": null,
+            "noLabel": null,
+            "alertIcon": null,
+            "alertMessage": "Data fetch failed! Please try again later.",
+            "messageType": "constant",
+            "alertHandler": null,
+            "parentId": "_ELSE_CONDITION_e7626dac44414ed48a8db5d41296a665",
+            "alertTitlei18n": null,
+            "yesLabeli18n": null,
+            "noLabeli18n": null,
+            "alertMessagei18n": null,
+            "iconPosition": "constants.ALERT_ICON_POSITION_LEFT",
+            "disabled": null
+        }]
+    }
+}

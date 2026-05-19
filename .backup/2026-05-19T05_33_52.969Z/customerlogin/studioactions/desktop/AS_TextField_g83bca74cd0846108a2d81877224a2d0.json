@@ -1,0 +1,32 @@
+{
+    "AS_TextField_g83bca74cd0846108a2d81877224a2d0": {
+        "id": "AS_TextField_g83bca74cd0846108a2d81877224a2d0",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "changedtext"
+        }],
+        "contextObj": {
+            "name": "Form1",
+            "type": "forms",
+            "platform": "",
+            "KUID": "j839ebd0b5aa4cf697205926527db37f"
+        },
+        "language": "js",
+        "eventType": "onTextChange",
+        "actions": [{
+            "id": "ADD_LOCAL_VARIABLE_e214a93479654102a4c2c20edfba4a6a",
+            "type": "ADD_LOCAL_VARIABLE",
+            "name": "customerEmail",
+            "isGlobal": false,
+            "valuetype": "expression",
+            "datatype": "string",
+            "value": "txtCustomerEmail",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

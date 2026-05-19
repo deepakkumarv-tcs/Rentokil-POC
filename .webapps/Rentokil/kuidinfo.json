@@ -1,0 +1,154 @@
+{
+    "idToKuidMapping": {
+        "androidwear": {},
+        "desktop": {
+            "Form1": "c58058b5ad1146979af5e4315fef2110",
+            "SampleRowTemplate": "dd4c3c3eb5214a2d9cdb5e0acc4c149b",
+            "SampleSectionHeaderTemplate": "ebedcb9c095d41dfae2aacfc8d4d6c51",
+            "frmBooking": "b2b5c4b81c314983b784ac7e57221a39"
+        },
+        "masters": {},
+        "mobile": {},
+        "skins": {
+            "CopydefLabel0d3f53085fb4045": "s6d84a01b3714befb74924ba80f552a8",
+            "CopydefLabel0dda5a3d6377e4a": "s306b413c2894ab39f45add6d54a8536",
+            "CopydefLabel0ddbfb5d5172044": "sff34e5408044de4a5f663a3041c04bd",
+            "CopydefLabel0h07bcf3cbfe34e": "sc94b78cf1e04c02866a14c5e733ffa8",
+            "CopydefLabel0he825ba90cfa42": "s8fee546cf8d4040b5dd6786a98314b4",
+            "CopydefLabel0j55906a981f546": "sd1c2317e3654d09bd541975c9df4485",
+            "CopyslFbox0ae4610af24f94b": "s1a2637002334db29cf92342e82fdef8",
+            "CopyslFbox0c72806c675c54c": "s00134ce16964c7eb62d3888946a018a",
+            "CopyslFbox0c74317948c5543": "s1e415227d744e75999f3aec42c867c5",
+            "CopyslFbox0cee2358204324c": "s9a9198d272048449e211a0211b5fdf5",
+            "CopyslFbox0e086f54d68744e": "s67333e77f9a4ccfa7c4b7aca81b7069",
+            "CopyslFbox0f7601fb13ef444": "s7dfb29893ae43f6b7ed7866ec9a13c7",
+            "CopyslFbox0hfa72fcff73741": "s3a305ddee3a44a596ad596d0a9690c5",
+            "CopyslFbox0i50b2a8002fd47": "sf495ca78bbe40dbbdf346dffd22dd5f",
+            "CopyslFbox0iaba2e257f434d": "s8e78c0097664442a6421d5d46c97629",
+            "CopyslFbox0jb4e5b9ffa5743": "s0c95e2ef85346d382d25bf454f0bcd7",
+            "CopyslForm0i0856960549343": "s29041ee6c904a15a424209d1aedaccf",
+            "defBtnBlockedUI": "sad650e3b554410cb830f137fe29d4c9",
+            "defBtnFocus": "sc54b46e597c4b1faef2c50de295a4a5",
+            "defBtnHover": "sacac96815eb4ea785aca546c79e8734",
+            "defBtnNormal": "s863c6a2fc5a44b5baa9db4bb125afc8",
+            "defBtnPressed": "se7a1b37f11b4bf5828530c358dac47d",
+            "defLabel": "s2dd8ef2c303471b8d81675da022bdd8",
+            "defListBoxFocus": "s249ec72cdac42be9266706caeebb5ee",
+            "defListBoxNormal": "sd4819035c134ddeaf140e3c25b9f0f6",
+            "defTextAreaBlockedUI": "s31be43304804967ad6bbe27b0fde352",
+            "defTextAreaHover": "s3969463ae1946eebf26633fd316cecc",
+            "defTextBoxBlockedUI": "s4265d3422894a7ab34eefc4bd0af188",
+            "defTextBoxFocus": "sdeba0d5d3a447cf84962083f97bf90f",
+            "defTextBoxNormal": "s92e13ae4e1e4b0a91bd7ae575c611db",
+            "defTextBoxPlaceholder": "s08c4dcd559e4293b81855430bd1f520",
+            "sknLblDescription": "s142fb60d8da4ee9b8eae69fb0604498",
+            "sknLblRowHeading": "sbe47d88eca24383ba3ef2136f948239",
+            "sknLblStrip": "sdcd72eead4243b9bf1050f7c6b879d6",
+            "sknLblTimeStamp": "sfe0198d49464b6fb40f0f63511daeda",
+            "sknSampleRowTemplate": "s02d58e97add40278891b0dad7afdbc4",
+            "sknSampleSectionHeaderTemplate": "s111d1417c1f435caaa1b8a0d4bc530b",
+            "sknSectionHeaderLabelSkin": "s09b687d3b5c41be9928aa2382abb261",
+            "slCameraFocus": "sea51c6a38334ed3906c0be8e256cb99",
+            "slDynamicNotificationForm": "sb34113077724a2c86c4fe0ad0ab9f6a",
+            "slFBlockedUIbox": "se10403881e545c88517e38d1704fe6e",
+            "slFFocusbox": "s055b30cc8544a4092521d1a3c930a38",
+            "slFSBlockedUIbox": "s4a31468fb624fe9b00cafc228a8ee66",
+            "slFSFocusSbox": "s50473dc54ea429da8f631a3be7bfda1",
+            "slFSbox": "sca286b8eb344cddb0a8554f7248a7ea",
+            "slFbox": "se3d64e0f16a4d20b59fa1c0f53dee5c",
+            "slForm": "sfb2ef18e9bd42b783787f3aa707be2e",
+            "slSplashiOS": "s265674fb9e74e60b6893921e51732bb",
+            "slStaticNotificationForm": "s6653b966ca14ad0972c8635408ec6ba",
+            "slTitleBar": "sff7a0c027a243b38331fb0c9c419466",
+            "slWatchForm": "s1c82f701d6a457c878e887c649eb543"
+        },
+        "tablet": {},
+        "userwidgets": {}
+    },
+    "kuidDependencyMap": {
+        "s02d58e97add40278891b0dad7afdbc4": [
+            "dd4c3c3eb5214a2d9cdb5e0acc4c149b"
+        ],
+        "s09b687d3b5c41be9928aa2382abb261": [
+            "ebedcb9c095d41dfae2aacfc8d4d6c51"
+        ],
+        "s111d1417c1f435caaa1b8a0d4bc530b": [
+            "ebedcb9c095d41dfae2aacfc8d4d6c51"
+        ],
+        "s142fb60d8da4ee9b8eae69fb0604498": [
+            "dd4c3c3eb5214a2d9cdb5e0acc4c149b"
+        ],
+        "s1a2637002334db29cf92342e82fdef8": [
+            "b2b5c4b81c314983b784ac7e57221a39"
+        ],
+        "s29041ee6c904a15a424209d1aedaccf": [
+            "b2b5c4b81c314983b784ac7e57221a39"
+        ],
+        "s3a305ddee3a44a596ad596d0a9690c5": [
+            "b2b5c4b81c314983b784ac7e57221a39"
+        ],
+        "s863c6a2fc5a44b5baa9db4bb125afc8": [
+            "b2b5c4b81c314983b784ac7e57221a39"
+        ],
+        "s8e78c0097664442a6421d5d46c97629": [
+            "b2b5c4b81c314983b784ac7e57221a39"
+        ],
+        "sbe47d88eca24383ba3ef2136f948239": [
+            "dd4c3c3eb5214a2d9cdb5e0acc4c149b"
+        ],
+        "sc54b46e597c4b1faef2c50de295a4a5": [
+            "b2b5c4b81c314983b784ac7e57221a39"
+        ],
+        "sdcd72eead4243b9bf1050f7c6b879d6": [
+            "dd4c3c3eb5214a2d9cdb5e0acc4c149b"
+        ],
+        "sfb2ef18e9bd42b783787f3aa707be2e": [
+            "c58058b5ad1146979af5e4315fef2110"
+        ],
+        "sfe0198d49464b6fb40f0f63511daeda": [
+            "dd4c3c3eb5214a2d9cdb5e0acc4c149b"
+        ]
+    },
+    "kuidInfo": {
+        "androidwear": {},
+        "desktop": {
+            "b2b5c4b81c314983b784ac7e57221a39": {
+                "appName": "Rentokil",
+                "id": "frmBooking",
+                "relFormId": "frmBooking",
+                "templateType": "forms",
+                "widgetInfo": {
+                    "mapWgtPltfrms": [],
+                    "videoWgtPltfrms": []
+                }
+            },
+            "c58058b5ad1146979af5e4315fef2110": {
+                "appName": "Rentokil",
+                "id": "Form1",
+                "relFormId": "Form1",
+                "templateType": "forms",
+                "widgetInfo": {
+                    "mapWgtPltfrms": [],
+                    "videoWgtPltfrms": []
+                }
+            },
+            "dd4c3c3eb5214a2d9cdb5e0acc4c149b": {
+                "appName": "Rentokil",
+                "id": "SampleRowTemplate",
+                "templateType": "segments",
+                "topFlexId": "flxSampleRowTemplate"
+            },
+            "ebedcb9c095d41dfae2aacfc8d4d6c51": {
+                "appName": "Rentokil",
+                "id": "SampleSectionHeaderTemplate",
+                "templateType": "segments",
+                "topFlexId": "flxSectionHeaderTemplate"
+            }
+        },
+        "masters": {},
+        "mobile": {},
+        "tablet": {},
+        "userwidgets": {}
+    },
+    "userWidgetsKuidToIdMap": {}
+}

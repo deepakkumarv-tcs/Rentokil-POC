@@ -1,0 +1,159 @@
+{
+    "exportType": "component",
+    "info": {
+        "isLocked": false,
+        "userwidgets": [],
+        "templates": [],
+        "actions": {
+            "desktop": {
+                "AS_Button_a40ae1bdbeb4456cac761c7cf4ab5f81": {
+                    "channel": "desktop",
+                    "actionId": "AS_Button_a40ae1bdbeb4456cac761c7cf4ab5f81",
+                    "actionName": "AS_Button_a40ae1bdbeb4456cac761c7cf4ab5f81",
+                    "key": "ide_onClick"
+                },
+                "AS_Button_c62d4ddc8d2346578e5bd510bc8e5588": {
+                    "channel": "desktop",
+                    "actionId": "AS_Button_c62d4ddc8d2346578e5bd510bc8e5588",
+                    "actionName": "AS_Button_c62d4ddc8d2346578e5bd510bc8e5588",
+                    "key": "ide_onClick"
+                },
+                "AS_Label_d05d0318bd0f4bf6a7bf0bf765e1467d": {
+                    "channel": "desktop",
+                    "actionId": "AS_Label_d05d0318bd0f4bf6a7bf0bf765e1467d",
+                    "actionName": "AS_Label_d05d0318bd0f4bf6a7bf0bf765e1467d",
+                    "key": "ide_onTouchStart"
+                },
+                "AS_ListBox_e027052228c14343aadf1432b3152c90": {
+                    "channel": "desktop",
+                    "actionId": "AS_ListBox_e027052228c14343aadf1432b3152c90",
+                    "actionName": "AS_ListBox_e027052228c14343aadf1432b3152c90",
+                    "key": "ide_onSelection"
+                },
+                "AS_ListBox_dde8078d79cc43d981d9fa7848853e59": {
+                    "channel": "desktop",
+                    "actionId": "AS_ListBox_dde8078d79cc43d981d9fa7848853e59",
+                    "actionName": "AS_ListBox_dde8078d79cc43d981d9fa7848853e59",
+                    "key": "ide_onSelection"
+                },
+                "AS_ListBox_e882492fc84c4f8289dd686ae0295b9f": {
+                    "channel": "desktop",
+                    "actionId": "AS_ListBox_e882492fc84c4f8289dd686ae0295b9f",
+                    "actionName": "AS_ListBox_e882492fc84c4f8289dd686ae0295b9f",
+                    "key": "ide_onSelection"
+                },
+                "AS_TextArea_eca1f2b369cb494ab93c0b0c0b3c47e9": {
+                    "channel": "desktop",
+                    "actionId": "AS_TextArea_eca1f2b369cb494ab93c0b0c0b3c47e9",
+                    "actionName": "AS_TextArea_eca1f2b369cb494ab93c0b0c0b3c47e9",
+                    "key": "ide_onTextChange"
+                },
+                "AS_TextField_i6ff08d6ebc5495986582f5f452bb262": {
+                    "channel": "desktop",
+                    "actionId": "AS_TextField_i6ff08d6ebc5495986582f5f452bb262",
+                    "actionName": "AS_TextField_i6ff08d6ebc5495986582f5f452bb262",
+                    "key": "ide_onTextChange"
+                },
+                "AS_TextField_c6413755635f451592cb2b3ec8e18d1a": {
+                    "channel": "desktop",
+                    "actionId": "AS_TextField_c6413755635f451592cb2b3ec8e18d1a",
+                    "actionName": "AS_TextField_c6413755635f451592cb2b3ec8e18d1a",
+                    "key": "ide_onTextChange"
+                },
+                "AS_TextField_b6dc147f364647369a906e656678d4d6": {
+                    "channel": "desktop",
+                    "actionId": "AS_TextField_b6dc147f364647369a906e656678d4d6",
+                    "actionName": "AS_TextField_b6dc147f364647369a906e656678d4d6",
+                    "key": "ide_onTextChange"
+                },
+                "AS_TextField_c6548104b0234e019518feeca8c90dc1": {
+                    "channel": "desktop",
+                    "actionId": "AS_TextField_c6548104b0234e019518feeca8c90dc1",
+                    "actionName": "AS_TextField_c6548104b0234e019518feeca8c90dc1",
+                    "key": "ide_onTextChange"
+                },
+                "AS_TextField_ff2904b8288d4d5ca15b3edb3fbbc6df": {
+                    "channel": "desktop",
+                    "actionId": "AS_TextField_ff2904b8288d4d5ca15b3edb3fbbc6df",
+                    "actionName": "AS_TextField_ff2904b8288d4d5ca15b3edb3fbbc6df",
+                    "key": "ide_onTextChange"
+                },
+                "AS_TextField_ee4cdceb874f477c89f86223c1494fdd": {
+                    "channel": "desktop",
+                    "actionId": "AS_TextField_ee4cdceb874f477c89f86223c1494fdd",
+                    "actionName": "AS_TextField_ee4cdceb874f477c89f86223c1494fdd",
+                    "key": "ide_onTextChange"
+                }
+            }
+        },
+        "skins": [
+            "CopydefBtnNormal0c81365fee1434d",
+            "defBtnBlockedUI",
+            "defBtnFocus",
+            "defBtnHover",
+            "defBtnPressed",
+            "CopydefBtnNormal0f740fef529b049",
+            "CopydefLabel0bcbdedba55754f",
+            "CopydefLabel0fa216f2fffca40",
+            "CopyslFbox0fefa3fe6629949",
+            "slFBlockedUIbox",
+            "slFFocusbox",
+            "CopyslFbox0a5402e4bab254b",
+            "CopyslFbox0ha1266afa03742",
+            "CopyslFFocusbox0d8042080473a4e",
+            "CopyslFbox0daa9762b63ac41",
+            "CopyslFbox0b24327a38b394a",
+            "CopyslFbox0f61de43d503649",
+            "CopyslFbox0ga36ab7ba47a49",
+            "CopyslFbox0b9888c5336e349",
+            "CopyslFbox0bea8397d74064c",
+            "CopyslFbox0g5540388ece241",
+            "CopyslFbox0b18754cedbfa4b",
+            "CopyslFbox0ae338992c3a449",
+            "CopyslFbox0f4f8607803d649",
+            "CopyslFbox0h712666f3cd64c",
+            "CopydefListBoxNormal0gc435b74cf9942",
+            "defListBoxFocus",
+            "CopydefListBoxNormal0e721fbdd56a949",
+            "CopydefListBoxNormal0ef6873927a9640",
+            "CopydefTextAreaNormal0bda690ce98f540",
+            "defTextAreaBlockedUI",
+            "defTextAreaHover",
+            "defTextAreaFocus",
+            "defTextAreaPlaceholder",
+            "TextFieldPincode",
+            "CopydefTextBoxPlaceholder0g762f8b11c6644",
+            "defTextBoxBlockedUI",
+            "defTextBoxFocus",
+            "CopydefTextBoxPlaceholder0fdcea79d948c4a",
+            "CopydefTextBoxPlaceholder0a062ec31146044",
+            "CopydefTextBoxPlaceholder0fecf48d9ccf541",
+            "CopydefTextBoxPlaceholder0g36c304a09fc4a",
+            "CopydefTextBoxPlaceholder0d403a91e4e4b4f",
+            "CopydefTextBoxPlaceholder0j48fa5f313c348",
+            "CopyslForm0d6543377233d46",
+            "slTitleBar"
+        ],
+        "images": [
+            "listboxarw.png"
+        ],
+        "fonts": [],
+        "nativeApis": 0,
+        "mfbundle": "services/services.zip",
+        "localFiles": [],
+        "cordova": [],
+        "forms": {
+            "forms\\desktop\\serviceBooking": {
+                "id": "serviceBooking",
+                "kuid": "j839ebd0b5aa4cf697205926527db37f",
+                "channel": "desktop",
+                "folderPath": "forms\\desktop"
+            }
+        },
+        "type": "forms",
+        "isMVC": true
+    },
+    "createdOn": "2026-05-18T13:40:02.015Z",
+    "createdVizVersion": "10.0.6.0",
+    "project_version": "sprint49"
+}

@@ -1,0 +1,311 @@
+{
+    "idToKuidMapping": {
+        "androidwear": {},
+        "desktop": {
+            "CopyForm1": "e58e0d224a2246e4b6ec50ae82574624",
+            "Form1": "j839ebd0b5aa4cf697205926527db37f",
+            "SampleRowTemplate": "c6eab5952ea240089ad0c40ac5f09fd6",
+            "SampleSectionHeaderTemplate": "b0191354d32c417d81b54afe3a144f49"
+        },
+        "masters": {},
+        "mobile": {},
+        "skins": {
+            "CopydefBtnNormal0c81365fee1434d": "s68f0b41cae640c4990ba54e731cad88",
+            "CopydefBtnNormal0f740fef529b049": "s2e4161bfc194d55aca8725f6ccdb421",
+            "CopydefLabel0b0d22f6b26a341": "sd2fc25611294d7cb140da7f26f5af98",
+            "CopydefLabel0bcbdedba55754f": "scbe2d0233c841cf8154e08ef402e971",
+            "CopydefLabel0eac9f182d1af44": "sf36ecb93bab4e3b8a663b0cf2cb0c82",
+            "CopydefLabel0fa216f2fffca40": "sfdd1481e46548dda6e36ca4286f1571",
+            "CopydefListBoxNormal0bc5a5fde60844c": "s04586dd9de54249a6d242a527cf52f3",
+            "CopydefListBoxNormal0cefb6bae4e7a47": "sc44fd967a544b858d7ef5ff206be4b0",
+            "CopydefListBoxNormal0e721fbdd56a949": "s3c465dedf964a8083a59c78bb6d671c",
+            "CopydefListBoxNormal0ec5e0e16ff6841": "s15e451f60b8469b94201fe58496bbf8",
+            "CopydefListBoxNormal0ef6873927a9640": "s7210d6e0c2b4836a29661a3817ac6ee",
+            "CopydefListBoxNormal0gc435b74cf9942": "s18b400b897843af9c4663f53e690d56",
+            "CopydefListBoxNormal0j4148111513748": "s4a0413af0d64635a0c7de0e44f5b400",
+            "CopydefTextAreaNormal0bda690ce98f540": "s723a2bbe31849e6a96e9c39710b5833",
+            "CopydefTextBoxNormal0j2f584fe8dab4d": "s5b6b940d03a49f791296bfd3badf9cd",
+            "CopydefTextBoxPlaceholder0a062ec31146044": "sa2bed84d7c84a64a5c9cdc66730926a",
+            "CopydefTextBoxPlaceholder0d403a91e4e4b4f": "s7a2400461bd455bb401327cbdd4f6d8",
+            "CopydefTextBoxPlaceholder0fdcea79d948c4a": "sfb5d3c4a972470aa7ec6be3786d9266",
+            "CopydefTextBoxPlaceholder0fecf48d9ccf541": "sd473d6cec5c4266a06607d42f823b8f",
+            "CopydefTextBoxPlaceholder0g36c304a09fc4a": "s3533bd69d7048ed88ecd42c36468bec",
+            "CopydefTextBoxPlaceholder0g762f8b11c6644": "s6efea91396a4d8d8b1fd07a29ef0598",
+            "CopydefTextBoxPlaceholder0i0ba32162b604a": "s69937855e644dbba5e4ffdb0b7c2995",
+            "CopydefTextBoxPlaceholder0j48fa5f313c348": "s4e770fb2f1d4e989304ff42f83c1a10",
+            "CopyslFFocusbox0d8042080473a4e": "s8212a9c90724185a41bec3c06fe8289",
+            "CopyslFbox0a5402e4bab254b": "s88dfb3bb6b549e68be092daf79b2b78",
+            "CopyslFbox0ae338992c3a449": "s52d7f61749144ffbb2d523333968c01",
+            "CopyslFbox0b18754cedbfa4b": "s5bbd4ab5de1485d8bc94962654272cf",
+            "CopyslFbox0b24327a38b394a": "s6a31a380f624bb6aace0bcce5755039",
+            "CopyslFbox0b9888c5336e349": "s2abbc4e1fd8499ba0baa89404f44317",
+            "CopyslFbox0bea8397d74064c": "s610b53a1df84269b3884331dc645342",
+            "CopyslFbox0daa9762b63ac41": "saa1a3b2e2a0410088d7fec5ff9cbaed",
+            "CopyslFbox0f4f8607803d649": "s820e4186d2a48f2b11da38d858a3ecc",
+            "CopyslFbox0f61de43d503649": "s7b91554c5c74770ae725aac17a90a90",
+            "CopyslFbox0fefa3fe6629949": "s5a89f63bf894ff880fcc7052444b945",
+            "CopyslFbox0g5540388ece241": "s5a199bf71024f07982746b13905ef59",
+            "CopyslFbox0g9f6a011fe4549": "s6c7cf5c044b43b8965d548592f4cf84",
+            "CopyslFbox0ga36ab7ba47a49": "sbf47fa571cd424b882043a9a7ae7920",
+            "CopyslFbox0h712666f3cd64c": "s9772f16d6a94697854decd077d0a12e",
+            "CopyslFbox0ha1266afa03742": "sdc62d57160546e195e69a6aa2528e74",
+            "CopyslFbox0hae7334bedcd44": "se3b90ae79dd4b16a88fec6a672b2b9d",
+            "CopyslForm0d6543377233d46": "sf7133677dec43b298a25eb92f8bce46",
+            "TextFieldPincode": "s5b6b940d03a49f791296bfd3badf9cd",
+            "defBtnBlockedUI": "sad650e3b554410cb830f137fe29d4c9",
+            "defBtnFocus": "s6fad86727814156bba85241493dd48b",
+            "defBtnHover": "sacac96815eb4ea785aca546c79e8734",
+            "defBtnNormal": "s9ceedae57034fa482d34dc2d4c68d8b",
+            "defBtnPressed": "se7a1b37f11b4bf5828530c358dac47d",
+            "defDataPanelDetailLblKey": "sd5b7678d6464dcc8e0d228e832e6350",
+            "defDataPanelDetailLblValue": "s04060e4ac9a4b0eb73d33ed58991477",
+            "defDataPanelEntryFormTextBoxNormal": "sf8b16e707d54657b0c63056e72c232b",
+            "defDataPanelEntryRowFlex": "s4e400813026401da2f26dde3e68ce42",
+            "defDataPanelEntryRowFlexWidget": "s79934b7ebb648459e664aa3c17de590",
+            "defDataPanelEntryRowLbl": "s7405bfdec844eb38b2c232b05568f23",
+            "defDataPanelFlexDetailView": "sf1617b213a1469a80ae3fb24f2b9fce",
+            "defDataPanelLabelIsRequired": "sdcded4534fe4cc39f02c300947ac97e",
+            "defLabel": "s49bcb37b55e4bb58abcbac2ee6b1f1f",
+            "defListBoxFocus": "s4775316c52a4922b6b93eb349c63b1b",
+            "defListBoxNormal": "sec251307078443f8da2d92ec21ef2d0",
+            "defTextAreaBlockedUI": "s31be43304804967ad6bbe27b0fde352",
+            "defTextAreaFocus": "s30e68f48f3941ec98ebec2fdf4c5d73",
+            "defTextAreaHover": "s3969463ae1946eebf26633fd316cecc",
+            "defTextAreaNormal": "sd94863f038f4654b09784308c2934f8",
+            "defTextAreaPlaceholder": "se3692a9da7b43bd8aa165acbb2f583f",
+            "defTextBoxBlockedUI": "s4265d3422894a7ab34eefc4bd0af188",
+            "defTextBoxFocus": "sb54fb5e3a1640078b136b32113d2a8c",
+            "defTextBoxNormal": "s8010b35c8ab41ee88cd3ac281cac2c5",
+            "defTextBoxPlaceholder": "s051ce0703dd401e83905b4cfc9402aa",
+            "sknLblDescription": "s7bcc10845bc4a55bd7266804326a3f0",
+            "sknLblRowHeading": "sf3aa7d0df164dfe98bb9b9fa5950a89",
+            "sknLblStrip": "sffce7813f6f49e498904a05e50d2f99",
+            "sknLblTimeStamp": "s8e837ce7a264d1a90b1feab07902be2",
+            "sknSampleRowTemplate": "s9ba275c772e4db48b2a7ce854afc001",
+            "sknSampleSectionHeaderTemplate": "s30038551b164d5e9f4de2259947c528",
+            "sknSectionHeaderLabelSkin": "saf6ee8326b44ceca63526c91b87618e",
+            "slCameraFocus": "sea51c6a38334ed3906c0be8e256cb99",
+            "slDynamicNotificationForm": "sde697424a684d0da2e98041f449ee1c",
+            "slFBlockedUIbox": "se10403881e545c88517e38d1704fe6e",
+            "slFFocusbox": "s055b30cc8544a4092521d1a3c930a38",
+            "slFSBlockedUIbox": "s4a31468fb624fe9b00cafc228a8ee66",
+            "slFSFocusSbox": "s50473dc54ea429da8f631a3be7bfda1",
+            "slFbox": "s732f24930e34aba9382ee20ec6c69dd",
+            "slForm": "sd203b3820f94dd28872a6b2d7e6b96c",
+            "slSplashiOS": "s7fb6e920f004fd19cbc326fc0c8ef22",
+            "slStaticNotificationForm": "s786b7e6b6514ca29552fa847ab49f05",
+            "slTitleBar": "s495154304da4dc4974ef4e88d80300c",
+            "slWatchForm": "s48a593032d844f4a1d899fe4c220518"
+        },
+        "tablet": {},
+        "userwidgets": {}
+    },
+    "kuidDependencyMap": {
+        "s18b400b897843af9c4663f53e690d56": [
+            "j839ebd0b5aa4cf697205926527db37f",
+            "e58e0d224a2246e4b6ec50ae82574624"
+        ],
+        "s2abbc4e1fd8499ba0baa89404f44317": [
+            "j839ebd0b5aa4cf697205926527db37f",
+            "e58e0d224a2246e4b6ec50ae82574624"
+        ],
+        "s2e4161bfc194d55aca8725f6ccdb421": [
+            "j839ebd0b5aa4cf697205926527db37f",
+            "e58e0d224a2246e4b6ec50ae82574624"
+        ],
+        "s30038551b164d5e9f4de2259947c528": [
+            "b0191354d32c417d81b54afe3a144f49"
+        ],
+        "s30e68f48f3941ec98ebec2fdf4c5d73": [
+            "j839ebd0b5aa4cf697205926527db37f",
+            "e58e0d224a2246e4b6ec50ae82574624"
+        ],
+        "s3533bd69d7048ed88ecd42c36468bec": [
+            "j839ebd0b5aa4cf697205926527db37f",
+            "e58e0d224a2246e4b6ec50ae82574624"
+        ],
+        "s3c465dedf964a8083a59c78bb6d671c": [
+            "j839ebd0b5aa4cf697205926527db37f",
+            "e58e0d224a2246e4b6ec50ae82574624"
+        ],
+        "s4775316c52a4922b6b93eb349c63b1b": [
+            "j839ebd0b5aa4cf697205926527db37f",
+            "e58e0d224a2246e4b6ec50ae82574624"
+        ],
+        "s4e770fb2f1d4e989304ff42f83c1a10": [
+            "j839ebd0b5aa4cf697205926527db37f",
+            "e58e0d224a2246e4b6ec50ae82574624"
+        ],
+        "s52d7f61749144ffbb2d523333968c01": [
+            "j839ebd0b5aa4cf697205926527db37f",
+            "e58e0d224a2246e4b6ec50ae82574624"
+        ],
+        "s5a199bf71024f07982746b13905ef59": [
+            "j839ebd0b5aa4cf697205926527db37f",
+            "e58e0d224a2246e4b6ec50ae82574624"
+        ],
+        "s5a89f63bf894ff880fcc7052444b945": [
+            "j839ebd0b5aa4cf697205926527db37f",
+            "e58e0d224a2246e4b6ec50ae82574624"
+        ],
+        "s5b6b940d03a49f791296bfd3badf9cd": [
+            "j839ebd0b5aa4cf697205926527db37f",
+            "e58e0d224a2246e4b6ec50ae82574624"
+        ],
+        "s5bbd4ab5de1485d8bc94962654272cf": [
+            "j839ebd0b5aa4cf697205926527db37f",
+            "e58e0d224a2246e4b6ec50ae82574624"
+        ],
+        "s610b53a1df84269b3884331dc645342": [
+            "j839ebd0b5aa4cf697205926527db37f",
+            "e58e0d224a2246e4b6ec50ae82574624"
+        ],
+        "s68f0b41cae640c4990ba54e731cad88": [
+            "j839ebd0b5aa4cf697205926527db37f",
+            "e58e0d224a2246e4b6ec50ae82574624"
+        ],
+        "s6a31a380f624bb6aace0bcce5755039": [
+            "j839ebd0b5aa4cf697205926527db37f",
+            "e58e0d224a2246e4b6ec50ae82574624"
+        ],
+        "s6efea91396a4d8d8b1fd07a29ef0598": [
+            "j839ebd0b5aa4cf697205926527db37f",
+            "e58e0d224a2246e4b6ec50ae82574624"
+        ],
+        "s7210d6e0c2b4836a29661a3817ac6ee": [
+            "j839ebd0b5aa4cf697205926527db37f",
+            "e58e0d224a2246e4b6ec50ae82574624"
+        ],
+        "s723a2bbe31849e6a96e9c39710b5833": [
+            "j839ebd0b5aa4cf697205926527db37f",
+            "e58e0d224a2246e4b6ec50ae82574624"
+        ],
+        "s7a2400461bd455bb401327cbdd4f6d8": [
+            "j839ebd0b5aa4cf697205926527db37f",
+            "e58e0d224a2246e4b6ec50ae82574624"
+        ],
+        "s7b91554c5c74770ae725aac17a90a90": [
+            "j839ebd0b5aa4cf697205926527db37f",
+            "e58e0d224a2246e4b6ec50ae82574624"
+        ],
+        "s7bcc10845bc4a55bd7266804326a3f0": [
+            "c6eab5952ea240089ad0c40ac5f09fd6"
+        ],
+        "s820e4186d2a48f2b11da38d858a3ecc": [
+            "j839ebd0b5aa4cf697205926527db37f",
+            "e58e0d224a2246e4b6ec50ae82574624"
+        ],
+        "s88dfb3bb6b549e68be092daf79b2b78": [
+            "j839ebd0b5aa4cf697205926527db37f",
+            "e58e0d224a2246e4b6ec50ae82574624"
+        ],
+        "s8e837ce7a264d1a90b1feab07902be2": [
+            "c6eab5952ea240089ad0c40ac5f09fd6"
+        ],
+        "s9772f16d6a94697854decd077d0a12e": [
+            "j839ebd0b5aa4cf697205926527db37f",
+            "e58e0d224a2246e4b6ec50ae82574624"
+        ],
+        "s9ba275c772e4db48b2a7ce854afc001": [
+            "c6eab5952ea240089ad0c40ac5f09fd6"
+        ],
+        "sa2bed84d7c84a64a5c9cdc66730926a": [
+            "j839ebd0b5aa4cf697205926527db37f",
+            "e58e0d224a2246e4b6ec50ae82574624"
+        ],
+        "saa1a3b2e2a0410088d7fec5ff9cbaed": [
+            "j839ebd0b5aa4cf697205926527db37f",
+            "e58e0d224a2246e4b6ec50ae82574624"
+        ],
+        "saf6ee8326b44ceca63526c91b87618e": [
+            "b0191354d32c417d81b54afe3a144f49"
+        ],
+        "sb54fb5e3a1640078b136b32113d2a8c": [
+            "j839ebd0b5aa4cf697205926527db37f",
+            "e58e0d224a2246e4b6ec50ae82574624"
+        ],
+        "sbf47fa571cd424b882043a9a7ae7920": [
+            "j839ebd0b5aa4cf697205926527db37f",
+            "e58e0d224a2246e4b6ec50ae82574624"
+        ],
+        "scbe2d0233c841cf8154e08ef402e971": [
+            "j839ebd0b5aa4cf697205926527db37f",
+            "e58e0d224a2246e4b6ec50ae82574624"
+        ],
+        "sd473d6cec5c4266a06607d42f823b8f": [
+            "j839ebd0b5aa4cf697205926527db37f",
+            "e58e0d224a2246e4b6ec50ae82574624"
+        ],
+        "sd94863f038f4654b09784308c2934f8": [
+            "j839ebd0b5aa4cf697205926527db37f"
+        ],
+        "sdc62d57160546e195e69a6aa2528e74": [
+            "j839ebd0b5aa4cf697205926527db37f",
+            "e58e0d224a2246e4b6ec50ae82574624"
+        ],
+        "se3692a9da7b43bd8aa165acbb2f583f": [
+            "j839ebd0b5aa4cf697205926527db37f",
+            "e58e0d224a2246e4b6ec50ae82574624"
+        ],
+        "sf3aa7d0df164dfe98bb9b9fa5950a89": [
+            "c6eab5952ea240089ad0c40ac5f09fd6"
+        ],
+        "sf7133677dec43b298a25eb92f8bce46": [
+            "j839ebd0b5aa4cf697205926527db37f",
+            "e58e0d224a2246e4b6ec50ae82574624"
+        ],
+        "sfb5d3c4a972470aa7ec6be3786d9266": [
+            "j839ebd0b5aa4cf697205926527db37f",
+            "e58e0d224a2246e4b6ec50ae82574624"
+        ],
+        "sfdd1481e46548dda6e36ca4286f1571": [
+            "j839ebd0b5aa4cf697205926527db37f",
+            "e58e0d224a2246e4b6ec50ae82574624"
+        ],
+        "sffce7813f6f49e498904a05e50d2f99": [
+            "c6eab5952ea240089ad0c40ac5f09fd6"
+        ]
+    },
+    "kuidInfo": {
+        "androidwear": {},
+        "desktop": {
+            "b0191354d32c417d81b54afe3a144f49": {
+                "appName": "customerlogin",
+                "id": "SampleSectionHeaderTemplate",
+                "templateType": "segments",
+                "topFlexId": "flxSectionHeaderTemplate"
+            },
+            "c6eab5952ea240089ad0c40ac5f09fd6": {
+                "appName": "customerlogin",
+                "id": "SampleRowTemplate",
+                "templateType": "segments",
+                "topFlexId": "flxSampleRowTemplate"
+            },
+            "e58e0d224a2246e4b6ec50ae82574624": {
+                "appName": "customerlogin",
+                "id": "CopyForm1",
+                "relFormId": "CopyForm1",
+                "templateType": "forms",
+                "widgetInfo": {
+                    "mapWgtPltfrms": [],
+                    "videoWgtPltfrms": []
+                }
+            },
+            "j839ebd0b5aa4cf697205926527db37f": {
+                "appName": "customerlogin",
+                "id": "Form1",
+                "relFormId": "Form1",
+                "templateType": "forms",
+                "widgetInfo": {
+                    "mapWgtPltfrms": [],
+                    "videoWgtPltfrms": []
+                }
+            }
+        },
+        "masters": {},
+        "mobile": {},
+        "tablet": {},
+        "userwidgets": {}
+    },
+    "userWidgetsKuidToIdMap": {}
+}

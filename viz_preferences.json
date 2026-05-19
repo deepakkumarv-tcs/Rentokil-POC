@@ -1,0 +1,65 @@
+{
+    "FP": {
+        "spabb": false,
+        "winphone8": false,
+        "spawinphone8": false,
+        "windows8": false,
+        "spawindowstablet": false,
+        "desktopweb": true,
+        "iphone": false,
+        "spaip": false,
+        "android": false,
+        "spaan": false,
+        "ipad": false,
+        "spaipad": false,
+        "tabrcandroid": false,
+        "spaandroidtablet": false
+    },
+    "general": {
+        "urls": {
+            "konyFabricURL": "http://avdgls16-1.lkil0t22tl1erkgrqhfc3qnidb.rx.internal.cloudapp.net:8080",
+            "accountsBase": "http://avdgls16-1.lkil0t22tl1erkgrqhfc3qnidb.rx.internal.cloudapp.net:8080/authService/accounts",
+            "accountsApiBase": "http://AVDGLS16-1.lkil0t22tl1erkgrqhfc3qnidb.rx.internal.cloudapp.net:8080/accounts/api/v1_0",
+            "portalBase": "http://AVDGLS16-1.lkil0t22tl1erkgrqhfc3qnidb.rx.internal.cloudapp.net:8080/mfconsole"
+        },
+        "codeEditor": {
+            "indentConf": {},
+            "externalEditor": {
+                "displayName": "Sublime"
+            }
+        },
+        "proxyConfig": {},
+        "remoteMACConfig": {},
+        "testRecorder": {
+            "port": 9111
+        },
+        "AllowLockManagementSettings": false,
+        "inlinePreviewEnabled": false,
+        "isHtmlPreviewEnabled": false,
+        "autoCollapsePW": false,
+        "widgetHighlighterActionButtons": false,
+        "isSnapModeEnabled": true,
+        "containerPlaceholders": true,
+        "skipAppSigningRequirements": false,
+        "autoDetectIP": true,
+        "staticIP": "",
+        "autoUpdate": true,
+        "enableExternalAuth": false,
+        "authProvider": "",
+        "groupServicesByCategory": false,
+        "donotShowGenerateObjectModelUpdate": false
+    },
+    "build": {},
+    "konyVizVersion": "10.0.6.0",
+    "previewMode": "release",
+    "dx": {
+        "dxClient": {},
+        "general": {}
+    },
+    "starter": {
+        "general": {
+            "enableMetrics": true
+        }
+    },
+    "vizTheme": "dark"
+}

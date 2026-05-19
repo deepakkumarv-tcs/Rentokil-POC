@@ -1,0 +1,30 @@
+{
+    "AS_TextField_ff2904b8288d4d5ca15b3edb3fbbc6df": {
+        "id": "AS_TextField_ff2904b8288d4d5ca15b3edb3fbbc6df",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "changedtext"
+        }],
+        "contextObj": {
+            "name": "Form1",
+            "type": "forms",
+            "platform": "",
+            "KUID": "j839ebd0b5aa4cf697205926527db37f"
+        },
+        "language": "js",
+        "eventType": "onTextChange",
+        "actions": [{
+            "id": "ADD_LOCAL_VARIABLE_gc0a304e891d4a10a2ff141acf707daa",
+            "type": "ADD_LOCAL_VARIABLE",
+            "name": "customerHouseNo",
+            "isGlobal": false,
+            "valuetype": "expression",
+            "datatype": "string",
+            "value": "txtCustomerHouseNo"
+        }]
+    }
+}

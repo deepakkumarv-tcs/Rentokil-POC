@@ -1,0 +1,103 @@
+{
+    "controllerTemplateInfoMapping": {
+        "desktopweb": {
+            "flxSampleRowTemplateController_desktop": [
+                "flxSampleRowTemplateController"
+            ],
+            "flxSectionHeaderTemplateController_desktop": [
+                "flxSectionHeaderTemplateController"
+            ]
+        }
+    },
+    "controllerformInfoMapping": {
+        "desktopweb": {
+            "CopyForm1Controller_desktop": [
+                "CopyForm1Controller"
+            ],
+            "Form1Controller_desktop": [
+                "Form1Controller"
+            ]
+        }
+    },
+    "formControllerInfoMapping": {
+        "desktopweb": {
+            "CopyForm1": {
+                "controllerActionDir": "CopyForm1Controller",
+                "controllerChannel": "desktop",
+                "controllerName": "CopyForm1Controller"
+            },
+            "Form1": {
+                "controllerActionDir": "Form1Controller",
+                "controllerChannel": "desktop",
+                "controllerName": "Form1Controller"
+            }
+        }
+    },
+    "formsifcMapping": {
+        "desktopweb": {
+            "CopyForm1": {
+                "ControllerExtensions": [],
+                "appName": "customerlogin",
+                "controllerInfo": {
+                    "controllerActionName": "CopyForm1Controller",
+                    "controllerChannel": "desktop",
+                    "controllerName": "CopyForm1Controller"
+                },
+                "enableModelDriven": false,
+                "friendlyName": "CopyForm1",
+                "isMDAForm": false
+            },
+            "Form1": {
+                "ControllerExtensions": [],
+                "appName": "customerlogin",
+                "controllerInfo": {
+                    "controllerActionName": "Form1Controller",
+                    "controllerChannel": "desktop",
+                    "controllerName": "Form1Controller"
+                },
+                "enableModelDriven": false,
+                "friendlyName": "Form1",
+                "isMDAForm": false
+            }
+        }
+    },
+    "templateControllerInfoMapping": {
+        "desktopweb": {
+            "SampleRowTemplate": {
+                "controllerActionDir": "flxSampleRowTemplateController",
+                "controllerChannel": "desktop",
+                "controllerName": "flxSampleRowTemplateController"
+            },
+            "SampleSectionHeaderTemplate": {
+                "controllerActionDir": "flxSectionHeaderTemplateController",
+                "controllerChannel": "desktop",
+                "controllerName": "flxSectionHeaderTemplateController"
+            }
+        }
+    },
+    "templatesifcMapping": {
+        "desktopweb": {
+            "flxSampleRowTemplate": {
+                "appName": "customerlogin",
+                "controllerInfo": {
+                    "controllerActionName": "flxSampleRowTemplateController",
+                    "controllerChannel": "desktop",
+                    "controllerName": "flxSampleRowTemplateController"
+                },
+                "friendlyName": "flxSampleRowTemplate",
+                "templateId": "flxSampleRowTemplate"
+            },
+            "flxSectionHeaderTemplate": {
+                "appName": "customerlogin",
+                "controllerInfo": {
+                    "controllerActionName": "flxSectionHeaderTemplateController",
+                    "controllerChannel": "desktop",
+                    "controllerName": "flxSectionHeaderTemplateController"
+                },
+                "friendlyName": "flxSectionHeaderTemplate",
+                "templateId": "flxSectionHeaderTemplate"
+            }
+        }
+    },
+    "userwidgetsifcMapping": {}
+}

@@ -1,0 +1,18 @@
+{
+    "desktopweb": {
+        "formslist": {
+            "mvcFormObjects": [
+                "frmBooking",
+                "Form1"
+            ],
+            "nonmvcFormObjects": []
+        },
+        "templatesList": {
+            "mvcTemplateObjects": [
+                "SampleRowTemplate",
+                "SampleSectionHeaderTemplate"
+            ],
+            "nonmvcTemplateObjects": []
+        }
+    }
+}

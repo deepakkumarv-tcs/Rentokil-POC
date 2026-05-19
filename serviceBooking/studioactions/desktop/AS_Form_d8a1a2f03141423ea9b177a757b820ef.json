@@ -1,0 +1,223 @@
+{
+    "AS_Form_d8a1a2f03141423ea9b177a757b820ef": {
+        "id": "AS_Form_d8a1a2f03141423ea9b177a757b820ef",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "serviceBooking",
+            "type": "forms",
+            "platform": "",
+            "KUID": "j839ebd0b5aa4cf697205926527db37f"
+        },
+        "language": "js",
+        "eventType": "onMapping",
+        "actions": [{
+            "id": "LOADING_INDICATOR_j2a912f00e70463d89ac43238378e9b6",
+            "selectedOption": "show",
+            "disabled": false,
+            "type": "LOADING_INDICATOR",
+            "skin": "none",
+            "position": "constants.LOADING_SCREEN_POSITION_FULL_SCREEN",
+            "isBlocked": "true",
+            "showProgressIndicator": "true"
+        }, {
+            "id": "INVOKE_ASYNC_SERVICE_cf7a7072e7de4333bc1e957aaaa89cab",
+            "type": "INVOKE_ASYNC_SERVICE",
+            "inputparams": null,
+            "httpheaders": null,
+            "httpconfigs": null,
+            "isasynchronous": true,
+            "mappings": {
+                "ME_Mapping_c7043a16b70b49c3a5b7a600f9f28ce5": {
+                    "channel": "desktop",
+                    "id": "ME_Mapping_c7043a16b70b49c3a5b7a600f9f28ce5",
+                    "type": "MAPPING",
+                    "callbackType": null,
+                    "rectified": true,
+                    "source": {
+                        "type": "Forms",
+                        "propertyName": "text",
+                        "widgetId": "TextFieldCstFullName",
+                        "widgetPath": "this.view.TextFieldCstFullName",
+                        "widgetType": "TextField",
+                        "dataType": "string",
+                        "itemId": "serviceBooking",
+                        "widgetKUID": "ac4513265e2641d2a3784dbbf9ad8d0f",
+                        "itemKUID": "j839ebd0b5aa4cf697205926527db37f",
+                        "forkedPlatform": "all"
+                    },
+                    "target": {
+                        "type": "Services",
+                        "propertyName": "customer_name",
+                        "dataType": "string",
+                        "forkedPlatform": "all",
+                        "serviceconfig": {
+                            "servicename": "NewService",
+                            "type": "integration",
+                            "operationname": "rentokil_db_service_request_trx_create",
+                            "serviceid": "c8a560bf-346c-4404-9f7c-d2da074250e0",
+                            "operationid": "27"
+                        }
+                    }
+                },
+                "ME_Mapping_a8d6c963999c40d48cc8130f73f1d783": {
+                    "channel": "desktop",
+                    "id": "ME_Mapping_a8d6c963999c40d48cc8130f73f1d783",
+                    "type": "MAPPING",
+                    "callbackType": null,
+                    "rectified": true,
+                    "source": {
+                        "type": "Forms",
+                        "propertyName": "text",
+                        "widgetId": "TextFieldCstContactNumber",
+                        "widgetPath": "this.view.TextFieldCstContactNumber",
+                        "widgetType": "TextField",
+                        "dataType": "string",
+                        "itemId": "serviceBooking",
+                        "widgetKUID": "ee8ce726e4024a4c9bfd7f5ab3888e06",
+                        "itemKUID": "j839ebd0b5aa4cf697205926527db37f",
+                        "forkedPlatform": "all"
+                    },
+                    "target": {
+                        "type": "Services",
+                        "propertyName": "phone",
+                        "dataType": "string",
+                        "forkedPlatform": "all",
+                        "serviceconfig": {
+                            "servicename": "NewService",
+                            "type": "integration",
+                            "operationname": "rentokil_db_service_request_trx_create",
+                            "serviceid": "c8a560bf-346c-4404-9f7c-d2da074250e0",
+                            "operationid": "27"
+                        }
+                    }
+                },
+                "ME_Mapping_b281eab1af964d3eb91309829547ffc8": {
+                    "channel": "desktop",
+                    "id": "ME_Mapping_b281eab1af964d3eb91309829547ffc8",
+                    "type": "MAPPING",
+                    "callbackType": null,
+                    "rectified": true,
+                    "source": {
+                        "type": "Forms",
+                        "propertyName": "text",
+                        "widgetId": "TextFieldCstAppartment",
+                        "widgetPath": "this.view.TextFieldCstAppartment",
+                        "widgetType": "TextField",
+                        "dataType": "string",
+                        "itemId": "serviceBooking",
+                        "widgetKUID": "e0e1e552c10948e8be5ce62d66ec0855",
+                        "itemKUID": "j839ebd0b5aa4cf697205926527db37f",
+                        "forkedPlatform": "all"
+                    },
+                    "target": {
+                        "type": "Services",
+                        "propertyName": "address",
+                        "dataType": "string",
+                        "forkedPlatform": "all",
+                        "serviceconfig": {
+                            "servicename": "NewService",
+                            "type": "integration",
+                            "operationname": "rentokil_db_service_request_trx_create",
+                            "serviceid": "c8a560bf-346c-4404-9f7c-d2da074250e0",
+                            "operationid": "27"
+                        }
+                    }
+                },
+                "ME_Mapping_eacdee9b80664a20882181f79ebbcab7": {
+                    "channel": "desktop",
+                    "id": "ME_Mapping_eacdee9b80664a20882181f79ebbcab7",
+                    "type": "MAPPING",
+                    "callbackType": null,
+                    "rectified": true,
+                    "source": {
+                        "type": "Forms",
+                        "propertyName": "text",
+                        "widgetId": "TextFieldCstHouse",
+                        "widgetPath": "this.view.TextFieldCstHouse",
+                        "widgetType": "TextField",
+                        "dataType": "string",
+                        "itemId": "serviceBooking",
+                        "widgetKUID": "bbf9b73fad264041b2d51b8c4f241c5b",
+                        "itemKUID": "j839ebd0b5aa4cf697205926527db37f",
+                        "forkedPlatform": "all"
+                    },
+                    "target": {
+                        "type": "Services",
+                        "propertyName": "address",
+                        "dataType": "string",
+                        "forkedPlatform": "all",
+                        "serviceconfig": {
+                            "servicename": "NewService",
+                            "type": "integration",
+                            "operationname": "rentokil_db_service_request_trx_create",
+                            "serviceid": "c8a560bf-346c-4404-9f7c-d2da074250e0",
+                            "operationid": "27"
+                        }
+                    }
+                }
+            },
+            "mappingsOrder": ["ME_Mapping_c7043a16b70b49c3a5b7a600f9f28ce5", "ME_Mapping_a8d6c963999c40d48cc8130f73f1d783", "ME_Mapping_b281eab1af964d3eb91309829547ffc8", "ME_Mapping_eacdee9b80664a20882181f79ebbcab7"],
+            "serviceconfig": {
+                "servicename": "NewService",
+                "type": "integration",
+                "operationname": "rentokil_db_service_request_trx_create",
+                "serviceid": "c8a560bf-346c-4404-9f7c-d2da074250e0",
+                "operationid": "27"
+            },
+            "enableMappingEditor": true
+        }, {
+            "id": "LOADING_INDICATOR_b5ba791d47da40a78f5225cb19163dbc",
+            "selectedOption": "dismiss",
+            "parentId": "INVOKE_ASYNC_SERVICE_cf7a7072e7de4333bc1e957aaaa89cab",
+            "disabled": null,
+            "type": "LOADING_INDICATOR",
+            "callbackType": "Callback",
+            "skin": "none",
+            "position": "constants.LOADING_SCREEN_POSITION_FULL_SCREEN",
+            "isBlocked": "true",
+            "showProgressIndicator": "true"
+        }, {
+            "id": "_IF_CONDITION_ibab77556b5d4a1bb7157cb45476bea1",
+            "type": "IF_CONDITION",
+            "conditions": [{
+                "leftValue": "rentokil_db_service_request_trx_create.opstatus",
+                "rightValue": "0",
+                "leftValueType": "value",
+                "rightValueType": "value",
+                "operator": "==="
+            }],
+            "parentId": "INVOKE_ASYNC_SERVICE_cf7a7072e7de4333bc1e957aaaa89cab",
+            "callbackType": "Callback",
+            "criteria": "all"
+        }, {
+            "id": "_ELSE_CONDITION_h2ba38917f4e455abd8dbaaa9bf0166f",
+            "type": "ELSE_CONDITION",
+            "conditions": [],
+            "parentId": "INVOKE_ASYNC_SERVICE_cf7a7072e7de4333bc1e957aaaa89cab",
+            "callbackType": "Callback",
+            "criteria": "all"
+        }, {
+            "id": "SHOW_ALERT_dbfcf7632b16420eb2ad46df0a9cbad5",
+            "type": "SHOW_ALERT",
+            "alertType": "constants.ALERT_TYPE_INFO",
+            "alertTitle": null,
+            "yesLabel": null,
+            "noLabel": null,
+            "alertIcon": null,
+            "alertMessage": "Data fetch failed! Please try again later.",
+            "messageType": "constant",
+            "alertHandler": null,
+            "parentId": "_ELSE_CONDITION_h2ba38917f4e455abd8dbaaa9bf0166f",
+            "alertTitlei18n": null,
+            "yesLabeli18n": null,
+            "noLabeli18n": null,
+            "alertMessagei18n": null,
+            "iconPosition": "constants.ALERT_ICON_POSITION_LEFT",
+            "disabled": null
+        }]
+    }
+}

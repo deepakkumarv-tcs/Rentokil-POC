@@ -1,0 +1,27 @@
+{
+    "AS_ListBox_dde8078d79cc43d981d9fa7848853e59": {
+        "id": "AS_ListBox_dde8078d79cc43d981d9fa7848853e59",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "Form1",
+            "type": "forms",
+            "platform": "",
+            "KUID": "j839ebd0b5aa4cf697205926527db37f"
+        },
+        "language": "js",
+        "eventType": "onSelection",
+        "actions": [{
+            "id": "ADD_LOCAL_VARIABLE_if3278144eb54caa8aed7874647cd1ca",
+            "type": "ADD_LOCAL_VARIABLE",
+            "name": "customerServicetype",
+            "isGlobal": false,
+            "valuetype": "expression",
+            "datatype": "string",
+            "value": "CustomerServicetype"
+        }]
+    }
+}

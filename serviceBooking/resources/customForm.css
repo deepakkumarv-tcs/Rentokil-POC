@@ -1,0 +1,22 @@
+.customTextField {
+    background-color: #ffffff !important;
+    color: #000000 !important;
+    border: 1px solid #bdbdbd !important;
+    border-radius: 4px !important;
+    padding: 8px 10px !important;
+    font-size: 14px !important;
+    box-sizing: border-box !important;
+}
+
+/* Placeholder text */
+.customTextField::placeholder {
+    color: #888888 !important;
+    opacity: 1 !important;
+}
+
+/* Focus effect */
+.customTextField:focus {
+    border: 1px solid #4a90e2 !important;
+    outline: none !important;
+    box-shadow: 0 0 4px rgba(74, 144, 226, 0.4);
+}
