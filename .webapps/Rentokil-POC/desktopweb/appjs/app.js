@@ -137065,7 +137065,7 @@ function themeCallBack() {
                 init: applicationController.appInit,
                 postappinit: applicationController.postAppInitCallBack,
                 showstartupform: function() {
-                    new voltmx.mvc.Navigation("serviceBooking").navigate();
+                    new voltmx.mvc.Navigation("Form1").navigate();
                 }
             });
         });

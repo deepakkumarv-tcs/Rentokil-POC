@@ -17,9 +17,17 @@ define({
             "viewName": "flxSectionHeaderTemplate",
             "controllerName": "flxSectionHeaderTemplateController"
         });
+        voltmx.mvc.registry.add("CopyForm", {
+            "viewName": "CopyForm",
+            "controllerName": "CopyFormController"
+        });
         voltmx.mvc.registry.add("Form1", {
             "viewName": "Form1",
             "controllerName": "Form1Controller"
+        });
+        voltmx.mvc.registry.add("Form2", {
+            "viewName": "Form2",
+            "controllerName": "Form2Controller"
         });
         voltmx.mvc.registry.add("serviceBooking", {
             "viewName": "serviceBooking",
@@ -32,7 +40,7 @@ define({
     },
     postAppInitCallBack: function(eventObj) {},
     appmenuseq: function() {
-        new voltmx.mvc.Navigation("Form1").navigate();
+        new voltmx.mvc.Navigation("serviceBooking").navigate();
     },
     makeCall: function(eventobject) {
         voltmx.phone.dial(eventobject.text);

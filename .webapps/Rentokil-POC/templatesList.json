@@ -2,9 +2,7 @@
     "desktopweb": {
         "formslist": {
             "mvcFormObjects": [
-                "CopyForm",
                 "Form1",
-                "Form2",
                 "serviceBooking"
             ],
             "nonmvcFormObjects": []
