@@ -269,7 +269,7 @@
     "defaultZIndex": "1",
     "defaultlocalekey": "",
     "defaulttheme": "defaultTheme",
-    "desktopstartupformkey": "d9dc1c3c040c4c5aa4c0efd1b49c6bdf",
+    "desktopstartupformkey": "ef1a935517044587b483850e2af903ab",
     "desktopwebaligenmentoption": "left",
     "desktopwebbasefontsize": "16",
     "desktopwebfavico": "",
@@ -425,6 +425,14 @@
     "keyAliasandwear": "",
     "keyStoreFilePath": "",
     "keyStoreFilePathandwear": "",
+    "kfAppInfo": {
+        "378a271d-2a47-4c82-8761-16282ee3cb19": {
+            "appName": "Rentokil",
+            "baseId": "de9f411c-084d-4c68-a252-29ec4683e0f3",
+            "id": "de9f411c-084d-4c68-a252-29ec4683e0f3",
+            "version": "1.0"
+        }
+    },
     "konyVizVersion": "10.0.6.0",
     "lastmodifiedtime": "1779105577240",
     "location": "false",

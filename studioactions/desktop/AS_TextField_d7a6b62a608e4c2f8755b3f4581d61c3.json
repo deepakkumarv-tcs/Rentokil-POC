@@ -1,0 +1,30 @@
+{
+    "AS_TextField_d7a6b62a608e4c2f8755b3f4581d61c3": {
+        "id": "AS_TextField_d7a6b62a608e4c2f8755b3f4581d61c3",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "changedtext"
+        }],
+        "contextObj": {
+            "name": "serviceBooking",
+            "type": "forms",
+            "platform": "",
+            "KUID": "ef1a935517044587b483850e2af903ab"
+        },
+        "language": "js",
+        "eventType": "onTextChange",
+        "actions": [{
+            "id": "ADD_LOCAL_VARIABLE_c57dd519cc044226b6de7a3d6a25c271",
+            "type": "ADD_LOCAL_VARIABLE",
+            "name": "customerEmail",
+            "isGlobal": false,
+            "valuetype": "expression",
+            "datatype": "string",
+            "value": "txtCustomerEmail"
+        }]
+    }
+}

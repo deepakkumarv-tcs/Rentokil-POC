@@ -1,0 +1,94 @@
+{
+    "AS_Button_dd16a672616c485a97bc38714b4a4168": {
+        "id": "AS_Button_dd16a672616c485a97bc38714b4a4168",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "serviceBooking",
+            "type": "forms",
+            "platform": "",
+            "KUID": "ef1a935517044587b483850e2af903ab"
+        },
+        "language": "js",
+        "eventType": "onClick",
+        "actions": [{
+            "id": "LOADING_INDICATOR_e7f5653bf7a6427f8b8e847be151dd41",
+            "selectedOption": "show",
+            "disabled": null,
+            "type": "LOADING_INDICATOR",
+            "skin": "none",
+            "position": "constants.LOADING_SCREEN_POSITION_FULL_SCREEN",
+            "isBlocked": "true",
+            "showProgressIndicator": "true"
+        }, {
+            "id": "INVOKE_ASYNC_SERVICE_edca5184adbe4f26aa6bc8d9cf688792",
+            "type": "INVOKE_ASYNC_SERVICE",
+            "inputparams": null,
+            "httpheaders": null,
+            "httpconfigs": null,
+            "isasynchronous": true,
+            "mappings": {},
+            "mappingsOrder": [],
+            "serviceconfig": {
+                "servicename": "NewService",
+                "type": "integration",
+                "operationname": "rentokil_db_service_request_trx_create",
+                "serviceid": "d2c60563-ca28-4bde-b661-ec9b48c8fb56",
+                "operationid": "33"
+            },
+            "enableMappingEditor": true
+        }, {
+            "id": "LOADING_INDICATOR_c221b502be8d442fb1ecdf6d899aa4c1",
+            "selectedOption": "dismiss",
+            "parentId": "INVOKE_ASYNC_SERVICE_edca5184adbe4f26aa6bc8d9cf688792",
+            "disabled": null,
+            "type": "LOADING_INDICATOR",
+            "callbackType": "Callback",
+            "skin": "none",
+            "position": "constants.LOADING_SCREEN_POSITION_FULL_SCREEN",
+            "isBlocked": "true",
+            "showProgressIndicator": "true"
+        }, {
+            "id": "_IF_CONDITION_i490448ef16244da845df65ef5613a73",
+            "type": "IF_CONDITION",
+            "conditions": [{
+                "leftValue": "rentokil_db_service_request_trx_create.opstatus",
+                "rightValue": "0",
+                "leftValueType": "value",
+                "rightValueType": "value",
+                "operator": "==="
+            }],
+            "parentId": "INVOKE_ASYNC_SERVICE_edca5184adbe4f26aa6bc8d9cf688792",
+            "callbackType": "Callback",
+            "criteria": "all"
+        }, {
+            "id": "_ELSE_CONDITION_jafd99a6352f4d13a42125c3563bf814",
+            "type": "ELSE_CONDITION",
+            "conditions": [],
+            "parentId": "INVOKE_ASYNC_SERVICE_edca5184adbe4f26aa6bc8d9cf688792",
+            "callbackType": "Callback",
+            "criteria": "all"
+        }, {
+            "id": "SHOW_ALERT_f1110d16e5b8414e90b5f3333567cb4b",
+            "type": "SHOW_ALERT",
+            "alertType": "constants.ALERT_TYPE_INFO",
+            "alertTitle": null,
+            "yesLabel": null,
+            "noLabel": null,
+            "alertIcon": null,
+            "alertMessage": "Data fetch failed! Please try again later.",
+            "messageType": "constant",
+            "alertHandler": null,
+            "parentId": "_ELSE_CONDITION_jafd99a6352f4d13a42125c3563bf814",
+            "alertTitlei18n": null,
+            "yesLabeli18n": null,
+            "noLabeli18n": null,
+            "alertMessagei18n": null,
+            "iconPosition": "constants.ALERT_ICON_POSITION_LEFT",
+            "disabled": null
+        }]
+    }
+}

@@ -1,0 +1,81 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizListBox",
+    "DNDConfig": null,
+    "_bottom_": {
+        "type": "string",
+        "value": "15%"
+    },
+    "_height_": {
+        "type": "string",
+        "value": "40%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "10%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        3,
+        0,
+        0,
+        0
+    ],
+    "_placeholder_": "Please Select",
+    "_skin_": "s858847f1ab242f880f38a9a21bdf348",
+    "_top_": {
+        "type": "string",
+        "value": "45dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "300dp"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 7,
+    "dropdownimage": "listboxarw.png",
+    "focusskin": "s1e7ecfb9e2d4a2987b659b80dc8c93c",
+    "groupcells": false,
+    "id": "ListBoxCountry",
+    "ide_onSelection": "AS_ListBox_if322784be1342a69ebd2e6d196c081d",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "fe82288bd50245158922f1bc6ddbfec2",
+    "masterdata": [
+        [
+            "lb1",
+            "India"
+        ],
+        [
+            "lb2",
+            "USA"
+        ],
+        [
+            "lb3",
+            "China"
+        ]
+    ],
+    "name": "kony.ui.ListBox",
+    "parent": "FlexRBR5",
+    "pf": "serviceBooking",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "selectedkeys": null,
+    "selectedkeyvalue": null,
+    "selectedkeyvalues": null,
+    "size": 18,
+    "viewconfig": {
+        "toggleViewConfig": {
+            "viewStyle": 0
+        }
+    },
+    "viewtype": 0,
+    "wType": "ListBox",
+    "zindex": 1
+}

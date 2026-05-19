@@ -1,0 +1,27 @@
+{
+    "AS_ListBox_c1d0c317bc4a4b1ba0f2c8828f1142e0": {
+        "id": "AS_ListBox_c1d0c317bc4a4b1ba0f2c8828f1142e0",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "serviceBooking",
+            "type": "forms",
+            "platform": "",
+            "KUID": "ef1a935517044587b483850e2af903ab"
+        },
+        "language": "js",
+        "eventType": "onSelection",
+        "actions": [{
+            "id": "ADD_LOCAL_VARIABLE_e6edacfce24e46a4a8b1d206c8e88c79",
+            "type": "ADD_LOCAL_VARIABLE",
+            "name": "customerState",
+            "isGlobal": false,
+            "valuetype": "expression",
+            "datatype": "string",
+            "value": "txtCustomerState"
+        }]
+    }
+}

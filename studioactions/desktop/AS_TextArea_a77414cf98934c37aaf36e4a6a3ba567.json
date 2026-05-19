@@ -1,0 +1,27 @@
+{
+    "AS_TextArea_a77414cf98934c37aaf36e4a6a3ba567": {
+        "id": "AS_TextArea_a77414cf98934c37aaf36e4a6a3ba567",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "serviceBooking",
+            "type": "forms",
+            "platform": "",
+            "KUID": "ef1a935517044587b483850e2af903ab"
+        },
+        "language": "js",
+        "eventType": "onTextChange",
+        "actions": [{
+            "id": "ADD_LOCAL_VARIABLE_e0dd0ef13af84a0c918a6b7bf3438cc8",
+            "type": "ADD_LOCAL_VARIABLE",
+            "name": "customerServiceDesc",
+            "isGlobal": false,
+            "valuetype": "expression",
+            "datatype": "string",
+            "value": "txtCustomerServiceDesc"
+        }]
+    }
+}

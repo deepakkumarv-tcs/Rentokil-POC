@@ -1,0 +1,76 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizTextBox2",
+    "DNDConfig": null,
+    "_bottom_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_height_": {
+        "type": "string",
+        "value": "17px"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "10.00%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        3,
+        0,
+        0,
+        0
+    ],
+    "_placeholder_": "",
+    "_skin_": "sf263873dbb44504b57c90420120714e",
+    "_text_": "",
+    "_width_": {
+        "type": "string",
+        "value": "45%"
+    },
+    "autocapitalize": "none",
+    "autocomplete": false,
+    "autocorrect": false,
+    "autofilter": false,
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "63.79%"
+    },
+    "containerheight": "",
+    "containerheightmode": 1,
+    "containerweight": 100,
+    "contentalignment": 7,
+    "desktopweb": {
+        "placeholderSkin": "sef1161b4fdd4fd09cc0e717d76fa881"
+    },
+    "disabledSkins": {
+        "blockedUISkin": "s4265d3422894a7ab34eefc4bd0af188"
+    },
+    "focusskin": "s7aa03baf94d4548829bc0c421398dae",
+    "id": "TextFieldCstContactNumber",
+    "ide_onTextChange": "AS_TextField_g0f57b4e473e4753a984e2bd8729f38b",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "keyboardstyle": "A",
+    "keyboardtype": "A",
+    "kuid": "c45f4f2edb254783a6ac53d4c03e1609",
+    "mode": "N",
+    "name": "kony.ui.TextBox2",
+    "parent": "FlexRBR1",
+    "pf": "serviceBooking",
+    "placeholderskin": "sef1161b4fdd4fd09cc0e717d76fa881",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "securetextentry": false,
+    "textinputmode": "N",
+    "tooltip": "",
+    "viewtype": "default",
+    "wType": "TextField",
+    "zindex": 1
+}

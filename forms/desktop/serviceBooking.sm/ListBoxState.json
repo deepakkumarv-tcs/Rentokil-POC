@@ -1,0 +1,81 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizListBox",
+    "DNDConfig": null,
+    "_bottom_": {
+        "type": "string",
+        "value": "15%"
+    },
+    "_height_": {
+        "type": "string",
+        "value": "40%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "10%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        3,
+        0,
+        0,
+        0
+    ],
+    "_placeholder_": "Please Select",
+    "_right_": {
+        "type": "string",
+        "value": "0"
+    },
+    "_skin_": "s2175308183a4e30b3ac79372c5e2b2c",
+    "_width_": {
+        "type": "string",
+        "value": "300dp"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 7,
+    "dropdownimage": "listboxarw.png",
+    "focusskin": "s1e7ecfb9e2d4a2987b659b80dc8c93c",
+    "groupcells": false,
+    "id": "ListBoxState",
+    "ide_onSelection": "AS_ListBox_c1d0c317bc4a4b1ba0f2c8828f1142e0",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "e1450e31e6b94a949ef13491bac8134d",
+    "masterdata": [
+        [
+            "lb1",
+            "Telangana"
+        ],
+        [
+            "lb2",
+            "Tamilnadu"
+        ],
+        [
+            "lb3",
+            "kerala"
+        ]
+    ],
+    "name": "kony.ui.ListBox",
+    "parent": "FlexRBR4",
+    "pf": "serviceBooking",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "selectedkeys": null,
+    "selectedkeyvalue": null,
+    "selectedkeyvalues": null,
+    "size": 18,
+    "viewconfig": {
+        "toggleViewConfig": {
+            "viewStyle": 0
+        }
+    },
+    "viewtype": 0,
+    "wType": "ListBox",
+    "zindex": 1
+}

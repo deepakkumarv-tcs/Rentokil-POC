@@ -1,0 +1,8 @@
+{
+  "meta" : "{\"218371ee-6a1b-4b8a-abfe-8118c39026df\":{\"isUpdated\":false}}",
+  "subType" : "customapp",
+  "description" : "This app is created from Studio App Rentokil.\r\n",
+  "version" : "1.0",
+  "identity" : [ "authIntegration" ],
+  "identitySvcConf" : "{\"session_idle_timeout_mins\":20,\"session_max_duration_mins\":360,\"show_security_attributes\":false,\"is_integrity_enabled\":false,\"auto_extend\":true}"
+}
