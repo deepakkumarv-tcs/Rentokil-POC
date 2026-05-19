@@ -7,7 +7,7 @@
     },
     "_left_": {
         "type": "string",
-        "value": "0dp"
+        "value": "305dp"
     },
     "_margin_": [
         1,
@@ -21,11 +21,11 @@
         0,
         0
     ],
-    "_skin_": "sa43cd36feda4774ba301e090cb3cd87",
-    "_text_": "Label",
+    "_skin_": "s49b7fad26e744ab953f0ecbb5c61e31",
+    "_text_": "Safe for kids and pets",
     "_top_": {
         "type": "string",
-        "value": "0dp"
+        "value": "6dp"
     },
     "_width_": {
         "type": "ref",
@@ -41,7 +41,7 @@
     "canUpdateUI": true,
     "containerweight": 100,
     "contentalignment": 4,
-    "id": "Label0c7584fd4cdfc43",
+    "id": "CopylblSafeText0b93bbfa3751f44",
     "info": null,
     "ipad": {
         "psp": {
@@ -55,9 +55,9 @@
     },
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "b80f496f9e1e4b3bb0b69a54a14cd4ac",
+    "kuid": "ca834d0383c043809fe4e9ebb4587e74",
     "name": "kony.ui.Label",
-    "parent": "FlexContainer0af720c959a8641",
+    "parent": "CopyFlexContainer0hfecac7fd5db47",
     "pf": "Home",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,

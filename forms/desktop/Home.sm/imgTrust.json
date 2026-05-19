@@ -4,11 +4,11 @@
     "_base64_": null,
     "_height_": {
         "type": "string",
-        "value": "50dp"
+        "value": "30dp"
     },
     "_left_": {
         "type": "string",
-        "value": "-40dp"
+        "value": "275dp"
     },
     "_margin_": [
         0,
@@ -23,25 +23,25 @@
         0
     ],
     "_skin_": "se9e4ff574984e36bd34531e6f92f228",
-    "_src_": "people.png",
+    "_src_": "shield.png",
     "_top_": {
         "type": "string",
-        "value": "40dp"
+        "value": "0dp"
     },
     "_width_": {
         "type": "string",
-        "value": "40dp"
+        "value": "30dp"
     },
     "canUpdateUI": true,
     "containerweight": 100,
-    "id": "Image0b95b0306ad1b41",
+    "id": "imgTrust",
     "imagescalemode": 1,
     "info": null,
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "d555214f1bff49d8b37dae74fabca355",
+    "kuid": "f02e108396e5418fb52a7c8386eaadaf",
     "name": "kony.ui.Image2",
-    "parent": "InfoSection",
+    "parent": "FlexContainer0b7512ba1d4c04c",
     "pf": "Home",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,

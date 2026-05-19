@@ -7,7 +7,7 @@
     },
     "_left_": {
         "type": "string",
-        "value": "70px"
+        "value": "40dp"
     },
     "_margin_": [
         1,
@@ -21,11 +21,11 @@
         0,
         0
     ],
-    "_skin_": "s3ed62e21b3447af9789def683fadd23",
-    "_text_": "Label",
+    "_skin_": "s49b7fad26e744ab953f0ecbb5c61e31",
+    "_text_": "30 days Warranty",
     "_top_": {
         "type": "string",
-        "value": "0dp"
+        "value": "6dp"
     },
     "_width_": {
         "type": "ref",
@@ -41,7 +41,7 @@
     "canUpdateUI": true,
     "containerweight": 100,
     "contentalignment": 4,
-    "id": "Label0i00a6d78465444",
+    "id": "CopylblCertifiedTechnicians0adbf48d096f344",
     "info": null,
     "ipad": {
         "psp": {
@@ -55,12 +55,13 @@
     },
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "g1160a4a44cc43fb8983f5f92a779765",
+    "kuid": "bd0f5b10f9704908b53f4cb13126e87e",
     "name": "kony.ui.Label",
-    "parent": "InfoSection",
+    "parent": "CopyFlexContainer0hfecac7fd5db47",
     "pf": "Home",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
     "tooltip": "",
-    "wType": "Label"
+    "wType": "Label",
+    "zindex": 1
 }

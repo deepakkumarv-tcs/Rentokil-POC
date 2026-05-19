@@ -2,7 +2,7 @@
     "DNDConfig": null,
     "_height_": {
         "type": "string",
-        "value": "280px"
+        "value": "420px"
     },
     "_left_": {
         "type": "string",
@@ -39,8 +39,8 @@
         "Label2",
         "Label3",
         "btnBook",
-        "Image0b95b0306ad1b41",
-        "Label0i00a6d78465444"
+        "FlexContainer0b7512ba1d4c04c",
+        "CopyFlexContainer0hfecac7fd5db47"
     ],
     "clipbounds": false,
     "containerweight": 100,

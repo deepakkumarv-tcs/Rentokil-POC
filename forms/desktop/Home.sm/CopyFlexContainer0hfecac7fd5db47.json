@@ -2,11 +2,11 @@
     "DNDConfig": null,
     "_height_": {
         "type": "string",
-        "value": "100%"
+        "value": "39dp"
     },
     "_left_": {
         "type": "string",
-        "value": "-6dp"
+        "value": "0dp"
     },
     "_margin_": [
         0,
@@ -22,54 +22,40 @@
         0
     ],
     "_percent_": true,
-    "_skin_": "s9a448cab7a14e0c8138aeafaa36ddd8",
+    "_skin_": "sfced8dac477417d9fddbc5012a69e38",
     "_top_": {
         "type": "string",
-        "value": "0dp"
+        "value": "19dp"
     },
     "_width_": {
         "type": "string",
-        "value": "100%"
+        "value": "100.53%"
     },
     "allboxes": [],
     "autogrowmode": 0,
     "canUpdateUI": true,
     "children": [
-        "InfoSection",
-        "thumbnailSection",
-        "servicesSection",
-        "FlexContainer0af720c959a8641",
-        "FlexContainer0jd12bc12974a4e",
-        "FlexContainer0d24f8e43142447"
+        "CopyimgPeople0d172718c3ed24e",
+        "CopyimgTrust0ic6ab119f8954a",
+        "CopylblCertifiedTechnicians0adbf48d096f344",
+        "CopylblSafeText0b93bbfa3751f44"
     ],
     "clipbounds": false,
     "containerweight": 100,
-    "desktopweb": {
-        "render": true
-    },
     "disabledSkins": {
         "blockedUISkin": "se10403881e545c88517e38d1704fe6e",
         "focusSkin": "s055b30cc8544a4092521d1a3c930a38"
     },
     "enablescrolling": true,
     "focusskin": "",
-    "id": "MainGroup",
+    "id": "CopyFlexContainer0hfecac7fd5db47",
     "info": null,
     "iscustomlayout": false,
     "isvisible": true,
-    "kiosk": {
-        "render": false
-    },
-    "kuid": "i9a04bd2850a4e25aa2f08c10d1b9347",
-    "layouttype": 5,
+    "kuid": "d70e23fd12524d58aac7739436b3cf9b",
+    "layouttype": 2,
     "name": "kony.ui.FlexContainer",
-    "nativemac": {
-        "render": true
-    },
-    "nativewin": {
-        "render": true
-    },
-    "parent": "Artboard",
+    "parent": "InfoSection",
     "pf": "Home",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
@@ -77,5 +63,6 @@
     "snapgridsize": 10,
     "snaptogrid": true,
     "wType": "FlexContainer",
-    "widgetalignment": 1
+    "widgetalignment": 1,
+    "zindex": 1
 }
