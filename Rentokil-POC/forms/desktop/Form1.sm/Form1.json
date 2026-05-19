@@ -45,7 +45,8 @@
     "canUpdateUI": true,
     "canvasWidth": 1200,
     "children": [
-        "Label0i1996b9b0f9e4a"
+        "Label0i1996b9b0f9e4a",
+        "ServicePageNavbtn"
     ],
     "containerweight": 100,
     "controllerInfo": {
