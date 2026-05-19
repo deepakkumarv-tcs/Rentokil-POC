@@ -43,7 +43,7 @@
                     {
                         "formKUID": "cbb1aa9f925a47de8d63007f169d41ea",
                         "formName": "CopyForm",
-                        "isStartupForm": true,
+                        "isStartupForm": false,
                         "key": "cbb1aa9f925a47de8d63007f169d41ea",
                         "loc": "8 24.845263671875003",
                         "thumbnailURL": "/assets/Rentokil-POC/forms/desktop/CopyForm.sm/.thumbs/default.jpeg"
@@ -54,7 +54,7 @@
                         "isStartupForm": false,
                         "key": "eb3608449dda4959ba666a2c2bbec4d2",
                         "loc": "8 524.8452636718749",
-                        "thumbnailURL": null
+                        "thumbnailURL": "/assets/Rentokil-POC/forms/desktop/Form1.sm/.thumbs/default.jpeg"
                     },
                     {
                         "formKUID": "c0d64519d82b4843b16dbc704e90d3d3",
@@ -67,7 +67,7 @@
                     {
                         "formKUID": "b617ced61ca84384a62d02c26eab4a1a",
                         "formName": "serviceBooking",
-                        "isStartupForm": false,
+                        "isStartupForm": true,
                         "key": "b617ced61ca84384a62d02c26eab4a1a",
                         "loc": "318 304.845263671875",
                         "thumbnailURL": null
