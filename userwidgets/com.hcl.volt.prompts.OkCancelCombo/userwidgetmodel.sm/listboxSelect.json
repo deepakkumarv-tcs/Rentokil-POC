@@ -1,0 +1,81 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizListBox",
+    "DNDConfig": null,
+    "_bottom_": {
+        "type": "string",
+        "value": "5dp"
+    },
+    "_height_": {
+        "type": "string",
+        "value": "40dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        3,
+        0,
+        0,
+        0
+    ],
+    "_placeholder_": "Please Select",
+    "_skin_": "sa7942ea5c1a479882125b0ecf7a47ec",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "dropdownimage": "listboxarw.png",
+    "focusskin": "sd1eae35e3a54f429ce36b989ee8cf9c",
+    "groupcells": false,
+    "id": "listboxSelect",
+    "ide_onSelection": "AS_ListBox_b1ba33bf352c4b698c49c02dd7e1da2f",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "u4b8ec617d3f43b3b884943b56416b99",
+    "masterdata": [
+        [
+            "Schedule",
+            "Schedule"
+        ],
+        [
+            "Phone Book",
+            "Phone Book"
+        ],
+        [
+            "Contacts",
+            "Contacts"
+        ]
+    ],
+    "name": "kony.ui.ListBox",
+    "parent": "flexContainerBody",
+    "pf": "userwidgetmodel",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "selectedkey": "Schedule",
+    "selectedkeys": null,
+    "selectedkeyvalue": [
+        "Schedule",
+        "Schedule"
+    ],
+    "selectedkeyvalues": null,
+    "size": 18,
+    "viewconfig": {
+        "toggleViewConfig": {
+            "viewStyle": 0
+        }
+    },
+    "viewtype": 0,
+    "wType": "ListBox",
+    "zindex": 1
+}
