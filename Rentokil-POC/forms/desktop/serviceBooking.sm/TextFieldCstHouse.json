@@ -1,0 +1,75 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizTextBox2",
+    "DNDConfig": null,
+    "_bottom_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_height_": {
+        "type": "string",
+        "value": "17px"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "10.00%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        3,
+        0,
+        0,
+        0
+    ],
+    "_placeholder_": "",
+    "_skin_": "sc65dde72a234402ba4ef4f282c7b467",
+    "_text_": "",
+    "_width_": {
+        "type": "string",
+        "value": "45%"
+    },
+    "autocapitalize": "none",
+    "autocomplete": false,
+    "autocorrect": false,
+    "autofilter": false,
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "63.79%"
+    },
+    "containerheight": "",
+    "containerheightmode": 1,
+    "containerweight": 100,
+    "contentalignment": 7,
+    "desktopweb": {
+        "placeholderSkin": "s1445bd98b314a7ca960136ab668d4b0"
+    },
+    "disabledSkins": {
+        "blockedUISkin": "s4265d3422894a7ab34eefc4bd0af188"
+    },
+    "focusskin": "s6641b06c5234fafb323686777855a4a",
+    "id": "TextFieldCstHouse",
+    "ide_onTextChange": "AS_TextField_bce4abcd437c41699d274d4096a7752d",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "keyboardtype": "A",
+    "kuid": "fe43b56816ea429da8153c27b569d5a1",
+    "mode": "A",
+    "name": "kony.ui.TextBox2",
+    "parent": "FlexLBR3",
+    "pf": "serviceBooking",
+    "placeholderskin": "s1445bd98b314a7ca960136ab668d4b0",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "securetextentry": false,
+    "textinputmode": "A",
+    "tooltip": "",
+    "viewtype": "default",
+    "wType": "TextField",
+    "zindex": 1
+}

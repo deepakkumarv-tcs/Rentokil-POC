@@ -1,0 +1,81 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizListBox",
+    "DNDConfig": null,
+    "_bottom_": {
+        "type": "string",
+        "value": "15%"
+    },
+    "_height_": {
+        "type": "string",
+        "value": "40%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "10%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        3,
+        0,
+        0,
+        0
+    ],
+    "_placeholder_": "Please Select",
+    "_right_": {
+        "type": "string",
+        "value": "0"
+    },
+    "_skin_": "s3d9a6f190854db885b461983918e8ad",
+    "_width_": {
+        "type": "string",
+        "value": "300dp"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 7,
+    "dropdownimage": "listboxarw.png",
+    "focusskin": "sf236bc3c9d541f2865b078d85f8de94",
+    "groupcells": false,
+    "id": "ListBoxState",
+    "ide_onSelection": "AS_ListBox_cad5f926a9a14a86a42823195d643caf",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "fab43a22a4734893a66a62b6f0037d42",
+    "masterdata": [
+        [
+            "lb1",
+            "Telangana"
+        ],
+        [
+            "lb2",
+            "Tamilnadu"
+        ],
+        [
+            "lb3",
+            "kerala"
+        ]
+    ],
+    "name": "kony.ui.ListBox",
+    "parent": "FlexRBR4",
+    "pf": "serviceBooking",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "selectedkeys": null,
+    "selectedkeyvalue": null,
+    "selectedkeyvalues": null,
+    "size": 18,
+    "viewconfig": {
+        "toggleViewConfig": {
+            "viewStyle": 0
+        }
+    },
+    "viewtype": 0,
+    "wType": "ListBox",
+    "zindex": 1
+}

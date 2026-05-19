@@ -1,0 +1,64 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "50px"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "6dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sfc5028d02f04d86acb0e167db5fdfbb",
+    "_text_": "Cancel",
+    "_top_": {
+        "type": "string",
+        "value": "8dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "30%"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "disabledSkins": {
+        "blockedUISkin": "sad650e3b554410cb830f137fe29d4c9",
+        "focusSkin": "s211c94865d24aaf932e7af15ccfc98c",
+        "hoverSkin": "sacac96815eb4ea785aca546c79e8734",
+        "pressedSkin": "se7a1b37f11b4bf5828530c358dac47d"
+    },
+    "displaytext": true,
+    "id": "ButtonCancel",
+    "ide_onClick": "AS_Button_c144ef5f12e34d2485fbd5c815276144",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "gc6701e293714a58b6475aa86ea6e69e",
+    "name": "kony.ui.Button",
+    "parent": "FlexRightButtonContainer",
+    "pf": "serviceBooking",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "vizProps": {
+        "hide": false
+    },
+    "wType": "Button",
+    "zindex": 1
+}

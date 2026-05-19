@@ -1,0 +1,84 @@
+{
+    "models": {
+        "desktop": {
+            "1366": {
+                "class": "GraphLinksModel",
+                "linkDataArray": [],
+                "nodeDataArray": [
+                    {
+                        "formKUID": "eb3608449dda4959ba666a2c2bbec4d2",
+                        "formName": "Form1",
+                        "isStartupForm": true,
+                        "key": "eb3608449dda4959ba666a2c2bbec4d2",
+                        "loc": "8 25.026806640625",
+                        "thumbnailURL": null
+                    }
+                ]
+            },
+            "default": {
+                "class": "GraphLinksModel",
+                "linkDataArray": [
+                    {
+                        "actionId": null,
+                        "from": "cbb1aa9f925a47de8d63007f169d41ea",
+                        "points": [
+                            268,
+                            116.845263671875,
+                            278,
+                            116.845263671875,
+                            278,
+                            116.84526367187499,
+                            278,
+                            116.84526367187499,
+                            374,
+                            116.84526367187499,
+                            384,
+                            116.84526367187499
+                        ],
+                        "softLink": true,
+                        "to": "c0d64519d82b4843b16dbc704e90d3d3"
+                    }
+                ],
+                "nodeDataArray": [
+                    {
+                        "formKUID": "cbb1aa9f925a47de8d63007f169d41ea",
+                        "formName": "CopyForm",
+                        "isStartupForm": true,
+                        "key": "cbb1aa9f925a47de8d63007f169d41ea",
+                        "loc": "8 24.845263671875003",
+                        "thumbnailURL": "/assets/Rentokil-POC/forms/desktop/CopyForm.sm/.thumbs/default.jpeg"
+                    },
+                    {
+                        "formKUID": "eb3608449dda4959ba666a2c2bbec4d2",
+                        "formName": "Form1",
+                        "isStartupForm": false,
+                        "key": "eb3608449dda4959ba666a2c2bbec4d2",
+                        "loc": "8 524.8452636718749",
+                        "thumbnailURL": null
+                    },
+                    {
+                        "formKUID": "c0d64519d82b4843b16dbc704e90d3d3",
+                        "formName": "Form2",
+                        "isStartupForm": false,
+                        "key": "c0d64519d82b4843b16dbc704e90d3d3",
+                        "loc": "384 24.845263671875003",
+                        "thumbnailURL": null
+                    },
+                    {
+                        "formKUID": "b617ced61ca84384a62d02c26eab4a1a",
+                        "formName": "serviceBooking",
+                        "isStartupForm": false,
+                        "key": "b617ced61ca84384a62d02c26eab4a1a",
+                        "loc": "318 304.845263671875",
+                        "thumbnailURL": null
+                    }
+                ]
+            }
+        },
+        "mobile": {
+            "class": "GraphLinksModel",
+            "linkDataArray": [],
+            "nodeDataArray": []
+        }
+    }
+}
