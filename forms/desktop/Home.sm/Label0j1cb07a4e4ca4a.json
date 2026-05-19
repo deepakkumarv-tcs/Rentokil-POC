@@ -7,7 +7,7 @@
     },
     "_left_": {
         "type": "string",
-        "value": "0dp"
+        "value": "424dp"
     },
     "_margin_": [
         1,
@@ -21,11 +21,11 @@
         0,
         0
     ],
-    "_skin_": "sa43cd36feda4774ba301e090cb3cd87",
-    "_text_": "Label",
+    "_skin_": "sb6272f38b84458c882d8f9f0334d45b",
+    "_text_": "Our Pest control Services",
     "_top_": {
         "type": "string",
-        "value": "0dp"
+        "value": "39dp"
     },
     "_width_": {
         "type": "ref",
@@ -41,7 +41,7 @@
     "canUpdateUI": true,
     "containerweight": 100,
     "contentalignment": 4,
-    "id": "Label0c7584fd4cdfc43",
+    "id": "Label0j1cb07a4e4ca4a",
     "info": null,
     "ipad": {
         "psp": {
@@ -55,9 +55,9 @@
     },
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "b80f496f9e1e4b3bb0b69a54a14cd4ac",
+    "kuid": "b79fd47ee167466f9762373e3aff03ef",
     "name": "kony.ui.Label",
-    "parent": "FlexContainer0af720c959a8641",
+    "parent": "servicesSection",
     "pf": "Home",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,

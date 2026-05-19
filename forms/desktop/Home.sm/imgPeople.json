@@ -4,7 +4,7 @@
     "_base64_": null,
     "_height_": {
         "type": "string",
-        "value": "30dp"
+        "value": "28dp"
     },
     "_left_": {
         "type": "string",
@@ -22,7 +22,7 @@
         0,
         0
     ],
-    "_skin_": "se9e4ff574984e36bd34531e6f92f228",
+    "_skin_": "s4540fbd6bc34c86960f733684646137",
     "_src_": "people.png",
     "_top_": {
         "type": "string",
@@ -30,7 +30,7 @@
     },
     "_width_": {
         "type": "string",
-        "value": "30dp"
+        "value": "28dp"
     },
     "canUpdateUI": true,
     "containerweight": 100,

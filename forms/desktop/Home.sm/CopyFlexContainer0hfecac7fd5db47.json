@@ -25,7 +25,7 @@
     "_skin_": "sfced8dac477417d9fddbc5012a69e38",
     "_top_": {
         "type": "string",
-        "value": "19dp"
+        "value": "23dp"
     },
     "_width_": {
         "type": "string",
@@ -60,7 +60,7 @@
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
     "retainflowhorizontalalignment": false,
-    "snapgridsize": 10,
+    "snapgridsize": "5",
     "snaptogrid": true,
     "wType": "FlexContainer",
     "widgetalignment": 1,

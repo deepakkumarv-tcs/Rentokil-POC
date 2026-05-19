@@ -5,15 +5,13 @@
   "androidwearos": {
     "font_name": "default"
   },
-  "background_image": "header.png",
-  "bg_type": "image",
+  "background_color": "00000000",
+  "bg_type": "one",
   "border_color": "666666ff",
   "border_style": "plain",
   "border_type": 0,
   "border_width": 0,
   "desktopweb": {
-    "background_image": "group_19830.png",
-    "bg_type": "image",
     "font_name": "Helvetica"
   },
   "ipad": {
@@ -26,7 +24,7 @@
   "kiosk": {
     "font_name": "Helvetica"
   },
-  "kuid": "sc283e61e2024f0f8a5eb9bdeedd13dd",
+  "kuid": "s549182a7cc948febe8dd55c234e59f3",
   "nativemac": {
     "font_name": "Helvetica"
   },

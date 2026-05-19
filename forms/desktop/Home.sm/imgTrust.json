@@ -22,7 +22,8 @@
         0,
         0
     ],
-    "_skin_": "se9e4ff574984e36bd34531e6f92f228",
+    "_render_": true,
+    "_skin_": "s378e7799b9d450f9fcf5412e06a9a6c",
     "_src_": "shield.png",
     "_top_": {
         "type": "string",
@@ -34,13 +35,25 @@
     },
     "canUpdateUI": true,
     "containerweight": 100,
+    "desktopweb": {
+        "render": true
+    },
     "id": "imgTrust",
     "imagescalemode": 1,
     "info": null,
     "iscustomlayout": false,
     "isvisible": true,
+    "kiosk": {
+        "render": true
+    },
     "kuid": "f02e108396e5418fb52a7c8386eaadaf",
     "name": "kony.ui.Image2",
+    "nativemac": {
+        "render": true
+    },
+    "nativewin": {
+        "render": true
+    },
     "parent": "FlexContainer0b7512ba1d4c04c",
     "pf": "Home",
     "retaincontentalignment": false,

@@ -7,7 +7,7 @@
     },
     "_left_": {
         "type": "string",
-        "value": "0"
+        "value": "0dp"
     },
     "_margin_": [
         1,
@@ -25,7 +25,7 @@
     "_text_": "Professional pest control solutions for homes and businesses.",
     "_top_": {
         "type": "string",
-        "value": "0"
+        "value": "9dp"
     },
     "_width_": {
         "type": "string",

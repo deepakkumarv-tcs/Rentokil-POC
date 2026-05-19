@@ -37,10 +37,7 @@
     "children": [
         "InfoSection",
         "thumbnailSection",
-        "servicesSection",
-        "FlexContainer0af720c959a8641",
-        "FlexContainer0jd12bc12974a4e",
-        "FlexContainer0d24f8e43142447"
+        "servicesSection"
     ],
     "clipbounds": false,
     "containerweight": 100,
