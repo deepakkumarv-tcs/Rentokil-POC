@@ -7,7 +7,7 @@
     },
     "_left_": {
         "type": "string",
-        "value": "320dp"
+        "value": "0"
     },
     "_margin_": [
         1,
@@ -17,15 +17,15 @@
     ],
     "_padding_": [
         0,
+        16,
         0,
-        0,
-        0
+        16
     ],
-    "_skin_": "sa43cd36feda4774ba301e090cb3cd87",
-    "_text_": "Welcome",
+    "_skin_": "s3cb30b977ec4ce2827f03a80f1dfff1",
+    "_text_": "Protect Your Home.",
     "_top_": {
         "type": "string",
-        "value": "190dp"
+        "value": "0dp"
     },
     "_width_": {
         "type": "ref",
@@ -41,7 +41,7 @@
     "canUpdateUI": true,
     "containerweight": 100,
     "contentalignment": 4,
-    "id": "Label0i1996b9b0f9e4a",
+    "id": "Label1",
     "info": null,
     "ipad": {
         "psp": {
@@ -55,13 +55,13 @@
     },
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "aabe3dd9df134b0ba3286356a9482130",
+    "kuid": "bfd1f50f428b4b44bf53b6bfe88bd693",
     "name": "kony.ui.Label",
-    "parent": "Form1",
-    "pf": "Form1",
+    "paddinginpixel": true,
+    "parent": "InfoSection",
+    "pf": "Home",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
     "tooltip": "",
-    "wType": "Label",
-    "zindex": 1
+    "wType": "Label"
 }

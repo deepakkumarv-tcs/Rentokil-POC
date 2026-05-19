@@ -15,7 +15,7 @@
         0
     ],
     "_percent_": true,
-    "_skin_": "s043354e41b34c3c885af5c2d8aaf1f1",
+    "_skin_": "s321c5fbb1ed4544a548b09175bc9ed8",
     "_title_": null,
     "addWidgetsdone": false,
     "allboxes": [],
@@ -45,13 +45,13 @@
     "canUpdateUI": true,
     "canvasWidth": 1200,
     "children": [
-        "Label0i1996b9b0f9e4a"
+        "Artboard"
     ],
     "containerweight": 100,
     "controllerInfo": {
         "default": {
             "channel": "desktop",
-            "name": "Form1Controller"
+            "name": "HomeController"
         }
     },
     "currentLocale": "default",
@@ -61,7 +61,7 @@
     "device": "desktopweb",
     "displayorientation": 1,
     "enabledforidletimeout": false,
-    "id": "Form1",
+    "id": "Home",
     "info": null,
     "initdone": false,
     "inputaccessoryviewtype": 4,
@@ -84,7 +84,7 @@
     "kiosk": {
         "needAppMenu": false
     },
-    "kuid": "eb3608449dda4959ba666a2c2bbec4d2",
+    "kuid": "d9dc1c3c040c4c5aa4c0efd1b49c6bdf",
     "layouttype": 2,
     "name": "kony.ui.Form2",
     "needappmenu": false,
@@ -115,7 +115,7 @@
     "spawinphone8": {
         "needAppMenu": false
     },
-    "titleBarSkin": "saa4fa24ea19446a958c27962f740028",
+    "titleBarSkin": "s23ab09175b74ef8a1d3473444dfb352",
     "titlebar": true,
     "type": 3,
     "wType": "Form",
