@@ -1,0 +1,53 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizImage2",
+    "DNDConfig": null,
+    "_base64_": null,
+    "_height_": {
+        "type": "string",
+        "value": "510dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s0fc916052db47e2a7a232667cbd767b",
+    "_src_": "stock_vector_illustrations_design_concept_location_maps_with_road_follow_route_for_destination_drive_by_gps_1331157386.jpg",
+    "_top_": {
+        "type": "string",
+        "value": "96dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "430dp"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "id": "Location",
+    "imagescalemode": 1,
+    "info": null,
+    "invokedProperty": "imageWhileDownloading",
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "b3c887f637f0489191d74665fba02267",
+    "name": "kony.ui.Image2",
+    "parent": "FlexContainer0eeea4d175d3a47",
+    "pf": "SupervisorForm",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "srcType": 1,
+    "wType": "Image",
+    "widgetalignment": 5,
+    "zindex": 1
+}

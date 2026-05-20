@@ -246,105 +246,6 @@
                         }
                     }
                 },
-                "ME_Mapping_d8789416f7354f8681355ee9e96a5596": {
-                    "channel": "desktop",
-                    "id": "ME_Mapping_d8789416f7354f8681355ee9e96a5596",
-                    "type": "MAPPING",
-                    "callbackType": null,
-                    "rectified": true,
-                    "source": {
-                        "type": "Forms",
-                        "propertyName": "value",
-                        "widgetId": "ListBoxServiceType",
-                        "widgetPath": "this.view.ListBoxServiceType",
-                        "widgetType": "ListBox",
-                        "dataType": "string",
-                        "itemId": "serviceBooking",
-                        "collectionId": "masterData",
-                        "widgetKUID": "e072acbb78b840efb34845961790b436",
-                        "itemKUID": "ef1a935517044587b483850e2af903ab",
-                        "forkedPlatform": "all"
-                    },
-                    "target": {
-                        "type": "Services",
-                        "propertyName": "pest_control_type_name",
-                        "dataType": "string",
-                        "forkedPlatform": "all",
-                        "serviceconfig": {
-                            "servicename": "NewService",
-                            "serviceid": "d2c60563-ca28-4bde-b661-ec9b48c8fb56",
-                            "type": "integration",
-                            "operationname": "rentokil_db_service_request_trx_create",
-                            "operationid": "33"
-                        }
-                    }
-                },
-                "ME_Mapping_i71b30f727c54f0fb922d28915b867a6": {
-                    "channel": "desktop",
-                    "id": "ME_Mapping_i71b30f727c54f0fb922d28915b867a6",
-                    "type": "MAPPING",
-                    "callbackType": null,
-                    "rectified": true,
-                    "source": {
-                        "type": "Forms",
-                        "propertyName": "value",
-                        "widgetId": "ListBoxState",
-                        "widgetPath": "this.view.ListBoxState",
-                        "widgetType": "ListBox",
-                        "dataType": "string",
-                        "itemId": "serviceBooking",
-                        "collectionId": "masterData",
-                        "widgetKUID": "e1450e31e6b94a949ef13491bac8134d",
-                        "itemKUID": "ef1a935517044587b483850e2af903ab",
-                        "forkedPlatform": "all"
-                    },
-                    "target": {
-                        "type": "Services",
-                        "propertyName": "State",
-                        "dataType": "string",
-                        "forkedPlatform": "all",
-                        "serviceconfig": {
-                            "servicename": "NewService",
-                            "serviceid": "d2c60563-ca28-4bde-b661-ec9b48c8fb56",
-                            "type": "integration",
-                            "operationname": "rentokil_db_service_request_trx_create",
-                            "operationid": "33"
-                        }
-                    }
-                },
-                "ME_Mapping_c16ffb7d170b461c8b0c216198259461": {
-                    "channel": "desktop",
-                    "id": "ME_Mapping_c16ffb7d170b461c8b0c216198259461",
-                    "type": "MAPPING",
-                    "callbackType": null,
-                    "rectified": true,
-                    "source": {
-                        "type": "Forms",
-                        "propertyName": "value",
-                        "widgetId": "ListBoxCountry",
-                        "widgetPath": "this.view.ListBoxCountry",
-                        "widgetType": "ListBox",
-                        "dataType": "string",
-                        "itemId": "serviceBooking",
-                        "collectionId": "masterData",
-                        "widgetKUID": "fe82288bd50245158922f1bc6ddbfec2",
-                        "itemKUID": "ef1a935517044587b483850e2af903ab",
-                        "forkedPlatform": "all"
-                    },
-                    "target": {
-                        "type": "Services",
-                        "propertyName": "Country",
-                        "dataType": "string",
-                        "forkedPlatform": "all",
-                        "serviceconfig": {
-                            "servicename": "NewService",
-                            "serviceid": "d2c60563-ca28-4bde-b661-ec9b48c8fb56",
-                            "type": "integration",
-                            "operationname": "rentokil_db_service_request_trx_create",
-                            "operationid": "33"
-                        }
-                    }
-                },
                 "ME_Mapping_b3f19ae6292a4cbd9f85e01338bba5e5": {
                     "channel": "desktop",
                     "id": "ME_Mapping_b3f19ae6292a4cbd9f85e01338bba5e5",
@@ -376,9 +277,108 @@
                             "operationid": "33"
                         }
                     }
+                },
+                "ME_Mapping_cb97df4f847742bea5ecba9b707a874a": {
+                    "channel": "desktop",
+                    "id": "ME_Mapping_cb97df4f847742bea5ecba9b707a874a",
+                    "type": "MAPPING",
+                    "callbackType": null,
+                    "rectified": true,
+                    "source": {
+                        "type": "Forms",
+                        "propertyName": "value",
+                        "widgetId": "ListBoxServiceType",
+                        "widgetPath": "this.view.ListBoxServiceType",
+                        "widgetType": "ListBox",
+                        "dataType": "string",
+                        "itemId": "serviceBooking",
+                        "collectionId": "selectedKeyValues",
+                        "widgetKUID": "e072acbb78b840efb34845961790b436",
+                        "itemKUID": "ef1a935517044587b483850e2af903ab",
+                        "forkedPlatform": "all"
+                    },
+                    "target": {
+                        "type": "Services",
+                        "propertyName": "pest_control_type_name",
+                        "dataType": "string",
+                        "forkedPlatform": "all",
+                        "serviceconfig": {
+                            "servicename": "NewService",
+                            "serviceid": "d2c60563-ca28-4bde-b661-ec9b48c8fb56",
+                            "type": "integration",
+                            "operationname": "rentokil_db_service_request_trx_create",
+                            "operationid": "33"
+                        }
+                    }
+                },
+                "ME_Mapping_d838ef64d86b44b9a4ad4e8f1bb64358": {
+                    "channel": "desktop",
+                    "id": "ME_Mapping_d838ef64d86b44b9a4ad4e8f1bb64358",
+                    "type": "MAPPING",
+                    "callbackType": null,
+                    "rectified": true,
+                    "source": {
+                        "type": "Forms",
+                        "propertyName": "value",
+                        "widgetId": "ListBoxState",
+                        "widgetPath": "this.view.ListBoxState",
+                        "widgetType": "ListBox",
+                        "dataType": "string",
+                        "itemId": "serviceBooking",
+                        "collectionId": "selectedKeyValues",
+                        "widgetKUID": "e1450e31e6b94a949ef13491bac8134d",
+                        "itemKUID": "ef1a935517044587b483850e2af903ab",
+                        "forkedPlatform": "all"
+                    },
+                    "target": {
+                        "type": "Services",
+                        "propertyName": "State",
+                        "dataType": "string",
+                        "forkedPlatform": "all",
+                        "serviceconfig": {
+                            "servicename": "NewService",
+                            "serviceid": "d2c60563-ca28-4bde-b661-ec9b48c8fb56",
+                            "type": "integration",
+                            "operationname": "rentokil_db_service_request_trx_create",
+                            "operationid": "33"
+                        }
+                    }
+                },
+                "ME_Mapping_d5c56ae60873484d9f32b60e6e6a3dfa": {
+                    "channel": "desktop",
+                    "id": "ME_Mapping_d5c56ae60873484d9f32b60e6e6a3dfa",
+                    "type": "MAPPING",
+                    "callbackType": null,
+                    "rectified": true,
+                    "source": {
+                        "type": "Forms",
+                        "propertyName": "value",
+                        "widgetId": "ListBoxCountry",
+                        "widgetPath": "this.view.ListBoxCountry",
+                        "widgetType": "ListBox",
+                        "dataType": "string",
+                        "itemId": "serviceBooking",
+                        "collectionId": "selectedKeyValues",
+                        "widgetKUID": "fe82288bd50245158922f1bc6ddbfec2",
+                        "itemKUID": "ef1a935517044587b483850e2af903ab",
+                        "forkedPlatform": "all"
+                    },
+                    "target": {
+                        "type": "Services",
+                        "propertyName": "Country",
+                        "dataType": "string",
+                        "forkedPlatform": "all",
+                        "serviceconfig": {
+                            "servicename": "NewService",
+                            "serviceid": "d2c60563-ca28-4bde-b661-ec9b48c8fb56",
+                            "type": "integration",
+                            "operationname": "rentokil_db_service_request_trx_create",
+                            "operationid": "33"
+                        }
+                    }
                 }
             },
-            "mappingsOrder": ["ME_Mapping_dd6575a4c7e84047af189900743f51fa", "ME_Mapping_fb7c1d1871314e4097b0e54742e68dd5", "ME_Mapping_id229dbb4a8d43a0b756b0978ebe4035", "ME_Mapping_c1c2fda1e9764a4db76fda52de290137", "ME_Mapping_he74b3f35f7e437db74cd9f3410004bb", "ME_Mapping_eb2e6dfe269441258bb0d115711afdb7", "ME_Mapping_ic005758fc014d68afae63c055409e4e", "ME_Mapping_d8789416f7354f8681355ee9e96a5596", "ME_Mapping_i71b30f727c54f0fb922d28915b867a6", "ME_Mapping_c16ffb7d170b461c8b0c216198259461", "ME_Mapping_b3f19ae6292a4cbd9f85e01338bba5e5"],
+            "mappingsOrder": ["ME_Mapping_dd6575a4c7e84047af189900743f51fa", "ME_Mapping_fb7c1d1871314e4097b0e54742e68dd5", "ME_Mapping_id229dbb4a8d43a0b756b0978ebe4035", "ME_Mapping_c1c2fda1e9764a4db76fda52de290137", "ME_Mapping_he74b3f35f7e437db74cd9f3410004bb", "ME_Mapping_eb2e6dfe269441258bb0d115711afdb7", "ME_Mapping_ic005758fc014d68afae63c055409e4e", "ME_Mapping_b3f19ae6292a4cbd9f85e01338bba5e5", "ME_Mapping_cb97df4f847742bea5ecba9b707a874a", "ME_Mapping_d838ef64d86b44b9a4ad4e8f1bb64358", "ME_Mapping_d5c56ae60873484d9f32b60e6e6a3dfa"],
             "serviceconfig": {
                 "servicename": "NewService",
                 "serviceid": "d2c60563-ca28-4bde-b661-ec9b48c8fb56",
@@ -389,6 +389,41 @@
             "parentId": null,
             "callbackType": null,
             "enableMappingEditor": true
+        }, {
+            "id": "_i08cf197425d44ecb9dff1e71f076bc9",
+            "type": "IF_CONDITION",
+            "conditions": [{
+                "leftValueType": "expression",
+                "leftValue": "rentokil_db_service_request_trx_create.opstatus == 0"
+            }],
+            "parentId": "INVOKE_SERVICE_g09e364c51a84b0ea37aa3e33da002c4",
+            "callbackType": "Callback",
+            "criteria": "all"
+        }, {
+            "id": "_gacca3fe183f4e90854a46e03570bd50",
+            "type": "ELSE_CONDITION",
+            "conditions": [{
+                "leftValueType": "widgetprop",
+                "leftValue": "",
+                "operator": "===",
+                "rightValueType": "widgetprop",
+                "rightValue": ""
+            }],
+            "parentId": "INVOKE_SERVICE_g09e364c51a84b0ea37aa3e33da002c4",
+            "callbackType": "Callback",
+            "criteria": "all"
+        }, {
+            "id": "ADD_SNIPPET_jcb63b7a75d94b87be66e443c3c657f8",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "alert('Something went wrong. please try again.');",
+            "parentId": "_gacca3fe183f4e90854a46e03570bd50",
+            "callbackType": null
+        }, {
+            "id": "ADD_SNIPPET_ef0e72fa248248f7903d08a6c9613710",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "alert('Booking is successfully completed');",
+            "parentId": "_i08cf197425d44ecb9dff1e71f076bc9",
+            "callbackType": null
         }]
     }
 }

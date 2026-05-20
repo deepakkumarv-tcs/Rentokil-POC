@@ -36,7 +36,8 @@
     "canUpdateUI": true,
     "children": [
         "CstStateLabel",
-        "ListBoxState"
+        "ListBoxState",
+        "lblStateR"
     ],
     "clipbounds": false,
     "containerweight": 100,

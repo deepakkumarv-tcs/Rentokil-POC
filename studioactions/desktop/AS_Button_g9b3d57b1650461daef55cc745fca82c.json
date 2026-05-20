@@ -1,0 +1,31 @@
+{
+    "AS_Button_g9b3d57b1650461daef55cc745fca82c": {
+        "id": "AS_Button_g9b3d57b1650461daef55cc745fca82c",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "type": "forms",
+            "platform": null,
+            "KUID": "e8015f2df2054f86aec46feb363ac399"
+        },
+        "language": "js",
+        "eventType": "onClick",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM__e046338bc4ed412daf6968741103c99e",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "SupervisorForm",
+            "formKUID": "eef9baea14cf4109ae3861fa6728e04d",
+            "projectName": "Rentokil-POC",
+            "mappings": {},
+            "mappingsOrder": [],
+            "enableMappingEditor": true,
+            "package": "",
+            "enableNavigationObj": true,
+            "navigationObj": "{\n    \"Button0a6e2f1747e4943_text\": self.view.Button0a6e2f1747e4943.text,\n    \"_meta_\": {\n        \"eventName\": \"onClick\",\n        \"widgetId\": \"Button0a6e2f1747e4943\"\n    }\n}",
+            "isCustomInput": false
+        }]
+    }
+}

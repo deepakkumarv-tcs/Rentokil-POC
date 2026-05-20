@@ -36,7 +36,8 @@
     "canUpdateUI": true,
     "children": [
         "CstpincodeLabel",
-        "TextFieldPincode"
+        "TextFieldPincode",
+        "lblPinR"
     ],
     "clipbounds": false,
     "containerweight": 100,

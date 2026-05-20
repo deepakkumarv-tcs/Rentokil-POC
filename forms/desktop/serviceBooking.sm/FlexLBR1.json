@@ -6,7 +6,7 @@
     },
     "_left_": {
         "type": "string",
-        "value": "0%"
+        "value": "0.14%"
     },
     "_margin_": [
         0,
@@ -25,7 +25,7 @@
     "_skin_": "s1a510557cc940ad89d27dc974ee32a1",
     "_top_": {
         "type": "string",
-        "value": "0%"
+        "value": "0.07%"
     },
     "_width_": {
         "type": "string",
@@ -36,7 +36,8 @@
     "canUpdateUI": true,
     "children": [
         "CstfullNameLabel",
-        "TextFieldCstFullName"
+        "TextFieldCstFullName",
+        "lblCustNameR"
     ],
     "clipbounds": false,
     "containerweight": 100,

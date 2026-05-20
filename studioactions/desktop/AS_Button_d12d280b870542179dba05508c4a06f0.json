@@ -1,0 +1,30 @@
+{
+    "AS_Button_d12d280b870542179dba05508c4a06f0": {
+        "id": "AS_Button_d12d280b870542179dba05508c4a06f0",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "serviceBooking",
+            "type": "forms",
+            "platform": "",
+            "KUID": "ef1a935517044587b483850e2af903ab"
+        },
+        "language": "js",
+        "eventType": "onClick",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM__i2b651fcfc154c78bbb505af81d54316",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "Home",
+            "formKUID": "d9dc1c3c040c4c5aa4c0efd1b49c6bdf",
+            "projectName": "Rentokil-POC",
+            "mappings": {},
+            "mappingsOrder": [],
+            "enableMappingEditor": true,
+            "package": "",
+            "isCustomInput": false
+        }]
+    }
+}

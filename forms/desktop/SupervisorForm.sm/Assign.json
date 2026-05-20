@@ -1,0 +1,57 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "180dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s6fde76ffa544dd6ae39027a49d5b752",
+    "_text_": "Assign",
+    "_top_": {
+        "type": "string",
+        "value": "158dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "142dp"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "disabledSkins": {
+        "blockedUISkin": "sad650e3b554410cb830f137fe29d4c9",
+        "hoverSkin": "sacac96815eb4ea785aca546c79e8734",
+        "pressedSkin": "se7a1b37f11b4bf5828530c358dac47d"
+    },
+    "displaytext": true,
+    "focusskin": "sc84b7467af04f009a696da13d8d8c2a",
+    "id": "Assign",
+    "ide_onClick": "AS_Button_d909d0d277174c46836dd63af40cf0ef",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "dc731c37b7734e08859d5086d0dde8d6",
+    "name": "kony.ui.Button",
+    "parent": "FlexContainer0a9777f1e2d964c",
+    "pf": "SupervisorForm",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "wType": "Button",
+    "zindex": 1
+}

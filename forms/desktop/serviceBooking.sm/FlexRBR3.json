@@ -36,7 +36,8 @@
     "canUpdateUI": true,
     "children": [
         "CstAppartmentLabel",
-        "TextFieldCstAppartment"
+        "TextFieldCstAppartment",
+        "lblAddressRoadR"
     ],
     "clipbounds": false,
     "containerweight": 100,

@@ -36,7 +36,8 @@
     "canUpdateUI": true,
     "children": [
         "CstCityLabel",
-        "TextFieldCstCity"
+        "TextFieldCstCity",
+        "lblCityR"
     ],
     "clipbounds": false,
     "containerweight": 100,

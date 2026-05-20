@@ -1,0 +1,36 @@
+{
+    "AS_Button_d909d0d277174c46836dd63af40cf0ef": {
+        "id": "AS_Button_d909d0d277174c46836dd63af40cf0ef",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "SupervisorForm",
+            "type": "forms",
+            "platform": "",
+            "KUID": "eef9baea14cf4109ae3861fa6728e04d"
+        },
+        "language": "js",
+        "eventType": "onClick",
+        "actions": [{
+            "id": "SHOW_ALERT_h1587c057864416d8c4789b55207f13c",
+            "type": "SHOW_ALERT",
+            "alertType": "constants.ALERT_TYPE_CONFIRMATION",
+            "alertTitle": "Assigned ",
+            "yesLabel": "Yes",
+            "noLabel": "No",
+            "alertIcon": null,
+            "alertMessage": "Assigned to New",
+            "messageType": "constant",
+            "alertHandler": null,
+            "alertTitlei18n": null,
+            "yesLabeli18n": null,
+            "noLabeli18n": null,
+            "alertMessagei18n": null,
+            "iconPosition": "constants.ALERT_ICON_POSITION_LEFT",
+            "disabled": null
+        }]
+    }
+}

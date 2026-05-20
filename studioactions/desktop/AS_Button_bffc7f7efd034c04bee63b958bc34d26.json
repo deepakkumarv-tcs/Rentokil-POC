@@ -1,0 +1,19 @@
+{
+    "AS_Button_bffc7f7efd034c04bee63b958bc34d26": {
+        "id": "AS_Button_bffc7f7efd034c04bee63b958bc34d26",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "SupervisorForm",
+            "type": "forms",
+            "platform": "",
+            "KUID": "eef9baea14cf4109ae3861fa6728e04d"
+        },
+        "language": "js",
+        "eventType": "onClick",
+        "actions": []
+    }
+}

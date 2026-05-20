@@ -36,11 +36,11 @@
     "contentalignment": 5,
     "disabledSkins": {
         "blockedUISkin": "sad650e3b554410cb830f137fe29d4c9",
+        "focusSkin": "sc577a4ad39847049b25a2b43fe34999",
         "hoverSkin": "sacac96815eb4ea785aca546c79e8734",
         "pressedSkin": "se7a1b37f11b4bf5828530c358dac47d"
     },
     "displaytext": true,
-    "focusskin": "sc577a4ad39847049b25a2b43fe34999",
     "id": "btnBook",
     "ide_onClick": "AS_Button_ad372a26348442ce8a5592b648474961",
     "info": null,

@@ -36,7 +36,8 @@
     "canUpdateUI": true,
     "children": [
         "CstCountryLabel",
-        "ListBoxCountry"
+        "ListBoxCountry",
+        "lblCountryR"
     ],
     "clipbounds": false,
     "containerweight": 100,

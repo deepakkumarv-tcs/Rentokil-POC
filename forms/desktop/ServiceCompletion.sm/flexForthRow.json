@@ -1,0 +1,67 @@
+{
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "55px"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "sb62e2ff15154cceba98999d1dc4e228",
+    "_top_": {
+        "type": "string",
+        "value": "270px"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "90%"
+    },
+    "allboxes": [],
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50.00%"
+    },
+    "children": [
+        "CopylabelServRequestID0ff6c55ee22f74e",
+        "CopylabelCustomerName0d302c82d479049",
+        "CopyvalueServRequestID0b47eea2cd54f49",
+        "CopyvalueCustomerName0j803e9730aa747"
+    ],
+    "clipbounds": false,
+    "containerweight": 100,
+    "disabledSkins": {
+        "blockedUISkin": "se10403881e545c88517e38d1704fe6e",
+        "focusSkin": "s055b30cc8544a4092521d1a3c930a38"
+    },
+    "enablescrolling": true,
+    "focusskin": "",
+    "id": "flexForthRow",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "gdcac76008e848468359f364bab9c45f",
+    "layouttype": 2,
+    "name": "kony.ui.FlexContainer",
+    "parent": "ServiceCompletion",
+    "pf": "ServiceCompletion",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "retainflowhorizontalalignment": false,
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "wType": "FlexContainer",
+    "widgetalignment": 1
+}

@@ -1,0 +1,102 @@
+{
+    "AS_Form_g38dbfbfb6d641e5a834dec21e2def3c": {
+        "id": "AS_Form_g38dbfbfb6d641e5a834dec21e2def3c",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "SupervisorForm",
+            "type": "forms",
+            "platform": "",
+            "KUID": "eef9baea14cf4109ae3861fa6728e04d"
+        },
+        "language": "js",
+        "eventType": "onMapping",
+        "actions": [{
+            "id": "LOADING_INDICATOR_bce0eb85d4ca42afb7b99d792eb92372",
+            "selectedOption": "show",
+            "disabled": null,
+            "type": "LOADING_INDICATOR",
+            "skin": "none",
+            "position": "constants.LOADING_SCREEN_POSITION_FULL_SCREEN",
+            "isBlocked": "true",
+            "showProgressIndicator": "true"
+        }, {
+            "id": "INVOKE_ASYNC_SERVICE_c93fd5a3c4234a309691bbc2d8360545",
+            "type": "INVOKE_ASYNC_SERVICE",
+            "inputparams": null,
+            "httpheaders": null,
+            "httpconfigs": null,
+            "isasynchronous": true,
+            "mappings": {},
+            "mappingsOrder": [],
+            "serviceconfig": {
+                "servicename": "NewService",
+                "serviceid": "d2c60563-ca28-4bde-b661-ec9b48c8fb56",
+                "type": "integration",
+                "operationname": "rentokil_db_service_request_trx_get",
+                "operationid": "34"
+            },
+            "enableMappingEditor": true
+        }, {
+            "id": "LOADING_INDICATOR_cd5c623d7ff441d39ea050cb1102e4cd",
+            "selectedOption": "dismiss",
+            "parentId": "INVOKE_ASYNC_SERVICE_c93fd5a3c4234a309691bbc2d8360545",
+            "disabled": null,
+            "type": "LOADING_INDICATOR",
+            "callbackType": "Callback",
+            "skin": "none",
+            "position": "constants.LOADING_SCREEN_POSITION_FULL_SCREEN",
+            "isBlocked": "true",
+            "showProgressIndicator": "true"
+        }, {
+            "id": "_IF_CONDITION_e3ed7ed796114002b96beba8a43bf375",
+            "type": "IF_CONDITION",
+            "conditions": [{
+                "leftValue": "rentokil_db_service_request_trx_get.opstatus",
+                "rightValue": "0",
+                "leftValueType": "value",
+                "rightValueType": "value",
+                "operator": "==="
+            }],
+            "parentId": "INVOKE_ASYNC_SERVICE_c93fd5a3c4234a309691bbc2d8360545",
+            "callbackType": "Callback",
+            "criteria": "all"
+        }, {
+            "id": "_ELSE_CONDITION_hde97e619ad44a6daf56d16a12ea8a94",
+            "type": "ELSE_CONDITION",
+            "conditions": [],
+            "parentId": "INVOKE_ASYNC_SERVICE_c93fd5a3c4234a309691bbc2d8360545",
+            "callbackType": "Callback",
+            "criteria": "all"
+        }, {
+            "id": "SHOW_ALERT_g4120ee48d04443fada0e072bcee9f8d",
+            "type": "SHOW_ALERT",
+            "alertType": "constants.ALERT_TYPE_INFO",
+            "alertTitle": null,
+            "yesLabel": null,
+            "noLabel": null,
+            "alertIcon": null,
+            "alertMessage": "Data fetch failed! Please try again later.",
+            "messageType": "constant",
+            "alertHandler": null,
+            "parentId": "_ELSE_CONDITION_hde97e619ad44a6daf56d16a12ea8a94",
+            "alertTitlei18n": null,
+            "yesLabeli18n": null,
+            "noLabeli18n": null,
+            "alertMessagei18n": null,
+            "iconPosition": "constants.ALERT_ICON_POSITION_LEFT",
+            "disabled": null
+        }, {
+            "id": "ADD_MAPPING_c03de31f061345a8bea1b554fcc069f1",
+            "type": "ADD_MAPPING",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "_IF_CONDITION_e3ed7ed796114002b96beba8a43bf375",
+            "callbackType": null,
+            "enableMappingEditor": true
+        }]
+    }
+}

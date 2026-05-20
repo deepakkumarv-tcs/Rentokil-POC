@@ -1,0 +1,93 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizListBox",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "40dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "16dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        3,
+        0,
+        0,
+        0
+    ],
+    "_placeholder_": "Please Select",
+    "_skin_": "s7daa5e35f394796bdadcd9b86dc3d4b",
+    "_top_": {
+        "type": "string",
+        "value": "70dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "300dp"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "desktopweb": {
+        "psp": {
+            "multiple": false
+        }
+    },
+    "dropdownimage": "listboxarw.png",
+    "focusskin": "sa5b42a048524b8096f6f57b24529961",
+    "groupcells": false,
+    "id": "TechnicianValues",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "c07dd88f97104b718e2586eef81160f7",
+    "masterdata": [
+        [
+            "Ib1",
+            "Yokesh"
+        ],
+        [
+            "lb2",
+            "Srimanth"
+        ],
+        [
+            "lb3",
+            "Omar"
+        ]
+    ],
+    "multiselect": false,
+    "name": "kony.ui.ListBox",
+    "parent": "FlexContainer0a9777f1e2d964c",
+    "pf": "SupervisorForm",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "selectedkey": "lb3",
+    "selectedkeys": [
+        "lb3"
+    ],
+    "selectedkeyvalue": [
+        "lb3",
+        "Omar"
+    ],
+    "selectedkeyvalues": [
+        [
+            "lb3",
+            "Omar"
+        ]
+    ],
+    "size": 18,
+    "viewconfig": {
+        "toggleViewConfig": {
+            "viewStyle": 0
+        }
+    },
+    "viewtype": 0,
+    "wType": "ListBox",
+    "zindex": 1
+}

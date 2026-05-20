@@ -36,7 +36,8 @@
     "canUpdateUI": true,
     "children": [
         "CstemailId",
-        "TextFieldCstEmail"
+        "TextFieldCstEmail",
+        "lblEmailR"
     ],
     "clipbounds": false,
     "containerweight": 100,

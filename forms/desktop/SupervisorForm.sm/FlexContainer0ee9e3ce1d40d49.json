@@ -1,0 +1,74 @@
+{
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "650dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "se442fd7c6e244518b7440246d03bb00",
+    "_top_": {
+        "type": "string",
+        "value": "0"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "35.74%"
+    },
+    "allboxes": [],
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "children": [
+        "FlexContainer0eeea4d175d3a47",
+        "Label0b54a51ffeb2146",
+        "BookingID",
+        "BookingIdValue",
+        "FullName",
+        "FullNameValue",
+        "EmailID",
+        "EmailIdValue",
+        "PropertyType",
+        "PropertyTypeValue",
+        "PestType"
+    ],
+    "clipbounds": false,
+    "containerweight": 100,
+    "disabledSkins": {
+        "blockedUISkin": "se10403881e545c88517e38d1704fe6e",
+        "focusSkin": "s055b30cc8544a4092521d1a3c930a38"
+    },
+    "enablescrolling": true,
+    "focusskin": "",
+    "id": "FlexContainer0ee9e3ce1d40d49",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "jebdde51549d4e7080d6a01b26a1cbb1",
+    "layouttype": 2,
+    "name": "kony.ui.FlexContainer",
+    "parent": "FlexCustomerDetailsContainer",
+    "pf": "SupervisorForm",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "retainflowhorizontalalignment": false,
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "wType": "FlexContainer",
+    "widgetalignment": 1
+}

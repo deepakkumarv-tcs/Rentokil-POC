@@ -36,7 +36,8 @@
     "canUpdateUI": true,
     "children": [
         "CstNumberLabel",
-        "TextFieldCstContactNumber"
+        "TextFieldCstContactNumber",
+        "lblCustNumR"
     ],
     "clipbounds": false,
     "containerweight": 100,

@@ -1,0 +1,62 @@
+{
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "88px"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "-15px"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "sc283e61e2024f0f8a5eb9bdeedd13dd",
+    "_top_": {
+        "type": "string",
+        "value": "0px"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "101.90%"
+    },
+    "allboxes": [],
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "children": [],
+    "clipbounds": false,
+    "containerweight": 100,
+    "disabledSkins": {
+        "blockedUISkin": "se10403881e545c88517e38d1704fe6e",
+        "focusSkin": "s055b30cc8544a4092521d1a3c930a38"
+    },
+    "enablescrolling": true,
+    "focusskin": "",
+    "id": "HeaderGroup",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "cdb2c76d24ed4c33b4ea9b85d70fa0da",
+    "layouttype": 2,
+    "name": "kony.ui.FlexContainer",
+    "parent": "serviceBooking",
+    "pf": "serviceBooking",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "retainflowhorizontalalignment": false,
+    "snapgridsize": "10",
+    "snaptogrid": true,
+    "wType": "FlexContainer",
+    "widgetalignment": 1
+}

@@ -36,7 +36,8 @@
     "canUpdateUI": true,
     "children": [
         "CstHouseLabel",
-        "TextFieldCstHouse"
+        "TextFieldCstHouse",
+        "lblAddressHome"
     ],
     "clipbounds": false,
     "containerweight": 100,

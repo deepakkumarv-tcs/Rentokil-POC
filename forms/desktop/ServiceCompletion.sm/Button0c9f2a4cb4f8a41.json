@@ -1,0 +1,65 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "410dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "se094510de89441b860fc5400c052132",
+    "_text_": "Submit",
+    "_top_": {
+        "type": "string",
+        "value": "566dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "300dp"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "desktopweb": {
+        "psp": {
+            "hoverSkin": "s232e492cf9b47c18522c1e24779d5ab"
+        }
+    },
+    "disabledSkins": {
+        "blockedUISkin": "sad650e3b554410cb830f137fe29d4c9",
+        "pressedSkin": "se7a1b37f11b4bf5828530c358dac47d"
+    },
+    "displaytext": true,
+    "focusskin": "sc577a4ad39847049b25a2b43fe34999",
+    "id": "Button0c9f2a4cb4f8a41",
+    "ide_onClick": "AS_Button_ibb0dafec9634ffe9b93be10e14b4f8b",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "d8c8941b0a2f45e4b262756a645e5d8a",
+    "name": "kony.ui.Button",
+    "parent": "ServiceCompletion",
+    "pf": "ServiceCompletion",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "wType": "Button",
+    "zindex": 1
+}
