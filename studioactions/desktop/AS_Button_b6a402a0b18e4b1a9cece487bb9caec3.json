@@ -421,9 +421,22 @@
         }, {
             "id": "ADD_SNIPPET_ef0e72fa248248f7903d08a6c9613710",
             "type": "ADD_SNIPPET",
-            "codeSnippet": "alert('Booking is successfully completed');",
+            "codeSnippet": "alert('Booking is successfully completed');\n",
             "parentId": "_i08cf197425d44ecb9dff1e71f076bc9",
             "callbackType": null
+        }, {
+            "id": "NAVIGATE_TO_FORM__j76aab0dce054640913c70f7f81a7627",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmDashboard",
+            "formKUID": "gdce3636383e448389c5ea6f457069ec",
+            "projectName": "Rentokil-POC",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "_i08cf197425d44ecb9dff1e71f076bc9",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": "",
+            "isCustomInput": false
         }]
     }
 }

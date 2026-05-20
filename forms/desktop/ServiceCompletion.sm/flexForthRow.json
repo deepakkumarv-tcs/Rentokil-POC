@@ -37,8 +37,8 @@
     "children": [
         "CopylabelServRequestID0ff6c55ee22f74e",
         "CopylabelCustomerName0d302c82d479049",
-        "CopyvalueServRequestID0b47eea2cd54f49",
-        "CopyvalueCustomerName0j803e9730aa747"
+        "statusC",
+        "desc"
     ],
     "clipbounds": false,
     "containerweight": 100,

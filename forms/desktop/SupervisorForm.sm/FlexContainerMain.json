@@ -37,7 +37,6 @@
     "bounces": true,
     "canUpdateUI": true,
     "children": [
-        "FlexHeader",
         "FlexContainer0h6e9e029f23d44",
         "FlexContainerMain2"
     ],

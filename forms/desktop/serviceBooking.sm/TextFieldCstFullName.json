@@ -45,11 +45,10 @@
     "containerheightmode": 1,
     "containerweight": 100,
     "contentalignment": 7,
-    "desktopweb": {
-        "placeholderSkin": "s3ac74c4346b4755ab62192425b76979"
-    },
+    "desktopweb": {},
     "disabledSkins": {
-        "blockedUISkin": "s4265d3422894a7ab34eefc4bd0af188"
+        "blockedUISkin": "s4265d3422894a7ab34eefc4bd0af188",
+        "placeholderSkin": "s3ac74c4346b4755ab62192425b76979"
     },
     "focusskin": "s7aa03baf94d4548829bc0c421398dae",
     "id": "TextFieldCstFullName",
@@ -63,7 +62,6 @@
     "name": "kony.ui.TextBox2",
     "parent": "FlexLBR1",
     "pf": "serviceBooking",
-    "placeholderskin": "s3ac74c4346b4755ab62192425b76979",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
     "securetextentry": false,

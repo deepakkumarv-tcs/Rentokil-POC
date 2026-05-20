@@ -38,9 +38,9 @@
         "CopylabelServRequestID0d2b841974ab74f",
         "CopylabelCustomerName0e85cccb9ca0f4b",
         "CopylabelEmail0i46cf25783414e",
-        "CopyvalueServRequestID0f47a010f039842",
-        "CopyvalueCustomerName0i6f5fd8f1d8b46",
-        "CopyvalueEmail0ad2ae1b5c3944e"
+        "techId",
+        "addr",
+        "cityC"
     ],
     "clipbounds": false,
     "containerweight": 100,

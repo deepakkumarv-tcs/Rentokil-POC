@@ -25,7 +25,7 @@
     "_skin_": "s9148c4056fc4f96b3468377bb4c1e8e",
     "_top_": {
         "type": "string",
-        "value": "0dp"
+        "value": "138dp"
     },
     "_width_": {
         "type": "string",
@@ -35,7 +35,9 @@
     "autogrowmode": 0,
     "canUpdateUI": true,
     "children": [
-        "FlexContainer0ee9e3ce1d40d49"
+        "FlexContainer0ee9e3ce1d40d49",
+        "FlexContainer0d81bf451b83948",
+        "FlexContainer0b403cf2f9dfa4b"
     ],
     "clipbounds": false,
     "containerweight": 100,

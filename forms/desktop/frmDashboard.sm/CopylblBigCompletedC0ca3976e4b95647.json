@@ -1,0 +1,67 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizLabel",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "13dp"
+    },
+    "_margin_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s3091b1990c9403cb6d2304710192d84",
+    "_text_": "10",
+    "_top_": {
+        "type": "string",
+        "value": "5dp"
+    },
+    "_width_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_wrapping_": 2,
+    "android": {
+        "textStyle": {
+            "letterSpacing": 0,
+            "strikeThrough": false
+        }
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "id": "CopylblBigCompletedC0ca3976e4b95647",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "iphone": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "cb81f7916e6c4e5f8ced2f2f1a520435",
+    "name": "kony.ui.Label",
+    "parent": "fcVerticalInComingC",
+    "pf": "frmDashboard",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "tooltip": "",
+    "wType": "Label",
+    "zindex": 1
+}

@@ -2,11 +2,11 @@
     "DNDConfig": null,
     "_height_": {
         "type": "string",
-        "value": "330dp"
+        "value": "160dp"
     },
     "_left_": {
         "type": "string",
-        "value": "-3dp"
+        "value": "0dp"
     },
     "_margin_": [
         0,
@@ -25,7 +25,7 @@
     "_skin_": "s9cdad7f9a214662b0001799f02c0b7c",
     "_top_": {
         "type": "string",
-        "value": "1260dp"
+        "value": "-45dp"
     },
     "_width_": {
         "type": "string",
@@ -35,9 +35,8 @@
     "autogrowmode": 0,
     "canUpdateUI": true,
     "children": [
-        "Label0h3a75b68e99a4e",
+        "lblChooseTech",
         "TechnicianValues",
-        "Cancel",
         "Assign"
     ],
     "clipbounds": false,

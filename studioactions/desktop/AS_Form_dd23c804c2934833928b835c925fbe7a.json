@@ -1,0 +1,32 @@
+{
+    "AS_Form_dd23c804c2934833928b835c925fbe7a": {
+        "id": "AS_Form_dd23c804c2934833928b835c925fbe7a",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "ServiceCompletion",
+            "type": "forms",
+            "platform": "",
+            "KUID": "be3f0a4d68124ba09372ae5e99b3dce0"
+        },
+        "language": "js",
+        "eventType": "init",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__b5a802698ee44270a8a87d7c122567c6",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "fetchServiceDataServCompletion",
+            "display": "fetchServiceDataServCompletion",
+            "inputparams": [{
+                "name": "id",
+                "value": "2"
+            }],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

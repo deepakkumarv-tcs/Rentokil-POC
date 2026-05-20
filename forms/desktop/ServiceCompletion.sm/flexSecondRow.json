@@ -38,9 +38,9 @@
         "CopylabelServRequestID0gfa0b60845b64a",
         "CopylabelCustomerName0c3da750c262f4d",
         "CopylabelEmail0ccf5fc0dc98849",
-        "CopyvalueServRequestID0e7923ad7e94e43",
-        "CopyvalueCustomerName0a5df99d82bf341",
-        "CopyvalueEmail0c90e277d154640"
+        "customerPhone",
+        "servArea",
+        "pctrlType"
     ],
     "clipbounds": false,
     "containerweight": 100,

@@ -15,6 +15,11 @@
         0
     ],
     "_percent_": true,
+    "_pxMenuIndex": [
+        2,
+        1,
+        5
+    ],
     "_skin_": "s8d86b522e274827aeeed664ff4ef6aa",
     "_title_": null,
     "addWidgetsdone": false,
@@ -45,7 +50,8 @@
     "canUpdateUI": true,
     "canvasWidth": 1200,
     "children": [
-        "FlexContainerMain"
+        "FlexContainerMain",
+        "HeaderGroup"
     ],
     "containerweight": 100,
     "controllerInfo": {

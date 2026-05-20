@@ -15,6 +15,18 @@
         "language": "js",
         "eventType": "onClick",
         "actions": [{
+            "id": "ADD_LOCAL_VARIABLE_af86de6308d441a38c76cbcb9c1b44a9",
+            "type": "ADD_LOCAL_VARIABLE",
+            "name": "testId",
+            "isGlobal": false,
+            "valuetype": "expression",
+            "datatype": "number",
+            "value": "0"
+        }, {
+            "id": "ADD_SNIPPET_b3c52f654ad844ac906bbcf2454ddbbb",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "g_id = Number(this.view.txtServiceID.text);\ntestId = g_id;"
+        }, {
             "id": "INVOKE_SERVICE_b29689b84b7744a38456771b026f84f1",
             "type": "INVOKE_ASYNC_SERVICE",
             "inputparams": null,
@@ -118,22 +130,16 @@
                         }
                     }
                 },
-                "ME_Mapping_i04c961e64a6401ca69f8eb3159b7821": {
+                "ME_Mapping_i07b24f115dd43a583c42181c4ed2763": {
                     "channel": "desktop",
-                    "id": "ME_Mapping_i04c961e64a6401ca69f8eb3159b7821",
+                    "id": "ME_Mapping_i07b24f115dd43a583c42181c4ed2763",
                     "type": "MAPPING",
                     "callbackType": null,
                     "rectified": true,
                     "source": {
-                        "type": "Forms",
-                        "propertyName": "text",
-                        "widgetId": "txtServiceID",
-                        "widgetPath": "this.view.txtServiceID",
-                        "widgetType": "TextField",
-                        "dataType": "string",
-                        "itemId": "ServiceCompletion",
-                        "widgetKUID": "bf5fcfde934d4a0b9b93ea65588fdfc4",
-                        "itemKUID": "be3f0a4d68124ba09372ae5e99b3dce0",
+                        "type": "Variables",
+                        "propertyName": "testId",
+                        "dataType": "number",
                         "forkedPlatform": "all"
                     },
                     "target": {
@@ -151,7 +157,7 @@
                     }
                 }
             },
-            "mappingsOrder": ["ME_Mapping_f9f96a7884ae49dc83f213a599edb891", "ME_Mapping_bd832c4f3a264513989a2dcde978f113", "ME_Mapping_c002c900002f46e3bb1c9d4b49094fad", "ME_Mapping_i04c961e64a6401ca69f8eb3159b7821"],
+            "mappingsOrder": ["ME_Mapping_f9f96a7884ae49dc83f213a599edb891", "ME_Mapping_bd832c4f3a264513989a2dcde978f113", "ME_Mapping_c002c900002f46e3bb1c9d4b49094fad", "ME_Mapping_i07b24f115dd43a583c42181c4ed2763"],
             "serviceconfig": {
                 "servicename": "NewService",
                 "serviceid": "a0b05836-f200-4b83-b84a-37d50a7083e2",

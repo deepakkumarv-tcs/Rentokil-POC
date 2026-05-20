@@ -1,0 +1,365 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizSegment2",
+    "DNDConfig": null,
+    "_data_": [
+        {
+            "btnAction": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Button"
+            },
+            "lbBookingid": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "lbCustomer": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "lbDateTime": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "lbStatus": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "lbTechnician": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            }
+        },
+        {
+            "btnAction": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Button"
+            },
+            "lbBookingid": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "lbCustomer": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "lbDateTime": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "lbStatus": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "lbTechnician": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            }
+        },
+        {
+            "btnAction": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Button"
+            },
+            "lbBookingid": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "lbCustomer": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "lbDateTime": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "lbStatus": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "lbTechnician": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            }
+        },
+        {
+            "btnAction": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Button"
+            },
+            "lbBookingid": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "lbCustomer": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "lbDateTime": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "lbStatus": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "lbTechnician": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            }
+        },
+        {
+            "btnAction": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Button"
+            },
+            "lbBookingid": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "lbCustomer": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "lbDateTime": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "lbStatus": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "lbTechnician": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            }
+        },
+        {
+            "btnAction": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Button"
+            },
+            "lbBookingid": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "lbCustomer": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "lbDateTime": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "lbStatus": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "lbTechnician": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            }
+        },
+        {
+            "btnAction": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Button"
+            },
+            "lbBookingid": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "lbCustomer": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "lbDateTime": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "lbStatus": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "lbTechnician": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            }
+        },
+        {
+            "btnAction": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Button"
+            },
+            "lbBookingid": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "lbCustomer": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "lbDateTime": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "lbStatus": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "lbTechnician": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            }
+        },
+        {
+            "btnAction": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Button"
+            },
+            "lbBookingid": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "lbCustomer": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "lbDateTime": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "lbStatus": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "lbTechnician": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            }
+        },
+        {
+            "btnAction": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Button"
+            },
+            "lbBookingid": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "lbCustomer": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "lbDateTime": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "lbStatus": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "lbTechnician": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            }
+        }
+    ],
+    "_height_": {
+        "type": "string",
+        "value": "399dp"
+    },
+    "_indicator_": "none",
+    "_left_": {
+        "type": "string",
+        "value": "20dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_top_": {
+        "type": "string",
+        "value": "196dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "98.17%"
+    },
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "counter": "09",
+    "focusedindex": null,
+    "focuseditem": null,
+    "groupcells": false,
+    "hasSections": false,
+    "id": "SegmentBookingTable",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iphone": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "a7991cd534c440a198e1c3f074c93888",
+    "masterdata": {},
+    "name": "kony.ui.SegmentedUI2",
+    "needpageindicator": true,
+    "pageoffdotimage": "pageoffdot.png",
+    "pageondotimage": "pageondot.png",
+    "paginationconfig": {
+        "position": "bottom"
+    },
+    "parent": "flexContainerDashboard",
+    "pf": "frmDashboard",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "retainselection": false,
+    "rowTemplateId": "cda89acfe3a04dae9791d7c4a3076d71",
+    "rowcounter": 9,
+    "rowfocusskin": "sa899be19d624ec5a70ee3228d753188",
+    "rowskin": "s664dada7f4d4784846572823b9374bf",
+    "rowtemplate": "flxDashboard",
+    "screenlevelwidget": false,
+    "seccounter": 0,
+    "sectionheaderskin": "s72174d679504d7fab236c63dc5b1284",
+    "selectedRows": null,
+    "selectedState": false,
+    "selectedindex": null,
+    "selectedindices": null,
+    "selecteditems": null,
+    "selectedsectionindex": 0,
+    "selectionbehavior": "default",
+    "separatorcolor": "aaaaaa00",
+    "separatorrequired": true,
+    "separatorthickness": 1,
+    "showscrollbars": false,
+    "viewtype": "tableview",
+    "vizProps": {},
+    "wType": "Segment",
+    "widgetalignment": 5,
+    "widgetdatamap": {
+        "btnAction": "btnAction",
+        "flxDashboard": "flxDashboard",
+        "lbBookingid": "lbBookingid",
+        "lbCustomer": "lbCustomer",
+        "lbDateTime": "lbDateTime",
+        "lbStatus": "lbStatus",
+        "lbTechnician": "lbTechnician"
+    },
+    "zindex": 1
+}

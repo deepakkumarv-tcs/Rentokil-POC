@@ -21,9 +21,9 @@
         0,
         0
     ],
-    "_placeholder_": "1",
+    "_placeholder_": "",
     "_skin_": "s95393039f774d8bba69bc8e64f3c868",
-    "_text_": "",
+    "_text_": "1",
     "_top_": {
         "type": "string",
         "value": "35dp"
@@ -52,10 +52,10 @@
     "info": null,
     "iscustomlayout": false,
     "isvisible": true,
-    "keyboardstyle": "digitpad",
+    "keyboardstyle": "A",
     "keyboardtype": "A",
     "kuid": "bf5fcfde934d4a0b9b93ea65588fdfc4",
-    "mode": "A",
+    "mode": "N",
     "name": "kony.ui.TextBox2",
     "paddinginpixel": false,
     "parent": "flexFirstRow",
