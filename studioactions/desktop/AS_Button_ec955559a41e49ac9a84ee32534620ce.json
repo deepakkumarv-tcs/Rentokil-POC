@@ -1,0 +1,24 @@
+{
+    "AS_Button_ec955559a41e49ac9a84ee32534620ce": {
+        "id": "AS_Button_ec955559a41e49ac9a84ee32534620ce",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "technicianDashboard",
+            "type": "forms",
+            "platform": null,
+            "KUID": "j2605aed19bd47bfbf6ee475c68419a2"
+        },
+        "language": "js",
+        "eventType": "onClick",
+        "actions": [{
+            "id": "ADD_SNIPPET_a0ff886435094842b1d2201fed5103a3",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "// console.log(this);\n// var form2 = new kony.mvc.Navigation(\"frmTechViewDetails\");\n// form2.navigate({\n//   id: eventobject.parent.parent.jobCard_0_lblReqId.text\n// })\nconst match = eventobject.id.match(/jobCard_(\\d+)_btnJobDetails/);\nconst id = \"jobCard_\"+match[1]+\"_lblReqId\";\nvar form2 = new kony.mvc.Navigation(\"frmTechViewDetails\");\nform2.navigate({\n  id: eventobject.parent.parent[id].text\n})\n",
+            "parentId": null
+        }]
+    }
+}

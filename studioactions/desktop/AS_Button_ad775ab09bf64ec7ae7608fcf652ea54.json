@@ -1,0 +1,24 @@
+{
+    "AS_Button_ad775ab09bf64ec7ae7608fcf652ea54": {
+        "id": "AS_Button_ad775ab09bf64ec7ae7608fcf652ea54",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "technicianDashboard",
+            "type": "forms",
+            "platform": "",
+            "KUID": "j2605aed19bd47bfbf6ee475c68419a2"
+        },
+        "language": "js",
+        "eventType": "onClick",
+        "actions": [{
+            "id": "ADD_SNIPPET_d17ac2932192444bb6eb49d00988fe7d",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "//console.log(this);\n///debugger;\nconst match = eventobject.id.match(/jobCard_(\\d+)_btnStartVisit/);\nconst id = \"jobCard_\"+match[1]+\"_lblReqIdOngoing\";\n//_lblReqIdOngoing\nvar form2 = new kony.mvc.Navigation(\"ServiceCompletion\");\n\nform2.navigate({\n  id: eventobject.parent.parent[id].text\n})\n",
+            "parentId": null
+        }]
+    }
+}

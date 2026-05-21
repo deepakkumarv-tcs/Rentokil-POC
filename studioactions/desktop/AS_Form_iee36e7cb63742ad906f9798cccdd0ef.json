@@ -1,0 +1,24 @@
+{
+    "AS_Form_iee36e7cb63742ad906f9798cccdd0ef": {
+        "id": "AS_Form_iee36e7cb63742ad906f9798cccdd0ef",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "popupAsg",
+            "type": "forms",
+            "platform": "",
+            "KUID": "e32d2f5b0c7b4540a17dab8d20793ed8"
+        },
+        "language": "js",
+        "eventType": "preShow",
+        "actions": [{
+            "id": "ADD_SNIPPET_abeb3244c9da460ba34069feff627394",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "if(this.navigationContext) {\n console.log('Navigation context',this.navigationContext);\n  if(this.navigationContext.message) {\n    this.view.lblAssSuccessMsg.text = this.navigationContext.message;\n  } else if (this.navigationContext.variable_servStatus) {\n   this.view.lblAssSuccessMsg.text = \"Service is completed\";\n  } else {\n    this.view.lblAssSuccessMsg.text = \"Technician is assigned\";\n  }\n}",
+            "parentId": null
+        }]
+    }
+}

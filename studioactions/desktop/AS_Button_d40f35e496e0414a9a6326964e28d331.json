@@ -1,0 +1,30 @@
+{
+    "AS_Button_d40f35e496e0414a9a6326964e28d331": {
+        "id": "AS_Button_d40f35e496e0414a9a6326964e28d331",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "Home",
+            "type": "forms",
+            "platform": "",
+            "KUID": "d9dc1c3c040c4c5aa4c0efd1b49c6bdf"
+        },
+        "language": "js",
+        "eventType": "onClick",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM__h24940327b70416abbd9d28b98f286d4",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmSupervisorLogin",
+            "formKUID": "e3ee4e42f9574aef8e8aa96b75bc7f52",
+            "projectName": "Rentokil-POC",
+            "mappings": {},
+            "mappingsOrder": [],
+            "enableMappingEditor": true,
+            "package": "",
+            "isCustomInput": false
+        }]
+    }
+}

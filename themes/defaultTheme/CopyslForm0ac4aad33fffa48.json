@@ -1,8 +1,152 @@
 {
+  "android": {
+    "background_image": "adobestock_1823351816.png",
+    "bg_type": "image",
+    "isForked": true
+  },
+  "androidwearos": {
+    "background_image": "adobestock_1823351816.png",
+    "bg_type": "image",
+    "isForked": true
+  },
   "background_color": "eef1f0ff",
   "bg_type": "one",
   "border_color": "ffffffff",
+  "desktopweb": {
+    "background_image": "adobestock_1823351816.png",
+    "bg_type": "image",
+    "bottom_left_border_color": "ffffffff",
+    "bottom_right_border_color": "ffffffff",
+    "customCSS": "background: rgba(0,0,0,0.5) !important;\nz-index:1;",
+    "isCustomCSSEnabled": false,
+    "isForked": true,
+    "top_left_border_color": "ffffffff",
+    "top_right_border_color": "ffffffff"
+  },
+  "ipad": {
+    "background_image": "adobestock_1823351816.png",
+    "bg_type": "image",
+    "isForked": true
+  },
+  "iphone": {
+    "background_image": "adobestock_1823351816.png",
+    "bg_type": "image",
+    "isForked": true
+  },
   "isDefaultSkin": false,
+  "kiosk": {
+    "background_image": "adobestock_1823351816.png",
+    "bg_type": "image",
+    "isForked": true
+  },
   "kuid": "sa5a84fe6e2e4a1fae45de0d5101d0a4",
-  "wType": "Form"
+  "nativemac": {
+    "background_image": "adobestock_1823351816.png",
+    "bg_type": "image",
+    "bottom_left_border_color": "ffffffff",
+    "bottom_right_border_color": "ffffffff",
+    "customCSS": "background: rgba(0,0,0,0.5) !important;\nz-index:1;",
+    "isCustomCSSEnabled": false,
+    "isForked": true,
+    "top_left_border_color": "ffffffff",
+    "top_right_border_color": "ffffffff"
+  },
+  "nativewin": {
+    "background_image": "adobestock_1823351816.png",
+    "bg_type": "image",
+    "bottom_left_border_color": "ffffffff",
+    "bottom_right_border_color": "ffffffff",
+    "customCSS": "background: rgba(0,0,0,0.5) !important;\nz-index:1;",
+    "isCustomCSSEnabled": false,
+    "isForked": true,
+    "top_left_border_color": "ffffffff",
+    "top_right_border_color": "ffffffff"
+  },
+  "spaan": {
+    "background_image": "adobestock_1823351816.png",
+    "bg_type": "image",
+    "bottom_left_border_color": "ffffffff",
+    "bottom_right_border_color": "ffffffff",
+    "customCSS": "background: rgba(0,0,0,0.5) !important;\nz-index:1;",
+    "isCustomCSSEnabled": false,
+    "isForked": true,
+    "top_left_border_color": "ffffffff",
+    "top_right_border_color": "ffffffff"
+  },
+  "spaandroidtablet": {
+    "background_image": "adobestock_1823351816.png",
+    "bg_type": "image",
+    "bottom_left_border_color": "ffffffff",
+    "bottom_right_border_color": "ffffffff",
+    "customCSS": "background: rgba(0,0,0,0.5) !important;\nz-index:1;",
+    "isCustomCSSEnabled": false,
+    "isForked": true,
+    "top_left_border_color": "ffffffff",
+    "top_right_border_color": "ffffffff"
+  },
+  "spaip": {
+    "background_image": "adobestock_1823351816.png",
+    "bg_type": "image",
+    "bottom_left_border_color": "ffffffff",
+    "bottom_right_border_color": "ffffffff",
+    "customCSS": "background: rgba(0,0,0,0.5) !important;\nz-index:1;",
+    "isCustomCSSEnabled": false,
+    "isForked": true,
+    "top_left_border_color": "ffffffff",
+    "top_right_border_color": "ffffffff"
+  },
+  "spaipad": {
+    "background_image": "adobestock_1823351816.png",
+    "bg_type": "image",
+    "bottom_left_border_color": "ffffffff",
+    "bottom_right_border_color": "ffffffff",
+    "customCSS": "background: rgba(0,0,0,0.5) !important;\nz-index:1;",
+    "isCustomCSSEnabled": false,
+    "isForked": true,
+    "top_left_border_color": "ffffffff",
+    "top_right_border_color": "ffffffff"
+  },
+  "spawindowstablet": {
+    "background_image": "adobestock_1823351816.png",
+    "bg_type": "image",
+    "bottom_left_border_color": "ffffffff",
+    "bottom_right_border_color": "ffffffff",
+    "customCSS": "background: rgba(0,0,0,0.5) !important;\nz-index:1;",
+    "isCustomCSSEnabled": false,
+    "isForked": true,
+    "top_left_border_color": "ffffffff",
+    "top_right_border_color": "ffffffff"
+  },
+  "spawinphone8": {
+    "background_image": "adobestock_1823351816.png",
+    "bg_type": "image",
+    "bottom_left_border_color": "ffffffff",
+    "bottom_right_border_color": "ffffffff",
+    "customCSS": "background: rgba(0,0,0,0.5) !important;\nz-index:1;",
+    "isCustomCSSEnabled": false,
+    "isForked": true,
+    "top_left_border_color": "ffffffff",
+    "top_right_border_color": "ffffffff"
+  },
+  "tabrcandroid": {
+    "background_image": "adobestock_1823351816.png",
+    "bg_type": "image",
+    "isForked": true
+  },
+  "wType": "Form",
+  "watchos": {
+    "background_image": "adobestock_1823351816.png",
+    "bg_type": "image",
+    "isForked": true
+  },
+  "windows8": {
+    "background_image": "adobestock_1823351816.png",
+    "bg_type": "image",
+    "isForked": true
+  },
+  "winphone8": {
+    "background_image": "adobestock_1823351816.png",
+    "bg_type": "image",
+    "isForked": true
+  }
 }

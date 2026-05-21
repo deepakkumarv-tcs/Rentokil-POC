@@ -1,0 +1,60 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_left_": {
+        "type": "number",
+        "value": "20"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        16,
+        8,
+        16,
+        8
+    ],
+    "_right_": {
+        "type": "number",
+        "value": "0"
+    },
+    "_skin_": "s242d53aaade4ec8ae71552ee26b090d",
+    "_text_": "Accept Job",
+    "_top_": {
+        "type": "number",
+        "value": "0"
+    },
+    "_width_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "disabledSkins": {
+        "blockedUISkin": "sad650e3b554410cb830f137fe29d4c9",
+        "hoverSkin": "sacac96815eb4ea785aca546c79e8734",
+        "pressedSkin": "se7a1b37f11b4bf5828530c358dac47d"
+    },
+    "displaytext": true,
+    "focusskin": "s9749f813c6c40818b1904581d03e299",
+    "id": "btnAcceptJob",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "aa711474d9c640cbb2193ec4cf0c34a3",
+    "name": "kony.ui.Button",
+    "paddinginpixel": true,
+    "parent": "flxActions",
+    "pf": "technicianDashboard",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "wType": "Button"
+}

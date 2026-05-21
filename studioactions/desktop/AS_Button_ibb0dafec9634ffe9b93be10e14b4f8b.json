@@ -15,6 +15,14 @@
         "language": "js",
         "eventType": "onClick",
         "actions": [{
+            "id": "ADD_LOCAL_VARIABLE_j18d3ed3e2634961afc14e1ac8136ba6",
+            "type": "ADD_LOCAL_VARIABLE",
+            "name": "servStatus",
+            "isGlobal": false,
+            "valuetype": "expression",
+            "datatype": "string",
+            "value": "\"Completed\""
+        }, {
             "id": "ADD_LOCAL_VARIABLE_af86de6308d441a38c76cbcb9c1b44a9",
             "type": "ADD_LOCAL_VARIABLE",
             "name": "testId",
@@ -155,9 +163,35 @@
                             "operationid": "53"
                         }
                     }
+                },
+                "ME_Mapping_fe18f7993b3e4ee0b11c49add3056955": {
+                    "channel": "desktop",
+                    "id": "ME_Mapping_fe18f7993b3e4ee0b11c49add3056955",
+                    "type": "MAPPING",
+                    "callbackType": null,
+                    "rectified": true,
+                    "source": {
+                        "type": "Variables",
+                        "propertyName": "servStatus",
+                        "dataType": "string",
+                        "forkedPlatform": "all"
+                    },
+                    "target": {
+                        "type": "Services",
+                        "propertyName": "service_status",
+                        "dataType": "string",
+                        "forkedPlatform": "all",
+                        "serviceconfig": {
+                            "servicename": "NewService",
+                            "serviceid": "a0b05836-f200-4b83-b84a-37d50a7083e2",
+                            "type": "integration",
+                            "operationname": "rentokil_db_service_request_trx_update",
+                            "operationid": "53"
+                        }
+                    }
                 }
             },
-            "mappingsOrder": ["ME_Mapping_f9f96a7884ae49dc83f213a599edb891", "ME_Mapping_bd832c4f3a264513989a2dcde978f113", "ME_Mapping_c002c900002f46e3bb1c9d4b49094fad", "ME_Mapping_i07b24f115dd43a583c42181c4ed2763"],
+            "mappingsOrder": ["ME_Mapping_f9f96a7884ae49dc83f213a599edb891", "ME_Mapping_bd832c4f3a264513989a2dcde978f113", "ME_Mapping_c002c900002f46e3bb1c9d4b49094fad", "ME_Mapping_i07b24f115dd43a583c42181c4ed2763", "ME_Mapping_fe18f7993b3e4ee0b11c49add3056955"],
             "serviceconfig": {
                 "servicename": "NewService",
                 "serviceid": "a0b05836-f200-4b83-b84a-37d50a7083e2",
@@ -166,6 +200,37 @@
                 "operationid": "53"
             },
             "enableMappingEditor": true
+        }, {
+            "id": "NAVIGATE_TO_FORM__d30f094b921f4c15bcf0b9187913711f",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "popupAsg",
+            "formKUID": "e32d2f5b0c7b4540a17dab8d20793ed8",
+            "projectName": "Rentokil-POC",
+            "mappings": {
+                "ME_Mapping_cf52dd98ee3d4a73861319c5ad070ede": {
+                    "channel": "desktop",
+                    "id": "ME_Mapping_cf52dd98ee3d4a73861319c5ad070ede",
+                    "type": "MAPPING",
+                    "callbackType": null,
+                    "rectified": true,
+                    "source": {
+                        "type": "Variables",
+                        "propertyName": "servStatus",
+                        "propertyKey": "variable_servStatus",
+                        "dataType": "string",
+                        "forkedPlatform": "all"
+                    },
+                    "target": {
+                        "forkedPlatform": "all"
+                    }
+                }
+            },
+            "mappingsOrder": ["ME_Mapping_cf52dd98ee3d4a73861319c5ad070ede"],
+            "enableMappingEditor": true,
+            "package": "",
+            "enableNavigationObj": true,
+            "navigationObj": "{\n    \"variable_servStatus\": servStatus,\n    \"_meta_\": {\n        \"eventName\": \"onClick\",\n        \"widgetId\": \"Button0c9f2a4cb4f8a41\"\n    }\n}",
+            "isCustomInput": false
         }]
     }
 }

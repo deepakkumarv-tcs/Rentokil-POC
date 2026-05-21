@@ -1,0 +1,71 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "25dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "77dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s717a997691245c9b42fad69736268d3",
+    "_text_": "Open New Account",
+    "_top_": {
+        "type": "string",
+        "value": "15dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "128dp"
+    },
+    "android": {
+        "contentAlignment": 4
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "desktopweb": {
+        "psp": {
+            "hoverSkin": "s238e75bca044793be8d5edcf3c3f974"
+        }
+    },
+    "disabledSkins": {},
+    "displaytext": true,
+    "focusskin": "s238e75bca044793be8d5edcf3c3f974",
+    "id": "btnOpenNewAcnt",
+    "info": null,
+    "iphone": {
+        "left": {
+            "type": "string",
+            "value": "5%"
+        }
+    },
+    "isvisible": true,
+    "kuid": "u7a55cb238bc4d3e8a76da3f339588f0",
+    "masterType": 1,
+    "name": "kony.ui.Button",
+    "parent": "flxLoginWrapper",
+    "pf": "userwidgetmodel",
+    "spaan": {
+        "width": {
+            "type": "string",
+            "value": "140dp"
+        }
+    },
+    "wType": "Button",
+    "zindex": 1
+}

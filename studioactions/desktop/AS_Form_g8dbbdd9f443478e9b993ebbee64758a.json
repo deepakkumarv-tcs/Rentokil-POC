@@ -7,7 +7,7 @@
             "name": "eventobject"
         }],
         "contextObj": {
-            "name": "frmHome",
+            "name": "frmTechViewDetails",
             "type": "forms",
             "platform": "",
             "KUID": "i0a7416702294d328b14fe3e49f8fd7a"
@@ -17,7 +17,7 @@
         "actions": [{
             "id": "ADD_SNIPPET_cc2f9d701c944ee3a832ef53e69cb8c9",
             "type": "ADD_SNIPPET",
-            "codeSnippet": "/*if(this.navigationContext && this.navigationContext.ServiceID_text) {\n  var service_id = this.navigationContext.ServiceID_text;\n  this.fetchServiceData(service_id);\n}*/\nthis.fetchServiceData(1);",
+            "codeSnippet": "if(this.navigationContext && this.navigationContext.id) {\n  var service_id = this.navigationContext.id;\n  this.fetchServiceData(service_id);\n}\n//this.fetchServiceData(1);",
             "parentId": null
         }]
     }

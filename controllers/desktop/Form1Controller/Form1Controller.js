@@ -48,7 +48,38 @@ define({
     alert("Network invocation failed: " + JSON.stringify(error));
   },
   bindDataToSegment: function(dataArray) {
+    var self = this;
+    //dataArray = dataArray.filter(f=>f.customer_name !== '');
+    const statusCounts = dataArray.reduce((acc, obj) => {
+      const status = obj.service_status;
+      acc[status] = (acc[status] || 0) + 1; // increment count
+      return acc;
+    }, {});
 
+    console.log(statusCounts);
+    if(statusCounts['Assigned']) {
+      this.view.lblBigTxtAssigned.text = statusCounts['Assigned'];
+    } else {
+      this.view.lblBigTxtAssigned.text = '0';
+    }
+
+    if(statusCounts['In Progress']) {
+      this.view.lblBigTxtInPro.text = statusCounts['In Progress'];
+    } else {
+      this.view.lblBigTxtInPro.text = '0';
+    }
+
+    if(statusCounts['Completed']) {
+      this.view.lblBigCompletedC.text = statusCounts['Completed'];
+    } else {
+      this.view.lblBigCompletedC.text = '0';
+    }
+
+    if(statusCounts['New']) {
+      this.view.lblInComingRequestC.text = statusCounts['New'];
+    } else {
+      this.view.lblInComingRequestC.text = '0';
+    }
     // Transform the raw backend array into Segment row structures
     const segmentData = dataArray.map((item, index) => {
       let statusSkin = "statusNew";
@@ -64,9 +95,9 @@ define({
       }
       if (item.service_status === "Assigned") {
         statusSkin = "statusAssigned";
-         btnText = 'Re-assign';
+        btnText = 'Re-assign';
       }
-
+		//let date = self.getDate();
       return {
         // Map short summary keys to your template column labels
         "lbBookingid": { 
@@ -74,18 +105,18 @@ define({
         "lbCustomer": {
           text: item.customer_name || "" },
         "lbDateTime": {
-          text: "20-5-2026" },
+          text: "21-05-2026" },
         "lbTechnician": {
-          text: item.technician_id || "" },
+          text: item.technician_name || "" },
         "lbStatus": { 
-         
+
           text: item.service_status || "" },
 
         // Contextually bind the specific row index to the button click handler
         "btnAction": { 
           text: btnText || '', 
           onClick: this.onRowButtonClick.bind(this, index),
-          
+
         }
       };
     });
@@ -101,6 +132,29 @@ define({
     // Pass the target object directly to the next page controller
     const navigationObject = new kony.mvc.Navigation("SupervisorForm");
     navigationObject.navigate(completeRowDetails);
+  },
+  getDate: function() {
+    const now = new Date();
+
+    // Helper to add leading zero
+    const pad = (num) => (num < 10 ? '0' + num : num);
+
+    // Extract date parts
+    const day = pad(now.getDate());
+    const month = pad(now.getMonth() + 1); // Months are 0-indexed
+    const year = now.getFullYear();
+
+    // Extract time parts
+    let hours = now.getHours();
+    const minutes = pad(now.getMinutes());
+
+    // Determine AM/PM
+    const ampm = hours >= 12 ? 'PM' : 'AM';
+    hours = hours % 12; // convert to 12-hour format
+    hours = hours ? hours : 12; // 0 should be 12
+    hours = pad(hours);
+
+    const formattedDate = `${day}-${month}-${year} ${hours}:${minutes} ${ampm}`;
   }
 
 

@@ -1,0 +1,24 @@
+{
+    "AS_Button_d5582cef2e4f412e811bee06838bfd49": {
+        "id": "AS_Button_d5582cef2e4f412e811bee06838bfd49",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "eventType": "onClick",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM__a511d5047e65420da631e77408abe652",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "technicianDashboard",
+            "formKUID": "j2605aed19bd47bfbf6ee475c68419a2",
+            "projectName": "Rentokil-POC",
+            "mappings": {},
+            "mappingsOrder": [],
+            "enableMappingEditor": true,
+            "package": "",
+            "isCustomInput": false
+        }]
+    }
+}

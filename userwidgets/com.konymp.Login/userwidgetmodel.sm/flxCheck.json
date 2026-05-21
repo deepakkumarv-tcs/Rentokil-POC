@@ -1,0 +1,86 @@
+{
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "20dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "183dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "sf673ac21316435e88faaa7d1a8ee41c",
+    "_top_": {
+        "type": "string",
+        "value": "-19dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "20dp"
+    },
+    "allboxes": [],
+    "android": {
+        "left": {
+            "type": "string",
+            "value": "37%"
+        }
+    },
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "children": [
+        "imgCHeckBox"
+    ],
+    "clipbounds": true,
+    "containerweight": 100,
+    "enablescrolling": true,
+    "id": "flxCheck",
+    "ide_onClick": "AS_FlexContainer_h778044957bf4750950d5874df8195b8",
+    "info": null,
+    "iphone": {
+        "left": {
+            "type": "string",
+            "value": "31%"
+        }
+    },
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "u00f3469dcee4a1c86c345ba12d8e8e2",
+    "layouttype": 2,
+    "name": "kony.ui.FlexContainer",
+    "parent": "flxLoginWrapper",
+    "pf": "userwidgetmodel",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "retainflowhorizontalalignment": false,
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "spaan": {
+        "left": {
+            "type": "string",
+            "value": "37%"
+        }
+    },
+    "spaip": {
+        "left": {
+            "type": "string",
+            "value": "170dp"
+        }
+    },
+    "wType": "FlexContainer",
+    "widgetalignment": 1,
+    "zindex": 1
+}

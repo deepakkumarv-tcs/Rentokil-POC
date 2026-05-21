@@ -1,0 +1,29 @@
+{
+    "AS_Button_g9e399205b9c413f9ae12f7c7956f08a": {
+        "id": "AS_Button_g9e399205b9c413f9ae12f7c7956f08a",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmTechViewDetails",
+            "type": "forms",
+            "platform": "",
+            "KUID": "i0a7416702294d328b14fe3e49f8fd7a"
+        },
+        "language": "js",
+        "eventType": "onClick",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__f9ac6a1147c44fd595853ea133577874",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "updateStatus",
+            "display": "updateStatus",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

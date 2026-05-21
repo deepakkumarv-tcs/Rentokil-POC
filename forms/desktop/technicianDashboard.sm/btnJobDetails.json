@@ -1,0 +1,62 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        16,
+        8,
+        16,
+        8
+    ],
+    "_right_": {
+        "type": "number",
+        "value": "0"
+    },
+    "_skin_": "s8330f7d58034cd39f8b39df8703732a",
+    "_text_": "Job Details",
+    "_top_": {
+        "type": "number",
+        "value": "0"
+    },
+    "_width_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "disabledSkins": {
+        "blockedUISkin": "sad650e3b554410cb830f137fe29d4c9",
+        "hoverSkin": "sacac96815eb4ea785aca546c79e8734",
+        "pressedSkin": "se7a1b37f11b4bf5828530c358dac47d"
+    },
+    "displaytext": true,
+    "focusskin": "s9749f813c6c40818b1904581d03e299",
+    "id": "btnJobDetails",
+    "ide_onClick": "AS_Button_ec955559a41e49ac9a84ee32534620ce",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "ce13082bfeea4b6dad40993a89c3ad0d",
+    "name": "kony.ui.Button",
+    "paddinginpixel": true,
+    "parent": "flxActions",
+    "pf": "technicianDashboard",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "wType": "Button",
+    "zindex": 1
+}

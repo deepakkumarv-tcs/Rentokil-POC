@@ -35,6 +35,7 @@ define({
     rentokil_db_service_request_trx_get_inputparam["serviceID"] = "NewService$rentokil_db_service_request_trx_get";
     // Query Parameter
     rentokil_db_service_request_trx_get_inputparam["$filter"] = "sr_id eq " + id;
+    
     var rentokil_db_service_request_trx_get_httpheaders = {};
     rentokil_db_service_request_trx_get_inputparam["httpheaders"] = rentokil_db_service_request_trx_get_httpheaders;
     var rentokil_db_service_request_trx_get_httpconfigs = {};
@@ -58,10 +59,11 @@ define({
     function updateCallback(status, response) {
         console.log('updateResponse ', status, response);
         if (response.opstatus === 0) {
-            voltmx.ui.Alert({
-                message: "Service updated successfully",
-                alertType: constants.ALERT_TYPE_INFO
-            });
+          const userData = {
+            message: "Technician is assigned."
+          }
+          var navObj = new kony.mvc.Navigation("popupAsg");
+          navObj.navigate(userData);
         } else {
             voltmx.ui.Alert({
                 message: "Failed to update service. Please try again.",
@@ -85,7 +87,7 @@ define({
     rentokil_db_service_request_trx_update_inputparam["serviceID"] = "NewService$rentokil_db_service_request_trx_update";
     rentokil_db_service_request_trx_update_inputparam["sr_id"] = Number(id);
     rentokil_db_service_request_trx_update_inputparam["technician_name"] = technicianName;
-
+ rentokil_db_service_request_trx_update_inputparam["service_status"] = "Assigned";
     // HTTP headers and config (empty objects are fine)
     rentokil_db_service_request_trx_update_inputparam["httpheaders"] = {};
     rentokil_db_service_request_trx_update_inputparam["httpconfig"] = {};

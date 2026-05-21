@@ -1,0 +1,77 @@
+{
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "129.41%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "sb829913a3be4f4a827425e40c22d003",
+    "_top_": {
+        "type": "string",
+        "value": "-9dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "allboxes": [],
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "children": [
+        "FlexContainer0gfffec1954fd49",
+        "Image0a1ceeb03f6ef42"
+    ],
+    "clipbounds": false,
+    "containerweight": 100,
+    "disabledSkins": {
+        "blockedUISkin": "se10403881e545c88517e38d1704fe6e",
+        "focusSkin": "s055b30cc8544a4092521d1a3c930a38"
+    },
+    "enablescrolling": true,
+    "focusskin": "",
+    "id": "flxSidebar",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "ifc6fdffc45d4220bcc104c6a754283b",
+    "layouttype": 2,
+    "name": "kony.ui.FlexContainer",
+    "parent": "flxMain",
+    "pf": "technicianDashboard",
+    "responsiveconfig": {
+        "offset": {
+            "b1": 0,
+            "b2": 0,
+            "b3": 0
+        },
+        "span": {
+            "b1": 3,
+            "b2": 4,
+            "b3": 6
+        }
+    },
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "retainflowhorizontalalignment": false,
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "wType": "FlexContainer",
+    "widgetalignment": 1
+}

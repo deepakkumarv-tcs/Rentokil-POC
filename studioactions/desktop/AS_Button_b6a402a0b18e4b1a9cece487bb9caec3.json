@@ -427,8 +427,8 @@
         }, {
             "id": "NAVIGATE_TO_FORM__j76aab0dce054640913c70f7f81a7627",
             "type": "NAVIGATE_TO_FORM",
-            "formId": "frmDashboard",
-            "formKUID": "gdce3636383e448389c5ea6f457069ec",
+            "formId": "frmSupervisorLogin",
+            "formKUID": "e3ee4e42f9574aef8e8aa96b75bc7f52",
             "projectName": "Rentokil-POC",
             "mappings": {},
             "mappingsOrder": [],

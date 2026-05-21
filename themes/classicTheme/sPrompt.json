@@ -1,0 +1,29 @@
+{
+    "android": {
+        "isForked": true
+    },
+    "background_color": "ffffffff",
+    "bg_type": "one",
+    "border_color": "33333319",
+    "border_style": "plain",
+    "border_type": 0,
+    "border_width": 1,
+    "delinkedPltfrms": {
+        "androidwear": [],
+        "desktop": [],
+        "mobile": [
+            "spaan"
+        ],
+        "tablet": [],
+        "watch": []
+    },
+    "iphone": {
+        "isForked": true
+    },
+    "isDefaultSkin": false,
+    "kuid": "se9ca400c35b43b6abf773b8d4598239",
+    "wType": "FlexContainer",
+    "windows8": {
+        "isForked": true
+    }
+}

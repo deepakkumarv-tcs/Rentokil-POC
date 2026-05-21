@@ -21,7 +21,7 @@
     "_skin_": "sc5dae78bca14699a52ec9ed461ed1b7",
     "_top_": {
         "type": "string",
-        "value": "190px"
+        "value": "360px"
     },
     "_width_": {
         "type": "string",
@@ -32,7 +32,7 @@
     "canUpdateUI": true,
     "centerx": {
         "type": "string",
-        "value": "50.01%"
+        "value": "49.06%"
     },
     "children": [
         "CopylabelServRequestID0d2b841974ab74f",

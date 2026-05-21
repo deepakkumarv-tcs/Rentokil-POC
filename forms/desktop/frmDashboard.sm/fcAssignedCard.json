@@ -36,7 +36,8 @@
     "canUpdateUI": true,
     "children": [
         "fcverticalCard",
-        "FlexContainer0g82aa90189394b"
+        "FlexContainer0g82aa90189394b",
+        "Image0bfd7d92c579d4e"
     ],
     "clipbounds": false,
     "containerweight": 100,

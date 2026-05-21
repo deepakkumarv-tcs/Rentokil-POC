@@ -15,18 +15,10 @@
         "language": "js",
         "eventType": "init",
         "actions": [{
-            "id": "INVOKE_FUNCTION__b5a802698ee44270a8a87d7c122567c6",
-            "type": "INVOKE_FUNCTION",
-            "sequenceKUID": "fetchServiceDataServCompletion",
-            "display": "fetchServiceDataServCompletion",
-            "inputparams": [{
-                "name": "id",
-                "value": "2"
-            }],
-            "parentId": null,
-            "callbackType": null,
-            "disabled": null,
-            "source": "controller"
+            "id": "ADD_SNIPPET_cf8cbceb9f564407b7b9bffd57cda61f",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "if(this.navigationContext && this.navigationContext.id) {\n  var service_id = this.navigationContext.id;\n  this.fetchServiceDataServCompletion(service_id);\n}",
+            "parentId": null
         }]
     }
 }

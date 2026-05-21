@@ -1,0 +1,270 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizForm",
+    "DNDConfig": null,
+    "FlexContainer0i7c9b4d422774b": {
+        "DNDConfig": null,
+        "__parentReadjusting__": false,
+        "_height_": {
+            "type": "string",
+            "value": "7%"
+        },
+        "_left_": {
+            "type": "string",
+            "value": "0dp"
+        },
+        "_margin_": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "_orientation_": 6,
+        "_padding_": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "_percent_": true,
+        "_skin_": "s9bbb1e782544468aef3a2f6672d64d7",
+        "_top_": {
+            "type": "string",
+            "value": "0dp"
+        },
+        "_width_": {
+            "type": "string",
+            "value": "100%"
+        },
+        "allboxes": [],
+        "autogrowmode": 0,
+        "canUpdateUI": true,
+        "children": [
+            "imgClose",
+            "lblError"
+        ],
+        "clipbounds": true,
+        "containerweight": 100,
+        "enablescrolling": true,
+        "id": "flxError",
+        "info": null,
+        "iscustomlayout": false,
+        "isvisible": false,
+        "kuid": "u62e7573372e4fa09cd84ccd2e1182f8",
+        "layouttype": 2,
+        "name": "kony.ui.FlexContainer",
+        "parent": "flxLoginWrapper",
+        "pf": "uwuf22e25c61fc428682c549716dfda927",
+        "retaincontentalignment": false,
+        "retainflexpositionproperties": false,
+        "retainflowhorizontalalignment": false,
+        "snapgridsize": 10,
+        "snaptogrid": true,
+        "wType": "FlexContainer",
+        "widgetalignment": 1,
+        "zindex": 1
+    },
+    "Image0e88f2e616c0847": {
+        "@class": "com.kony.gen.viz.model.component.KVizImage2",
+        "DNDConfig": null,
+        "__parentReadjusting__": false,
+        "_base64_": null,
+        "_height_": {
+            "type": "string",
+            "value": "90%"
+        },
+        "_left_": {
+            "type": "string",
+            "value": "0dp"
+        },
+        "_margin_": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "_padding_": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "_skin_": "s68f005a027548e98a207dd26adf70f2",
+        "_src_": "closeicon_4.png",
+        "_top_": {
+            "type": "string",
+            "value": "0dp"
+        },
+        "_width_": {
+            "type": "string",
+            "value": "10%"
+        },
+        "canUpdateUI": true,
+        "centerx": {
+            "type": "string",
+            "value": "10%"
+        },
+        "centery": {
+            "type": "string",
+            "value": "50%"
+        },
+        "containerweight": 100,
+        "context": {
+            "channel": "desktop",
+            "formID": "uwuf22e25c61fc428682c549716dfda927",
+            "templateType": "userwidgets",
+            "topLevelBox": null
+        },
+        "id": "imgClose",
+        "ide_onTouchStart": "AS_Image_de34dab8907d4966afe6982c068d2495",
+        "imagescalemode": 1,
+        "info": null,
+        "iscustomlayout": false,
+        "isvisible": true,
+        "kuid": "u44d335fe5f04832bcfd40afde48ea12",
+        "name": "kony.ui.Image2",
+        "parent": "flxError",
+        "pf": "uwuf22e25c61fc428682c549716dfda927",
+        "retaincontentalignment": false,
+        "retainflexpositionproperties": false,
+        "srcType": 1,
+        "wType": "Image",
+        "widgetalignment": 5,
+        "zindex": 1
+    },
+    "Label0d2f12dcbba424c": {
+        "@class": "com.kony.gen.viz.model.component.KVizLabel",
+        "DNDConfig": null,
+        "__parentReadjusting__": false,
+        "_height_": {
+            "type": "string",
+            "value": "100%"
+        },
+        "_left_": {
+            "type": "string",
+            "value": "0dp"
+        },
+        "_margin_": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "_padding_": [
+            0,
+            0,
+            0,
+            0
+        ],
+        "_skin_": "s49f5a4bd2304138908684706a38a67d",
+        "_text_": "Incorrect Username/Password",
+        "_top_": {
+            "type": "string",
+            "value": "0dp"
+        },
+        "_width_": {
+            "type": "string",
+            "value": "80%"
+        },
+        "_wrapping_": 2,
+        "android": {
+            "textStyle": {
+                "letterSpacing": 0,
+                "strikeThrough": false
+            }
+        },
+        "canUpdateUI": true,
+        "centerx": {
+            "type": "string",
+            "value": "55%"
+        },
+        "centery": {
+            "type": "string",
+            "value": "50%"
+        },
+        "containerweight": 100,
+        "contentalignment": 4,
+        "id": "lblError",
+        "info": null,
+        "ipad": {
+            "psp": {
+                "wrapping": 2
+            }
+        },
+        "iphone": {
+            "psp": {
+                "wrapping": 2
+            }
+        },
+        "iscustomlayout": false,
+        "isvisible": true,
+        "kuid": "ue5715fa4251426882126a2bbff7ff76",
+        "name": "kony.ui.Label",
+        "parent": "flxError",
+        "pf": "uwuf22e25c61fc428682c549716dfda927",
+        "retaincontentalignment": false,
+        "retainflexpositionproperties": false,
+        "tooltip": "",
+        "wType": "Label",
+        "zindex": 1
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 1,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "s7be522aeaf844d0b0ce4c57c6278324",
+    "_title_": null,
+    "addWidgetsdone": false,
+    "allboxes": [],
+    "canUpdateUI": true,
+    "canvasWidth": 1200,
+    "children": [
+        "Login"
+    ],
+    "containerweight": 100,
+    "currentLocale": "default",
+    "device": "desktopweb",
+    "displayorientation": 3,
+    "enabledforidletimeout": false,
+    "globalUserWidgetRefs": [
+        "ue0069c29f7c43c4adbb898554c6ae47",
+        "ucc8d8d3dfe94240bfb9bba6ac65a3dd"
+    ],
+    "id": "userwidgetmodel",
+    "info": null,
+    "initdone": false,
+    "inputaccessoryviewtype": 4,
+    "intransitionconfig": {
+        "formTransition": "None"
+    },
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "uef9624dc0e246ed8a419e496619af54",
+    "layouttype": 2,
+    "masterType": 0,
+    "name": "kony.ui.Form2",
+    "needappmenu": true,
+    "outtransitionconfig": {
+        "formTransition": "None"
+    },
+    "paddinginpixel": false,
+    "platform": "desktopweb",
+    "prevDevice": "desktopweb",
+    "prevPlatform": "desktopweb",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "retainscrollposition": false,
+    "shellCSS": "desktop",
+    "titlebar": true,
+    "type": 3,
+    "wType": "Form"
+}

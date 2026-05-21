@@ -6,7 +6,7 @@
     },
     "_left_": {
         "type": "string",
-        "value": "-6px"
+        "value": "0px"
     },
     "_margin_": [
         0,
@@ -25,7 +25,7 @@
     "_skin_": "sc283e61e2024f0f8a5eb9bdeedd13dd",
     "_top_": {
         "type": "string",
-        "value": "-2px"
+        "value": "-3px"
     },
     "_width_": {
         "type": "string",
@@ -34,7 +34,9 @@
     "allboxes": [],
     "autogrowmode": 0,
     "canUpdateUI": true,
-    "children": [],
+    "children": [
+        "Button0e291247764094f"
+    ],
     "clipbounds": false,
     "containerweight": 100,
     "disabledSkins": {

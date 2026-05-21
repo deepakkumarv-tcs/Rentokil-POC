@@ -36,7 +36,8 @@
     "canUpdateUI": true,
     "children": [
         "lblInComingRequestC",
-        "CopylblCompletedSm0a04ca503d9684c"
+        "CopylblCompletedSm0a04ca503d9684c",
+        "Image0bd02f4846b3e44"
     ],
     "clipbounds": false,
     "containerweight": 100,
