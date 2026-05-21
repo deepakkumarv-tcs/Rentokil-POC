@@ -7,7 +7,7 @@
     },
     "_left_": {
         "type": "string",
-        "value": "600dp"
+        "value": "606dp"
     },
     "_margin_": [
         1,
@@ -25,7 +25,7 @@
     "_text_": "Apartment/Road/Area",
     "_top_": {
         "type": "string",
-        "value": "104dp"
+        "value": "72dp"
     },
     "_width_": {
         "type": "ref",

@@ -7,7 +7,7 @@
     },
     "_left_": {
         "type": "string",
-        "value": "4dp"
+        "value": "13dp"
     },
     "_margin_": [
         1,
@@ -25,7 +25,7 @@
     "_text_": "Full Name",
     "_top_": {
         "type": "string",
-        "value": "198dp"
+        "value": "120dp"
     },
     "_width_": {
         "type": "ref",

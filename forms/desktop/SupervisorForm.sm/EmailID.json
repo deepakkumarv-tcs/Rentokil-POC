@@ -7,7 +7,7 @@
     },
     "_left_": {
         "type": "string",
-        "value": "2dp"
+        "value": "13dp"
     },
     "_margin_": [
         1,
@@ -25,7 +25,7 @@
     "_text_": "Email ID",
     "_top_": {
         "type": "string",
-        "value": "316dp"
+        "value": "220dp"
     },
     "_width_": {
         "type": "ref",

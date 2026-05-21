@@ -25,7 +25,7 @@
     "_text_": "Customer Information",
     "_top_": {
         "type": "string",
-        "value": "0"
+        "value": "-48dp"
     },
     "_width_": {
         "type": "ref",

@@ -2,11 +2,11 @@
     "DNDConfig": null,
     "_height_": {
         "type": "string",
-        "value": "78dp"
+        "value": "70px"
     },
     "_left_": {
         "type": "string",
-        "value": "5dp"
+        "value": "-6px"
     },
     "_margin_": [
         0,
@@ -22,22 +22,19 @@
         0
     ],
     "_percent_": true,
-    "_skin_": "s0ba6298f9084edc86f6d9542bcc3d6c",
+    "_skin_": "sc283e61e2024f0f8a5eb9bdeedd13dd",
     "_top_": {
         "type": "string",
-        "value": "4dp"
+        "value": "-2px"
     },
     "_width_": {
         "type": "string",
-        "value": "58.70%"
+        "value": "100%"
     },
     "allboxes": [],
     "autogrowmode": 0,
     "canUpdateUI": true,
-    "children": [
-        "lblInComingRequestC",
-        "CopylblCompletedSm0a04ca503d9684c"
-    ],
+    "children": [],
     "clipbounds": false,
     "containerweight": 100,
     "disabledSkins": {
@@ -46,21 +43,20 @@
     },
     "enablescrolling": true,
     "focusskin": "",
-    "id": "fcVerticalInComingC",
+    "id": "HeaderGroup",
     "info": null,
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "ec904d79281d46dc8a7da17733b25e00",
+    "kuid": "d582f9e7db8b4ace9a0bba389de5ea6e",
     "layouttype": 2,
     "name": "kony.ui.FlexContainer",
-    "parent": "fcIncomingC",
-    "pf": "frmDashboard",
+    "parent": "frmTechnicianDashboard",
+    "pf": "frmTechnicianDashboard",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
     "retainflowhorizontalalignment": false,
-    "snapgridsize": 10,
+    "snapgridsize": "10",
     "snaptogrid": true,
     "wType": "FlexContainer",
-    "widgetalignment": 1,
-    "zindex": 1
+    "widgetalignment": 1
 }

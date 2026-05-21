@@ -7,7 +7,7 @@
     },
     "_left_": {
         "type": "string",
-        "value": "13dp"
+        "value": "49dp"
     },
     "_margin_": [
         1,
@@ -21,11 +21,11 @@
         0,
         0
     ],
-    "_skin_": "s3091b1990c9403cb6d2304710192d84",
-    "_text_": "10",
+    "_skin_": "sc8640c57225439ba8bc513628be6b87",
+    "_text_": "Messages",
     "_top_": {
         "type": "string",
-        "value": "5dp"
+        "value": "100dp"
     },
     "_width_": {
         "type": "ref",
@@ -41,7 +41,7 @@
     "canUpdateUI": true,
     "containerweight": 100,
     "contentalignment": 4,
-    "id": "CopylblBigCompletedC0ca3976e4b95647",
+    "id": "CopylblUserMgt0cf40c93a40fb44",
     "info": null,
     "ipad": {
         "psp": {
@@ -55,10 +55,10 @@
     },
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "cb81f7916e6c4e5f8ced2f2f1a520435",
+    "kuid": "jacba2ab015e4687a7e7fc8531cd5167",
     "name": "kony.ui.Label",
-    "parent": "fcVerticalInComingC",
-    "pf": "frmDashboard",
+    "parent": "flxCntrMenu",
+    "pf": "frmTechnicianDashboard",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
     "tooltip": "",

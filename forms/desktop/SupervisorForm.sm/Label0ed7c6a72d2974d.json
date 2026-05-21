@@ -22,7 +22,7 @@
         0
     ],
     "_skin_": "s31da75293db474388e1b177c2b6c170",
-    "_text_": "Booking ID",
+    "_text_": "Booking Details",
     "_top_": {
         "type": "string",
         "value": "16dp"

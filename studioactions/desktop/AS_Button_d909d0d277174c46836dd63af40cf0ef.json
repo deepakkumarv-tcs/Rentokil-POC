@@ -15,22 +15,13 @@
         "language": "js",
         "eventType": "onClick",
         "actions": [{
-            "id": "SHOW_ALERT_h1587c057864416d8c4789b55207f13c",
-            "type": "SHOW_ALERT",
-            "alertType": "constants.ALERT_TYPE_CONFIRMATION",
-            "alertTitle": "Assigned ",
-            "yesLabel": "Yes",
-            "noLabel": "No",
-            "alertIcon": null,
-            "alertMessage": "Assigned to New",
-            "messageType": "constant",
-            "alertHandler": null,
-            "alertTitlei18n": null,
-            "yesLabeli18n": null,
-            "noLabeli18n": null,
-            "alertMessagei18n": null,
-            "iconPosition": "constants.ALERT_ICON_POSITION_LEFT",
-            "disabled": null
+            "id": "INVOKE_FUNCTION__edc8460dca0b43abbe4e81524374216f",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "updateStatus",
+            "display": "updateStatus",
+            "inputparams": [],
+            "disabled": null,
+            "source": "controller"
         }]
     }
 }

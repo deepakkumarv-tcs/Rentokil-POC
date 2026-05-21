@@ -17,7 +17,7 @@
         "actions": [{
             "id": "ADD_SNIPPET_dd1ab0c8ebdf4489be3664bc793e7af5",
             "type": "ADD_SNIPPET",
-            "codeSnippet": "console.log(this,'test');\nthis.testcall(1);\n//this.invokeServiceRequest('1');\n//read previous form data\n//call api service",
+            "codeSnippet": "let serviceId = 1;\n console.log('this.navigationContext ', this.navigationContext);\n\nif (this.navigationContext) {\n  serviceId = this.navigationContext.sr_id;\n } \nthis.testcall(serviceId);\n//this.invokeServiceRequest('1');\n//read previous form data\n//call api service",
             "parentId": null
         }]
     }

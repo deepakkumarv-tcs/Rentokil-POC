@@ -7,7 +7,7 @@
     },
     "_left_": {
         "type": "string",
-        "value": "6dp"
+        "value": "13dp"
     },
     "_margin_": [
         1,
@@ -25,7 +25,7 @@
     "_text_": "Pest Type",
     "_top_": {
         "type": "string",
-        "value": "558dp"
+        "value": "310dp"
     },
     "_width_": {
         "type": "ref",

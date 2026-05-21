@@ -7,7 +7,7 @@
     },
     "_left_": {
         "type": "string",
-        "value": "0dp"
+        "value": "8dp"
     },
     "_margin_": [
         1,
@@ -25,7 +25,7 @@
     "_text_": "Booking ID",
     "_top_": {
         "type": "string",
-        "value": "90dp"
+        "value": "0dp"
     },
     "_width_": {
         "type": "ref",

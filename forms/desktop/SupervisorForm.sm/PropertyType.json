@@ -7,7 +7,7 @@
     },
     "_left_": {
         "type": "string",
-        "value": "0dp"
+        "value": "13dp"
     },
     "_margin_": [
         1,
@@ -25,7 +25,7 @@
     "_text_": "Property Type",
     "_top_": {
         "type": "string",
-        "value": "436dp"
+        "value": "426dp"
     },
     "_width_": {
         "type": "ref",

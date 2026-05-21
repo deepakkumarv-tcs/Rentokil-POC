@@ -7,7 +7,7 @@
     },
     "_left_": {
         "type": "string",
-        "value": "604dp"
+        "value": "50dp"
     },
     "_margin_": [
         1,
@@ -21,11 +21,11 @@
         0,
         0
     ],
-    "_skin_": "s221fa34ce4d49439d34950a7f1d3ef2",
-    "_text_": "Pincode",
+    "_skin_": "sc8640c57225439ba8bc513628be6b87",
+    "_text_": "All jobs",
     "_top_": {
         "type": "string",
-        "value": "400dp"
+        "value": "67dp"
     },
     "_width_": {
         "type": "ref",
@@ -41,7 +41,7 @@
     "canUpdateUI": true,
     "containerweight": 100,
     "contentalignment": 4,
-    "id": "Pincode",
+    "id": "lblUserMgt",
     "info": null,
     "ipad": {
         "psp": {
@@ -55,10 +55,10 @@
     },
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "a058b7903342482c971737a5507f0be7",
+    "kuid": "a5d222470a91473a95a4ca233acf8dc9",
     "name": "kony.ui.Label",
-    "parent": "FlexContainer0afdf82f56dac4f",
-    "pf": "SupervisorForm",
+    "parent": "flxCntrMenu",
+    "pf": "frmTechnicianDashboard",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
     "tooltip": "",

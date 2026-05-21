@@ -7,7 +7,7 @@
     },
     "_left_": {
         "type": "string",
-        "value": "610dp"
+        "value": "604dp"
     },
     "_margin_": [
         1,
@@ -25,7 +25,7 @@
     "_text_": "Country",
     "_top_": {
         "type": "string",
-        "value": "342dp"
+        "value": "275dp"
     },
     "_width_": {
         "type": "ref",

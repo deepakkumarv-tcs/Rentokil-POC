@@ -7,7 +7,7 @@
     },
     "_left_": {
         "type": "string",
-        "value": "2dp"
+        "value": "10dp"
     },
     "_margin_": [
         1,
@@ -25,7 +25,7 @@
     "_text_": "City",
     "_top_": {
         "type": "string",
-        "value": "226dp"
+        "value": "178dp"
     },
     "_width_": {
         "type": "ref",

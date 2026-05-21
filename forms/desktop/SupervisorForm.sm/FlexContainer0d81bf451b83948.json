@@ -22,7 +22,7 @@
         0
     ],
     "_percent_": true,
-    "_skin_": "s14ebf58e48c4a40af07cee359964bb6",
+    "_skin_": "sc2e7284b5a6403c83cd3bfa682f6da9",
     "_top_": {
         "type": "string",
         "value": "100dp"
@@ -34,7 +34,9 @@
     "allboxes": [],
     "autogrowmode": 0,
     "canUpdateUI": true,
-    "children": [],
+    "children": [
+        "Map0j49aea507f8540"
+    ],
     "clipbounds": false,
     "containerweight": 100,
     "disabledSkins": {
@@ -59,5 +61,5 @@
     "snaptogrid": true,
     "wType": "FlexContainer",
     "widgetalignment": 1,
-    "zindex": 1
+    "zindex": 2
 }
